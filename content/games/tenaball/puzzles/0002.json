@@ -1,0 +1,64 @@
+{
+  "id": "0002",
+  "game": "tenaball",
+  "publishDate": "2026-05-06",
+  "category": "legends",
+  "question": "Top 10 all-time Premier League goalscorers",
+  "subtitle": "Goals scored only in the Premier League era since 1992/93.",
+  "source": "Approximate career totals through April 2026.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_alan_shearer",
+      "meta": "260 goals"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_harry_kane",
+      "meta": "213 goals"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_wayne_rooney",
+      "meta": "208 goals"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_andy_cole",
+      "meta": "187 goals"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_sergio_aguero",
+      "meta": "184 goals"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_frank_lampard",
+      "meta": "177 goals"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_thierry_henry",
+      "meta": "175 goals"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_robbie_fowler",
+      "meta": "163 goals"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_jermain_defoe",
+      "meta": "162 goals"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_michael_owen",
+      "meta": "150 goals"
+    }
+  ]
+}

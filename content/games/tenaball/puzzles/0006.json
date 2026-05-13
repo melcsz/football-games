@@ -1,0 +1,64 @@
+{
+  "id": "0006",
+  "game": "tenaball",
+  "publishDate": "2026-05-10",
+  "category": "current",
+  "question": "Top 10 Premier League goalscorers (2025/26 season)",
+  "subtitle": "Ranked by goals in the PL only through early May 2026 — illustrative season snapshot.",
+  "source": "Example editorial list for the MVP — update weekly in production.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_erling_haaland",
+      "meta": "27 goals (example)"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_mohamed_salah",
+      "meta": "22 goals (example)"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_alexander_isak",
+      "meta": "19 goals (example)"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_ollie_watkins",
+      "meta": "18 goals (example)"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_chris_wood",
+      "meta": "17 goals (example)"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_jean_philippe_mateta",
+      "meta": "16 goals (example)"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_cody_gakpo",
+      "meta": "15 goals (example)"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_richarlison",
+      "meta": "14 goals (example)"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_bryan_mbeumo",
+      "meta": "13 goals (example)"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_joao_pedro",
+      "meta": "13 goals (example)"
+    }
+  ]
+}

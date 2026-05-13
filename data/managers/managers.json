@@ -1,0 +1,12 @@
+[
+  {"id": "mg_alex_ferguson", "kind": "manager", "name": "Alex Ferguson", "countryId": "co_england", "aliases": ["sir alex", "sir alex ferguson", "ferguson"]},
+  {"id": "mg_bob_paisley", "kind": "manager", "name": "Bob Paisley", "countryId": "co_england", "aliases": ["paisley"]},
+  {"id": "mg_brian_clough", "kind": "manager", "name": "Brian Clough", "countryId": "co_england", "aliases": ["clough"]},
+  {"id": "mg_carlo_ancelotti", "kind": "manager", "name": "Carlo Ancelotti", "countryId": "co_italy", "aliases": ["ancelotti"]},
+  {"id": "mg_jupp_heynckes", "kind": "manager", "name": "Jupp Heynckes", "countryId": "co_germany", "aliases": ["heynckes"]},
+  {"id": "mg_jose_mourinho", "kind": "manager", "name": "José Mourinho", "countryId": "co_portugal", "aliases": ["mourinho", "jose mourinho", "the special one"]},
+  {"id": "mg_ottmar_hitzfeld", "kind": "manager", "name": "Ottmar Hitzfeld", "countryId": "co_germany", "aliases": ["hitzfeld"]},
+  {"id": "mg_pep_guardiola", "kind": "manager", "name": "Pep Guardiola", "countryId": "co_spain", "aliases": ["guardiola", "pep"]},
+  {"id": "mg_vicente_del_bosque", "kind": "manager", "name": "Vicente del Bosque", "countryId": "co_spain", "aliases": ["del bosque"]},
+  {"id": "mg_zinedine_zidane", "kind": "manager", "name": "Zinedine Zidane", "countryId": "co_france", "aliases": ["zidane", "zizou"]}
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "lg_bundesliga", "kind": "league", "name": "Bundesliga", "countryId": "co_germany"},
+  {"id": "lg_la_liga", "kind": "league", "name": "La Liga", "countryId": "co_spain"},
+  {"id": "lg_ligue_1", "kind": "league", "name": "Ligue 1", "countryId": "co_france"},
+  {"id": "lg_premier_league", "kind": "league", "name": "Premier League", "countryId": "co_england"},
+  {"id": "lg_serie_a", "kind": "league", "name": "Serie A", "countryId": "co_italy"},
+  {"id": "lg_uefa_champions_league", "kind": "league", "name": "UEFA Champions League"}
+]

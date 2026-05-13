@@ -1,0 +1,21 @@
+{
+  "id": "0001",
+  "game": "SECRET_PLAYER",
+  "publishDate": "2026-05-12",
+  "hints": [
+    "Left-footed forward who became the face of an era at Barcelona.",
+    "Won the 2022 World Cup as Argentina captain.",
+    "Played senior football in Spain, France, and the United States."
+  ],
+  "answerId": "pl_lionel_messi",
+  "closeGuesses": [
+    {
+      "name": "Cristiano Ronaldo",
+      "message": "Same era, same impossible standards, but this secret player lifted the World Cup in Qatar."
+    },
+    {
+      "name": "Neymar",
+      "message": "Barcelona connection is live, but the answer captained Argentina."
+    }
+  ]
+}

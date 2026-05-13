@@ -6,21 +6,35 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "data:import:players": "tsx scripts/import-wikidata-players.ts",
+    "data:combine:players": "tsx scripts/combine-wikidata-players.ts",
+    "data:score:players": "tsx scripts/score-player-relevance.ts",
+    "data:promote:players": "tsx scripts/promote-players.ts"
   },
   "dependencies": {
+    "@vercel/og": "^0.11.1",
+    "framer-motion": "^12.38.0",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.35"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/jsdom": "^28.0.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
+    "jsdom": "^29.1.1",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.35"
+    "tsx": "^4.19.3",
+    "typescript": "^5",
+    "vitest": "^4.1.5"
   }
 }

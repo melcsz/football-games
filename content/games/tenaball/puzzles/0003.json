@@ -1,0 +1,64 @@
+{
+  "id": "0003",
+  "game": "tenaball",
+  "publishDate": "2026-05-07",
+  "category": "legends",
+  "question": "Top 10 men's FIFA World Cup goalscorers (all-time)",
+  "subtitle": "Total goals across World Cup tournaments. Ties: more goals first, then alphabetical by surname.",
+  "source": "Approximate totals through 2022 World Cup.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_miroslav_klose",
+      "meta": "16 goals"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_ronaldo_nazario",
+      "meta": "15 goals"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_gerd_muller",
+      "meta": "14 goals"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_just_fontaine",
+      "meta": "13 goals"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_lionel_messi",
+      "meta": "13 goals"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_kylian_mbappe",
+      "meta": "12 goals"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_pele",
+      "meta": "12 goals"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_gabriel_batistuta",
+      "meta": "10 goals"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_gary_lineker",
+      "meta": "10 goals"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_thomas_muller",
+      "meta": "10 goals"
+    }
+  ]
+}

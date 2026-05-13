@@ -1,0 +1,7632 @@
+[
+  {
+    "id": "pl_aaron_ramsey",
+    "kind": "player",
+    "name": "Aaron Ramsey",
+    "aliases": [
+      "Aaron James Ramsey"
+    ],
+    "wikidataQid": "Q213427",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_alan_shearer",
+    "kind": "player",
+    "name": "Alan Shearer",
+    "wikidataQid": "Q483583",
+    "position": "FW",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_alberto_gilardino",
+    "kind": "player",
+    "name": "Alberto Gilardino",
+    "wikidataQid": "Q182451",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_alessandro_del_piero",
+    "kind": "player",
+    "name": "Alessandro Del Piero",
+    "aliases": [
+      "Pinturicchio",
+      "Alex Del Piero"
+    ],
+    "wikidataQid": "Q624",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1974
+  },
+  {
+    "id": "pl_alexis_sanchez",
+    "kind": "player",
+    "name": "Alexis Sánchez",
+    "aliases": [
+      "Alexis Sanchez",
+      "Alexis Alejandro Sanchez Sanchez",
+      "Alexis Alejandro Sánchez Sánchez"
+    ],
+    "wikidataQid": "Q180553",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_alfredo_di_stefano",
+    "kind": "player",
+    "name": "Alfredo Di Stéfano",
+    "aliases": [
+      "Alfredo Di Stefano",
+      "Alfredo Stefano di Stefano Laulhe"
+    ],
+    "wikidataQid": "Q164546",
+    "position": "FW",
+    "birthYear": 1926
+  },
+  {
+    "id": "pl_alvaro_arbeloa",
+    "kind": "player",
+    "name": "Álvaro Arbeloa",
+    "aliases": [
+      "Alvaro Arbeloa",
+      "Arbeloa"
+    ],
+    "wikidataQid": "Q250901",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_alvaro_morata",
+    "kind": "player",
+    "name": "Álvaro Morata",
+    "aliases": [
+      "Álvaro Borja Morata Martín"
+    ],
+    "wikidataQid": "Q48770",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_andre_schurrle",
+    "kind": "player",
+    "name": "André Schürrle",
+    "aliases": [
+      "Andre Horst Schuerrle",
+      "Andre Horst Schurrle",
+      "André Horst Schürrle",
+      "Andre Schuerrle",
+      "Andre Schurrle",
+      "Schuerrle, Andre",
+      "Schurrle, Andre",
+      "Schürrle, André"
+    ],
+    "wikidataQid": "Q58377",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_andrea_pirlo",
+    "kind": "player",
+    "name": "Andrea Pirlo",
+    "wikidataQid": "Q43926",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_andres_iniesta",
+    "kind": "player",
+    "name": "Andrés Iniesta",
+    "aliases": [
+      "Andrés Iniesta Luján"
+    ],
+    "wikidataQid": "Q43729",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_andrey_arshavin",
+    "kind": "player",
+    "name": "Andrey Arshavin",
+    "aliases": [
+      "Andrei Arshavin",
+      "Andrei Sergeyevich Arshavin",
+      "Andrey Sergeevich Arshavin"
+    ],
+    "wikidataQid": "Q47230",
+    "countryId": "co_russia",
+    "position": "MF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_andriy_shevchenko",
+    "kind": "player",
+    "name": "Andriy Shevchenko",
+    "aliases": [
+      "Andriy Mykolayovych Shevchenko"
+    ],
+    "wikidataQid": "Q41244",
+    "position": "FW",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_antoine_griezmann",
+    "kind": "player",
+    "name": "Antoine Griezmann",
+    "wikidataQid": "Q455462",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_antonio_conte",
+    "kind": "player",
+    "name": "Antonio Conte",
+    "wikidataQid": "Q26580",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_antonio_valencia",
+    "kind": "player",
+    "name": "Antonio Valencia",
+    "aliases": [
+      "Luis Antonio Valencia Mosqueras"
+    ],
+    "wikidataQid": "Q174486",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_arda_turan",
+    "kind": "player",
+    "name": "Arda Turan",
+    "wikidataQid": "Q487459",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_arjen_robben",
+    "kind": "player",
+    "name": "Arjen Robben",
+    "wikidataQid": "Q43913",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_arthur_antunes_coimbra",
+    "kind": "player",
+    "name": "Arthur Antunes Coimbra",
+    "aliases": [
+      "Zico"
+    ],
+    "wikidataQid": "Q47526",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1953
+  },
+  {
+    "id": "pl_ashley_cole",
+    "kind": "player",
+    "name": "Ashley Cole",
+    "wikidataQid": "Q133556",
+    "position": "DF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_bacary_sagna",
+    "kind": "player",
+    "name": "Bacary Sagna",
+    "wikidataQid": "Q1938",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_bastian_schweinsteiger",
+    "kind": "player",
+    "name": "Bastian Schweinsteiger",
+    "wikidataQid": "Q44298",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_bebeto",
+    "kind": "player",
+    "name": "Bebeto",
+    "aliases": [
+      "Bebeto Tetra",
+      "José Roberto Gama de Oliveira"
+    ],
+    "wikidataQid": "Q204825",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_bobby_charlton",
+    "kind": "player",
+    "name": "Bobby Charlton",
+    "aliases": [
+      "Robert Charlton",
+      "Sir Bobby Charlton",
+      "Sir Robert Charlton"
+    ],
+    "wikidataQid": "Q171583",
+    "position": "MF",
+    "birthYear": 1937
+  },
+  {
+    "id": "pl_branislav_ivanovic",
+    "kind": "player",
+    "name": "Branislav Ivanović",
+    "wikidataQid": "Q181921",
+    "countryId": "co_serbia",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_bukayo_saka",
+    "kind": "player",
+    "name": "Bukayo Saka",
+    "aliases": [
+      "Bukayo Ayoyinka Temidayo Moses Saka"
+    ],
+    "wikidataQid": "Q59306386",
+    "position": "FW",
+    "birthYear": 2001
+  },
+  {
+    "id": "pl_cafu",
+    "kind": "player",
+    "name": "Cafu",
+    "aliases": [
+      "Marcos Cafu",
+      "Marcos Evangelista de Moraes"
+    ],
+    "wikidataQid": "Q178683",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_carles_puyol",
+    "kind": "player",
+    "name": "Carles Puyol",
+    "aliases": [
+      "Carles Puyol Saforcada"
+    ],
+    "wikidataQid": "Q17158",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_carlo_ancelotti",
+    "kind": "player",
+    "name": "Carlo Ancelotti",
+    "aliases": [
+      "Carlo Michelangelo Ancelotti"
+    ],
+    "wikidataQid": "Q174614",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1959
+  },
+  {
+    "id": "pl_carlos_tevez",
+    "kind": "player",
+    "name": "Carlos Tevez",
+    "aliases": [
+      "Apache Tevez",
+      "Carlitos Tevez",
+      "Carlos Alberto Tevez"
+    ],
+    "wikidataQid": "Q50600",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_casemiro",
+    "kind": "player",
+    "name": "Casemiro",
+    "aliases": [
+      "Carlos Henrique Casemiro"
+    ],
+    "wikidataQid": "Q616664",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_cesar_azpilicueta",
+    "kind": "player",
+    "name": "César Azpilicueta",
+    "aliases": [
+      "César Azpilicueta Tanco"
+    ],
+    "wikidataQid": "Q294806",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_cesc_fabregas",
+    "kind": "player",
+    "name": "Cesc Fàbregas",
+    "aliases": [
+      "Cesc Fabregas",
+      "Francesc Fabregas Soler",
+      "Francesc Fàbregas Soler"
+    ],
+    "wikidataQid": "Q17499",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_christian_eriksen",
+    "kind": "player",
+    "name": "Christian Eriksen",
+    "aliases": [
+      "Christian Dannemann Eriksen"
+    ],
+    "wikidataQid": "Q294951",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_dani_carvajal",
+    "kind": "player",
+    "name": "Dani Carvajal",
+    "aliases": [
+      "Daniel Carvajal Ramos"
+    ],
+    "wikidataQid": "Q127452",
+    "countryId": "co_spain",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_daniel_alves",
+    "kind": "player",
+    "name": "Daniel Alves",
+    "aliases": [
+      "Dani Alves",
+      "Daniel Alves da Silva"
+    ],
+    "wikidataQid": "Q172720",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_david_alaba",
+    "kind": "player",
+    "name": "David Alaba",
+    "wikidataQid": "Q31981",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_david_beckham",
+    "kind": "player",
+    "name": "David Beckham",
+    "aliases": [
+      "Becks",
+      "Beckham",
+      "David Robert Joseph Beckham",
+      "Sir David Beckham",
+      "Sir David Robert Joseph Beckham"
+    ],
+    "wikidataQid": "Q10520",
+    "position": "MF",
+    "birthYear": 1975
+  },
+  {
+    "id": "pl_david_de_gea",
+    "kind": "player",
+    "name": "David de Gea",
+    "aliases": [
+      "David de Gea Quintana",
+      "De Gea"
+    ],
+    "wikidataQid": "Q150268",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_david_silva",
+    "kind": "player",
+    "name": "David Silva",
+    "aliases": [
+      "David Josué Jiménez Silva"
+    ],
+    "wikidataQid": "Q161069",
+    "countryId": "co_spain",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_david_trezeguet",
+    "kind": "player",
+    "name": "David Trezeguet",
+    "aliases": [
+      "David Sergio Trezeguet"
+    ],
+    "wikidataQid": "Q183967",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_david_villa",
+    "kind": "player",
+    "name": "David Villa",
+    "aliases": [
+      "David Villa Sánchez"
+    ],
+    "wikidataQid": "Q83006",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_davor_suker",
+    "kind": "player",
+    "name": "Davor Šuker",
+    "wikidataQid": "Q189217",
+    "position": "FW",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_deco",
+    "kind": "player",
+    "name": "Deco",
+    "aliases": [
+      "Anderson Luís de Souza"
+    ],
+    "wikidataQid": "Q659634",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_dennis_bergkamp",
+    "kind": "player",
+    "name": "Dennis Bergkamp",
+    "aliases": [
+      "Dennis Nicolaas Maria Bergkamp"
+    ],
+    "wikidataQid": "Q185389",
+    "position": "FW",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_didier_deschamps",
+    "kind": "player",
+    "name": "Didier Deschamps",
+    "aliases": [
+      "Didier Claude Deschamps"
+    ],
+    "wikidataQid": "Q508711",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_didier_drogba",
+    "kind": "player",
+    "name": "Didier Drogba",
+    "aliases": [
+      "Dahizoko",
+      "Didier Yves Drogba Tebily",
+      "Didier Yves Drogba Tébily",
+      "Gbagbadè"
+    ],
+    "wikidataQid": "Q48892",
+    "position": "FW",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_diego_costa",
+    "kind": "player",
+    "name": "Diego Costa",
+    "aliases": [
+      "Diego da Silva Costa"
+    ],
+    "wikidataQid": "Q459707",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_diego_forlan",
+    "kind": "player",
+    "name": "Diego Forlán",
+    "aliases": [
+      "Diego Forlan",
+      "Diego Forlan Corazo",
+      "Diego Forlán Corazo"
+    ],
+    "wikidataQid": "Q261534",
+    "countryId": "co_uruguay",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_diego_godin",
+    "kind": "player",
+    "name": "Diego Godín",
+    "aliases": [
+      "Diego Roberto Godín Leal"
+    ],
+    "wikidataQid": "Q214903",
+    "countryId": "co_uruguay",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_diego_maradona",
+    "kind": "player",
+    "name": "Diego Maradona",
+    "aliases": [
+      "Maradona",
+      "Diego Armando Maradona"
+    ],
+    "wikidataQid": "Q17515",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_diego_simeone",
+    "kind": "player",
+    "name": "Diego Simeone",
+    "aliases": [
+      "Cholo",
+      "Cholo Simeone",
+      "El Cholo",
+      "Simeone",
+      "Diego P. Simeone",
+      "Diego Pablo Simeone",
+      "Diego Pablo Simeone González"
+    ],
+    "wikidataQid": "Q258115",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_dino_zoff",
+    "kind": "player",
+    "name": "Dino Zoff",
+    "wikidataQid": "Q180661",
+    "countryId": "co_italy",
+    "position": "GK",
+    "birthYear": 1942
+  },
+  {
+    "id": "pl_diogo_jota",
+    "kind": "player",
+    "name": "Diogo Jota",
+    "aliases": [
+      "Diogo Jose Teixeira da Silva",
+      "Diogo José Teixeira da Silva"
+    ],
+    "wikidataQid": "Q19518278",
+    "countryId": "co_portugal",
+    "position": "FW",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_dirk_kuyt",
+    "kind": "player",
+    "name": "Dirk Kuyt",
+    "aliases": [
+      "Dirk Kuijt"
+    ],
+    "wikidataQid": "Q294214",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_divock_origi_kolman",
+    "kind": "player",
+    "name": "Divock Origi kolman",
+    "wikidataQid": "Q4254043",
+    "countryId": "co_belgium",
+    "position": "FW",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_dunga",
+    "kind": "player",
+    "name": "Dunga",
+    "aliases": [
+      "Carlos Caetano Bledorn Verri"
+    ],
+    "wikidataQid": "Q215890",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_eden_hazard",
+    "kind": "player",
+    "name": "Eden Hazard",
+    "aliases": [
+      "Eden Michael Walter Lucien Hazard"
+    ],
+    "wikidataQid": "Q214204",
+    "countryId": "co_belgium",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_edinson_cavani",
+    "kind": "player",
+    "name": "Edinson Cavani",
+    "wikidataQid": "Q167790",
+    "countryId": "co_uruguay",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_edwin_van_der_sar",
+    "kind": "player",
+    "name": "Edwin van der Sar",
+    "wikidataQid": "Q482955",
+    "position": "GK",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_emmanuel_adebayor",
+    "kind": "player",
+    "name": "Emmanuel Adebayor",
+    "wikidataQid": "Q386876",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_eric_abidal",
+    "kind": "player",
+    "name": "Eric Abidal",
+    "aliases": [
+      "Éric Abidal",
+      "Eric Sylvain Abidal"
+    ],
+    "wikidataQid": "Q1935",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_eric_cantona",
+    "kind": "player",
+    "name": "Eric Cantona",
+    "aliases": [
+      "Éric Cantona",
+      "Eric Daniel Pierre Cantona",
+      "Éric Daniel Pierre Cantona",
+      "Eric the Red"
+    ],
+    "wikidataQid": "Q170328",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1966
+  },
+  {
+    "id": "pl_erling_haaland",
+    "kind": "player",
+    "name": "Erling Haaland",
+    "aliases": [
+      "Erling Braut Haaland",
+      "Erling Braut Håland",
+      "Erling Håland"
+    ],
+    "wikidataQid": "Q28967995",
+    "countryId": "co_norway",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_fabio_cannavaro",
+    "kind": "player",
+    "name": "Fabio Cannavaro",
+    "aliases": [
+      "Il muro de Berlino"
+    ],
+    "wikidataQid": "Q102027",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_fabio_coentrao",
+    "kind": "player",
+    "name": "Fábio Coentrão",
+    "wikidataQid": "Q484384",
+    "countryId": "co_portugal",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_ferenc_puskas",
+    "kind": "player",
+    "name": "Ferenc Puskás",
+    "aliases": [
+      "Puskas",
+      "Ferenc Purczeld",
+      "Ferenc Purczeld Biro",
+      "Ferenc Purczeld Biró",
+      "Ferenc Puskas"
+    ],
+    "wikidataQid": "Q482931",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1927
+  },
+  {
+    "id": "pl_fernando_torres",
+    "kind": "player",
+    "name": "Fernando Torres",
+    "aliases": [
+      "Fernando José Torres Sanz"
+    ],
+    "wikidataQid": "Q42731",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_filippo_inzaghi",
+    "kind": "player",
+    "name": "Filippo Inzaghi",
+    "aliases": [
+      "Pippo Inzaghi"
+    ],
+    "wikidataQid": "Q126503",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_francesco_totti",
+    "kind": "player",
+    "name": "Francesco Totti",
+    "aliases": [
+      "Totti"
+    ],
+    "wikidataQid": "Q20110",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_franck_ribery",
+    "kind": "player",
+    "name": "Franck Ribéry",
+    "aliases": [
+      "Franck Henry Pierre Ribery",
+      "Franck Henry Pierre Ribéry",
+      "Franck Ribery"
+    ],
+    "wikidataQid": "Q1918",
+    "countryId": "co_france",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_frank_lampard",
+    "kind": "player",
+    "name": "Frank Lampard",
+    "aliases": [
+      "Frank James Lampard"
+    ],
+    "wikidataQid": "Q41533",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_frank_rijkaard",
+    "kind": "player",
+    "name": "Frank Rijkaard",
+    "aliases": [
+      "Franklin Edmundo Rijkaard"
+    ],
+    "wikidataQid": "Q169098",
+    "position": "MF",
+    "birthYear": 1962
+  },
+  {
+    "id": "pl_franz_beckenbauer",
+    "kind": "player",
+    "name": "Franz Beckenbauer",
+    "aliases": [
+      "Der Kaiser"
+    ],
+    "wikidataQid": "Q4457",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1945
+  },
+  {
+    "id": "pl_freddie_ljungberg",
+    "kind": "player",
+    "name": "Freddie Ljungberg",
+    "aliases": [
+      "Fredrik Ljungberg",
+      "Karl Fredrik Ljungberg"
+    ],
+    "wikidataQid": "Q10560",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_gabriel_batistuta",
+    "kind": "player",
+    "name": "Gabriel Batistuta",
+    "aliases": [
+      "Gabriel Omar Batistuta"
+    ],
+    "wikidataQid": "Q170376",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_gareth_bale",
+    "kind": "player",
+    "name": "Gareth Bale",
+    "aliases": [
+      "Gareth Frank Bale"
+    ],
+    "wikidataQid": "Q184586",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_gary_lineker",
+    "kind": "player",
+    "name": "Gary Lineker",
+    "aliases": [
+      "Gary Winston Lineker"
+    ],
+    "wikidataQid": "Q47778",
+    "position": "FW",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_gary_neville",
+    "kind": "player",
+    "name": "Gary Neville",
+    "aliases": [
+      "Gary Alexander Neville"
+    ],
+    "wikidataQid": "Q348857",
+    "position": "DF",
+    "birthYear": 1975
+  },
+  {
+    "id": "pl_gennaro_gattuso",
+    "kind": "player",
+    "name": "Gennaro Gattuso",
+    "aliases": [
+      "Gennaro Ivan Gattuso",
+      "Rino Gattuso"
+    ],
+    "wikidataQid": "Q116980",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_george_best",
+    "kind": "player",
+    "name": "George Best",
+    "aliases": [
+      "Georgie Best"
+    ],
+    "wikidataQid": "Q164521",
+    "birthYear": 1946
+  },
+  {
+    "id": "pl_george_weah",
+    "kind": "player",
+    "name": "George Weah",
+    "aliases": [
+      "George Manneh Oppong Weah"
+    ],
+    "wikidataQid": "Q173139",
+    "position": "FW",
+    "birthYear": 1966
+  },
+  {
+    "id": "pl_gerard_pique",
+    "kind": "player",
+    "name": "Gerard Piqué",
+    "aliases": [
+      "Gerard Pique",
+      "Gerard Pique Bernabeu",
+      "Gerard Piqué Bernabéu"
+    ],
+    "wikidataQid": "Q17507",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_gerd_muller",
+    "kind": "player",
+    "name": "Gerd Müller",
+    "wikidataQid": "Q43744",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1945
+  },
+  {
+    "id": "pl_gheorghe_hagi",
+    "kind": "player",
+    "name": "Gheorghe Hagi",
+    "aliases": [
+      "Gică",
+      "Aleluia"
+    ],
+    "wikidataQid": "Q189892",
+    "position": "MF",
+    "birthYear": 1965
+  },
+  {
+    "id": "pl_gianluigi_buffon",
+    "kind": "player",
+    "name": "Gianluigi Buffon",
+    "aliases": [
+      "Buffon",
+      "Gigi Buffon"
+    ],
+    "wikidataQid": "Q68060",
+    "countryId": "co_italy",
+    "position": "GK",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_giorgio_chiellini",
+    "kind": "player",
+    "name": "Giorgio Chiellini",
+    "wikidataQid": "Q80306",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_giuseppe_meazza",
+    "kind": "player",
+    "name": "Giuseppe Meazza",
+    "wikidataQid": "Q192131",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1910
+  },
+  {
+    "id": "pl_gonzalo_higuain",
+    "kind": "player",
+    "name": "Gonzalo Higuaín",
+    "wikidataQid": "Q483846",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_harry_kane",
+    "kind": "player",
+    "name": "Harry Kane",
+    "aliases": [
+      "Harry Edward Kane"
+    ],
+    "wikidataQid": "Q969725",
+    "position": "FW",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_harry_maguire",
+    "kind": "player",
+    "name": "Harry Maguire",
+    "aliases": [
+      "Jacob Harry Maguire",
+      "Harry Jacob Maguire"
+    ],
+    "wikidataQid": "Q165772",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_henrikh_mkhitaryan",
+    "kind": "player",
+    "name": "Henrikh Mkhitaryan",
+    "aliases": [
+      "Mkhitaryan, Henrikh"
+    ],
+    "wikidataQid": "Q196219",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_hernan_crespo",
+    "kind": "player",
+    "name": "Hernán Crespo",
+    "aliases": [
+      "Hernan Crespo",
+      "Hernán Jorge Crespo"
+    ],
+    "wikidataQid": "Q160206",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1975
+  },
+  {
+    "id": "pl_hidetoshi_nakata",
+    "kind": "player",
+    "name": "Hidetoshi Nakata",
+    "wikidataQid": "Q128725",
+    "position": "MF",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_hristo_stoichkov",
+    "kind": "player",
+    "name": "Hristo Stoichkov",
+    "aliases": [
+      "Christo Stoičkov",
+      "Hristo Stoitchkov",
+      "Xristo Stoiçkov",
+      "Hristo Stoichkov Stoichkov"
+    ],
+    "wikidataQid": "Q187125",
+    "birthYear": 1966
+  },
+  {
+    "id": "pl_iker_casillas",
+    "kind": "player",
+    "name": "Iker Casillas",
+    "aliases": [
+      "Iker Casillas Fernández"
+    ],
+    "wikidataQid": "Q11584",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_isco",
+    "kind": "player",
+    "name": "Isco",
+    "aliases": [
+      "Francisco Román Alarcón Suárez",
+      "Francisco Alarcón",
+      "Francisco Román Alarcón"
+    ],
+    "wikidataQid": "Q80892",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_ivan_rakitic",
+    "kind": "player",
+    "name": "Ivan Rakitić",
+    "aliases": [
+      "Ivan Rakitic"
+    ],
+    "wikidataQid": "Q115453",
+    "countryId": "co_croatia",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_jamie_vardy",
+    "kind": "player",
+    "name": "Jamie Vardy",
+    "aliases": [
+      "James Richard Gill",
+      "Jamie Richard Vardy"
+    ],
+    "wikidataQid": "Q6147586",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_jason_statham",
+    "kind": "player",
+    "name": "Jason Statham",
+    "wikidataQid": "Q169963",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_javier_hernande",
+    "kind": "player",
+    "name": "Javier Hernánde",
+    "aliases": [
+      "Chicharito",
+      "Chicharito Hernandez",
+      "Chichabuelo"
+    ],
+    "wikidataQid": "Q165125",
+    "countryId": "co_mexico",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_javier_mascherano",
+    "kind": "player",
+    "name": "Javier Mascherano",
+    "wikidataQid": "Q161571",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_javier_zanetti",
+    "kind": "player",
+    "name": "Javier Zanetti",
+    "aliases": [
+      "Javier Adelmar Zanetti"
+    ],
+    "wikidataQid": "Q52876",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_jens_lehmann",
+    "kind": "player",
+    "name": "Jens Lehmann",
+    "aliases": [
+      "Jens Gerhard Lehmann"
+    ],
+    "wikidataQid": "Q57114",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_jerome_boateng",
+    "kind": "player",
+    "name": "Jérôme Boateng",
+    "wikidataQid": "Q151260",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_jesus_navas",
+    "kind": "player",
+    "name": "Jesús Navas",
+    "aliases": [
+      "Jesus Navas"
+    ],
+    "wikidataQid": "Q185093",
+    "countryId": "co_spain",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_joachim_low",
+    "kind": "player",
+    "name": "Joachim Löw",
+    "aliases": [
+      "Jogi Löw"
+    ],
+    "wikidataQid": "Q4462",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_johan_cruyff",
+    "kind": "player",
+    "name": "Johan Cruyff",
+    "aliases": [
+      "Hendrik Johannes Cruijff",
+      "Hendrik Johannes Cruyff",
+      "Johan Cruijff"
+    ],
+    "wikidataQid": "Q17163",
+    "position": "MF",
+    "birthYear": 1947
+  },
+  {
+    "id": "pl_john_terry",
+    "kind": "player",
+    "name": "John Terry",
+    "aliases": [
+      "John George Terry"
+    ],
+    "wikidataQid": "Q83456",
+    "position": "DF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_jordan_henderson",
+    "kind": "player",
+    "name": "Jordan Henderson",
+    "aliases": [
+      "Jordan Brian Henderson"
+    ],
+    "wikidataQid": "Q273715",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_jordi_alba",
+    "kind": "player",
+    "name": "Jordi Alba",
+    "aliases": [
+      "Alba España",
+      "Jordi Alba Ramos"
+    ],
+    "wikidataQid": "Q187159",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_joshua_kimmich",
+    "kind": "player",
+    "name": "Joshua Kimmich",
+    "aliases": [
+      "Joshua Walter Kimmich"
+    ],
+    "wikidataQid": "Q13865408",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_jude_bellingham",
+    "kind": "player",
+    "name": "Jude Bellingham",
+    "aliases": [
+      "Jude Victor William Bellingham"
+    ],
+    "wikidataQid": "Q66241169",
+    "position": "MF",
+    "birthYear": 2003
+  },
+  {
+    "id": "pl_julio_cesar",
+    "kind": "player",
+    "name": "Júlio César",
+    "aliases": [
+      "Júlio César Soares Espíndola"
+    ],
+    "wikidataQid": "Q182459",
+    "countryId": "co_brazil",
+    "position": "GK",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_julio_iglesias",
+    "kind": "player",
+    "name": "Julio Iglesias",
+    "wikidataQid": "Q122003",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1943
+  },
+  {
+    "id": "pl_jurgen_klinsmann",
+    "kind": "player",
+    "name": "Jürgen Klinsmann",
+    "aliases": [
+      "Jay Goeppingen",
+      "Jay Goppingen",
+      "Jay Göppingen",
+      "Juergen Klinsmann",
+      "Jurgen Klinsmann"
+    ],
+    "wikidataQid": "Q57079",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_jurgen_klopp",
+    "kind": "player",
+    "name": "Jürgen Klopp",
+    "aliases": [
+      "Juergen Klopp",
+      "Jurgen Klopp",
+      "Jürgen Norbert Klopp"
+    ],
+    "wikidataQid": "Q83106",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_kaka",
+    "kind": "player",
+    "name": "Kaká",
+    "aliases": [
+      "Ricardo Kaká"
+    ],
+    "wikidataQid": "Q531814",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_karl_heinz_rummenigge",
+    "kind": "player",
+    "name": "Karl-Heinz Rummenigge",
+    "wikidataQid": "Q152871",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1955
+  },
+  {
+    "id": "pl_keisuke_honda",
+    "kind": "player",
+    "name": "Keisuke Honda",
+    "aliases": [
+      "Honda Keisuke"
+    ],
+    "wikidataQid": "Q202054",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_kevin_de_bruyne",
+    "kind": "player",
+    "name": "Kevin De Bruyne",
+    "aliases": [
+      "KDB"
+    ],
+    "wikidataQid": "Q357984",
+    "countryId": "co_belgium",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_kevin_keegan",
+    "kind": "player",
+    "name": "Kevin Keegan",
+    "aliases": [
+      "Joseph Kevin Keegan"
+    ],
+    "wikidataQid": "Q152832",
+    "position": "FW",
+    "birthYear": 1951
+  },
+  {
+    "id": "pl_klaas_jan_huntelaar",
+    "kind": "player",
+    "name": "Klaas-Jan Huntelaar",
+    "aliases": [
+      "Dirk Jan Klaas Huntelaar",
+      "Klaas Jan Huntelaar"
+    ],
+    "wikidataQid": "Q26069",
+    "position": "FW",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_kylian_mbappe",
+    "kind": "player",
+    "name": "Kylian Mbappé",
+    "aliases": [
+      "Kylian Mbappe",
+      "Kylian Mbappe Lottin",
+      "Kylian Mbappé Lottin"
+    ],
+    "wikidataQid": "Q21621995",
+    "position": "FW",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_lamine_yamal",
+    "kind": "player",
+    "name": "Lamine Yamal",
+    "wikidataQid": "Q113704154",
+    "position": "FW",
+    "birthYear": 2007
+  },
+  {
+    "id": "pl_leonardo_araujo",
+    "kind": "player",
+    "name": "Leonardo Araújo",
+    "aliases": [
+      "Leonardo Araujo",
+      "Leonardo Nascimento de Araújo"
+    ],
+    "wikidataQid": "Q46741",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_leonardo_bonucci",
+    "kind": "player",
+    "name": "Leonardo Bonucci",
+    "wikidataQid": "Q208050",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_lilian_thuram",
+    "kind": "player",
+    "name": "Lilian Thuram",
+    "aliases": [
+      "Ruddy Lilian Thuram-Ulien"
+    ],
+    "wikidataQid": "Q180326",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_lionel_messi",
+    "kind": "player",
+    "name": "Lionel Messi",
+    "aliases": [
+      "Messi",
+      "Leo Messi",
+      "Lionel Andres Messi",
+      "Lionel Andrés Messi",
+      "Lionel Andrés Messi Cuccittini"
+    ],
+    "wikidataQid": "Q615",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_luis_enrique",
+    "kind": "player",
+    "name": "Luis Enrique",
+    "aliases": [
+      "L. Enrique",
+      "Luis Enrique Martínez García"
+    ],
+    "wikidataQid": "Q222789",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_luis_figo",
+    "kind": "player",
+    "name": "Luís Figo",
+    "aliases": [
+      "Luis Figo",
+      "Luís Filipe Madeira Caeiro Figo"
+    ],
+    "wikidataQid": "Q483145",
+    "countryId": "co_portugal",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_luka_modric",
+    "kind": "player",
+    "name": "Luka Modrić",
+    "aliases": [
+      "Luka Modric"
+    ],
+    "wikidataQid": "Q483837",
+    "countryId": "co_croatia",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_lukas_podolski",
+    "kind": "player",
+    "name": "Lukas Podolski",
+    "aliases": [
+      "Lukas Josef Podolski",
+      "Łukasz Józef Podolski",
+      "Łukasz Podolski"
+    ],
+    "wikidataQid": "Q134976",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_luke_shaw",
+    "kind": "player",
+    "name": "Luke Shaw",
+    "aliases": [
+      "Luke Paul Hoare Shaw"
+    ],
+    "wikidataQid": "Q93563",
+    "position": "DF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_makoto_hasebe",
+    "kind": "player",
+    "name": "Makoto Hasebe",
+    "wikidataQid": "Q164676",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_manuel_neuer",
+    "kind": "player",
+    "name": "Manuel Neuer",
+    "aliases": [
+      "Manuel Peter Neuer"
+    ],
+    "wikidataQid": "Q107365",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_marc_andre_ter_stegen",
+    "kind": "player",
+    "name": "Marc-André ter Stegen",
+    "aliases": [
+      "Marc Andre ter Stegen"
+    ],
+    "wikidataQid": "Q160472",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_marcelo_vieira",
+    "kind": "player",
+    "name": "Marcelo Vieira",
+    "aliases": [
+      "Marcelo",
+      "Marcelo Vieira da Silva Júnior"
+    ],
+    "wikidataQid": "Q38136",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_marco_van_basten",
+    "kind": "player",
+    "name": "Marco van Basten",
+    "aliases": [
+      "Marcel van Basten"
+    ],
+    "wikidataQid": "Q483629",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_marcus_rashford",
+    "kind": "player",
+    "name": "Marcus Rashford",
+    "wikidataQid": "Q22951255",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_mario_balotelli",
+    "kind": "player",
+    "name": "Mario Balotelli",
+    "aliases": [
+      "Mario Balotelli Barwuah"
+    ],
+    "wikidataQid": "Q129700",
+    "position": "FW",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_mario_gomez",
+    "kind": "player",
+    "name": "Mario Gómez",
+    "aliases": [
+      "Mario Gómez García"
+    ],
+    "wikidataQid": "Q45766",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_mario_gotze",
+    "kind": "player",
+    "name": "Mario Götze",
+    "aliases": [
+      "Mario Goetze",
+      "Mario Gotze"
+    ],
+    "wikidataQid": "Q104454",
+    "countryId": "co_germany",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_mario_kempes",
+    "kind": "player",
+    "name": "Mario Kempes",
+    "aliases": [
+      "Mario Alberto Kempes Chiodi"
+    ],
+    "wikidataQid": "Q180649",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1954
+  },
+  {
+    "id": "pl_mario_mandzukic",
+    "kind": "player",
+    "name": "Mario Mandžukić",
+    "aliases": [
+      "Mario Mandzukic"
+    ],
+    "wikidataQid": "Q187171",
+    "countryId": "co_croatia",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_mats_hummels",
+    "kind": "player",
+    "name": "Mats Hummels",
+    "aliases": [
+      "Mats Julian Hummels"
+    ],
+    "wikidataQid": "Q110053",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_mesut_ozil",
+    "kind": "player",
+    "name": "Mesut Özil",
+    "wikidataQid": "Q83488",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_michael_ballack",
+    "kind": "player",
+    "name": "Michael Ballack",
+    "wikidataQid": "Q11948",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_michael_carrick",
+    "kind": "player",
+    "name": "Michael Carrick",
+    "wikidataQid": "Q29566",
+    "position": "MF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_michael_essien",
+    "kind": "player",
+    "name": "Michael Essien",
+    "wikidataQid": "Q969520",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_michael_laudrup",
+    "kind": "player",
+    "name": "Michael Laudrup",
+    "wikidataQid": "Q188720",
+    "position": "MF",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_michael_owen",
+    "kind": "player",
+    "name": "Michael Owen",
+    "aliases": [
+      "Michael James Owen"
+    ],
+    "wikidataQid": "Q128829",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_michel_platini",
+    "kind": "player",
+    "name": "Michel Platini",
+    "aliases": [
+      "Michel Francois Platini",
+      "Michel François Platini"
+    ],
+    "wikidataQid": "Q4261",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1955
+  },
+  {
+    "id": "pl_mikel_arteta",
+    "kind": "player",
+    "name": "Mikel Arteta",
+    "aliases": [
+      "Mikel Arteta Amatriain"
+    ],
+    "wikidataQid": "Q185572",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_mikel_john_obi",
+    "kind": "player",
+    "name": "Mikel John Obi",
+    "aliases": [
+      "Jon Obi Mikel",
+      "Juan Obi Mikel"
+    ],
+    "wikidataQid": "Q166984",
+    "countryId": "co_nigeria",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_miroslav_klose",
+    "kind": "player",
+    "name": "Miroslav Klose",
+    "aliases": [
+      "Miro Klose",
+      "Miroslav Josef Klose",
+      "Klose"
+    ],
+    "wikidataQid": "Q80471",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_mohamed_salah",
+    "kind": "player",
+    "name": "Mohamed Salah",
+    "aliases": [
+      "Mo Salah",
+      "Mohamed Salah Hamed Mahrous Ghaly"
+    ],
+    "wikidataQid": "Q1354960",
+    "countryId": "co_egypt",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_nani",
+    "kind": "player",
+    "name": "Nani",
+    "wikidataQid": "Q482947",
+    "countryId": "co_portugal",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_nemanja_vidic",
+    "kind": "player",
+    "name": "Nemanja Vidić",
+    "aliases": [
+      "Nemanja Vidic",
+      "Nemanya Vidic"
+    ],
+    "wikidataQid": "Q163564",
+    "countryId": "co_serbia",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_nicolas_anelka",
+    "kind": "player",
+    "name": "Nicolas Anelka",
+    "aliases": [
+      "Nicolas Sebastien Anelka",
+      "Nicolas Sébastien Anelka"
+    ],
+    "wikidataQid": "Q1939",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_ole_gunnar_solskjr",
+    "kind": "player",
+    "name": "Ole Gunnar Solskjær",
+    "aliases": [
+      "OGS",
+      "Baby Faced Assassin",
+      "Ole Gunnar Solskjaer",
+      "Ole Solskjaer",
+      "Ole Solskjær"
+    ],
+    "wikidataQid": "Q18976",
+    "countryId": "co_norway",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_oliver_kahn",
+    "kind": "player",
+    "name": "Oliver Kahn",
+    "wikidataQid": "Q131261",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_paolo_maldini",
+    "kind": "player",
+    "name": "Paolo Maldini",
+    "aliases": [
+      "Paolo Cesare Maldini"
+    ],
+    "wikidataQid": "Q483027",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_paolo_rossi",
+    "kind": "player",
+    "name": "Paolo Rossi",
+    "wikidataQid": "Q178628",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1956
+  },
+  {
+    "id": "pl_park_ji_sung",
+    "kind": "player",
+    "name": "Park Ji-Sung",
+    "aliases": [
+      "Jisung Park",
+      "Bak Ji-seong",
+      "Ji-Sung Park",
+      "Park Jisung"
+    ],
+    "wikidataQid": "Q50603",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_patrice_evra",
+    "kind": "player",
+    "name": "Patrice Evra",
+    "aliases": [
+      "Patrice Latyr Evra"
+    ],
+    "wikidataQid": "Q1916",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_patrick_vieira",
+    "kind": "player",
+    "name": "Patrick Vieira",
+    "aliases": [
+      "Patrick Paul Vieira"
+    ],
+    "wikidataQid": "Q46347",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_paul_scholes",
+    "kind": "player",
+    "name": "Paul Scholes",
+    "wikidataQid": "Q45613",
+    "position": "MF",
+    "birthYear": 1974
+  },
+  {
+    "id": "pl_paulo_dybala",
+    "kind": "player",
+    "name": "Paulo Dybala",
+    "wikidataQid": "Q166317",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_pavel_nedved",
+    "kind": "player",
+    "name": "Pavel Nedvěd",
+    "aliases": [
+      "Pavel Nedved"
+    ],
+    "wikidataQid": "Q171295",
+    "countryId": "co_czech_republic",
+    "position": "MF",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_pep_guardiola",
+    "kind": "player",
+    "name": "Pep Guardiola",
+    "aliases": [
+      "Josep Guardiola i Sala"
+    ],
+    "wikidataQid": "Q164038",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_pepe",
+    "kind": "player",
+    "name": "Pepe",
+    "aliases": [
+      "Kepler Pepe"
+    ],
+    "wikidataQid": "Q485697",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_pepe_reina",
+    "kind": "player",
+    "name": "Pepe Reina",
+    "aliases": [
+      "Jose Manuel Reina Paez",
+      "José Manuel Reina Páez"
+    ],
+    "wikidataQid": "Q163666",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_per_mertesacker",
+    "kind": "player",
+    "name": "Per Mertesacker",
+    "wikidataQid": "Q70550",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_peter_schmeichel",
+    "kind": "player",
+    "name": "Peter Schmeichel",
+    "wikidataQid": "Q182314",
+    "position": "GK",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_petr_cech",
+    "kind": "player",
+    "name": "Petr Čech",
+    "aliases": [
+      "Petr Cech",
+      "Cech"
+    ],
+    "wikidataQid": "Q483137",
+    "countryId": "co_czech_republic",
+    "position": "GK",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_philipp_lahm",
+    "kind": "player",
+    "name": "Philipp Lahm",
+    "wikidataQid": "Q43682",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_radamel_falcao",
+    "kind": "player",
+    "name": "Radamel Falcao",
+    "wikidataQid": "Q138172",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_rafael_van_der_vaart",
+    "kind": "player",
+    "name": "Rafael van der Vaart",
+    "aliases": [
+      "Rafael Ferdinand van der Vaart"
+    ],
+    "wikidataQid": "Q163974",
+    "position": "MF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_raphael_varane",
+    "kind": "player",
+    "name": "Raphaël Varane",
+    "aliases": [
+      "Raphael Varane",
+      "Raphael Xavier Varane",
+      "Raphaël Xavier Varane"
+    ],
+    "wikidataQid": "Q489039",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_raul",
+    "kind": "player",
+    "name": "Raúl",
+    "aliases": [
+      "Raúl González Blanco"
+    ],
+    "wikidataQid": "Q11576",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_raul_albiol",
+    "kind": "player",
+    "name": "Raúl Albiol",
+    "aliases": [
+      "Raul Albiol",
+      "Raul Albiol Tortajada",
+      "Raúl Albiol Tortajada"
+    ],
+    "wikidataQid": "Q4599",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_ricardo_carvalho",
+    "kind": "player",
+    "name": "Ricardo Carvalho",
+    "aliases": [
+      "Ricardo Alberto Silveira de Carvalho"
+    ],
+    "wikidataQid": "Q570811",
+    "countryId": "co_portugal",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_ricardo_quaresma",
+    "kind": "player",
+    "name": "Ricardo Quaresma",
+    "aliases": [
+      "Ricardo Andrade Quaresma Bernardo"
+    ],
+    "wikidataQid": "Q188241",
+    "countryId": "co_portugal",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_rio_ferdinand",
+    "kind": "player",
+    "name": "Rio Ferdinand",
+    "aliases": [
+      "Rio Gavin Ferdinand"
+    ],
+    "wikidataQid": "Q483417",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_rivaldo",
+    "kind": "player",
+    "name": "Rivaldo",
+    "aliases": [
+      "Rivaldo Vítor Borba Ferreira"
+    ],
+    "wikidataQid": "Q483577",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_robert_lewandowski",
+    "kind": "player",
+    "name": "Robert Lewandowski",
+    "wikidataQid": "Q151269",
+    "countryId": "co_poland",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_roberto_baggio",
+    "kind": "player",
+    "name": "Roberto Baggio",
+    "wikidataQid": "Q67964",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_roberto_carlos",
+    "kind": "player",
+    "name": "Roberto Carlos",
+    "aliases": [
+      "Roberto Carlos da Silva Rocha"
+    ],
+    "wikidataQid": "Q429039",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_roberto_mancini",
+    "kind": "player",
+    "name": "Roberto Mancini",
+    "wikidataQid": "Q48330",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_robin_van_persie",
+    "kind": "player",
+    "name": "Robin van Persie",
+    "wikidataQid": "Q2339",
+    "position": "FW",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_robinho",
+    "kind": "player",
+    "name": "Robinho",
+    "aliases": [
+      "Robson de Souza",
+      "Róbson de Souza"
+    ],
+    "wikidataQid": "Q58441",
+    "countryId": "co_brazil",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_rodri",
+    "kind": "player",
+    "name": "Rodri",
+    "aliases": [
+      "Rodrigo",
+      "Rodrigo Hernández Cascante"
+    ],
+    "wikidataQid": "Q20994118",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_romario",
+    "kind": "player",
+    "name": "Romário",
+    "aliases": [
+      "Carlos Baixinho",
+      "Romario",
+      "Romario de Souza Faria",
+      "Romário de Souza Faria"
+    ],
+    "wikidataQid": "Q178649",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1966
+  },
+  {
+    "id": "pl_romelu_lukaku",
+    "kind": "player",
+    "name": "Romelu Lukaku",
+    "aliases": [
+      "Romelu Lukaku Bolingoli"
+    ],
+    "wikidataQid": "Q313316",
+    "countryId": "co_belgium",
+    "position": "FW",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_ronald_koeman",
+    "kind": "player",
+    "name": "Ronald Koeman",
+    "wikidataQid": "Q192635",
+    "position": "DF",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_ronaldinho",
+    "kind": "player",
+    "name": "Ronaldinho",
+    "aliases": [
+      "Ronaldinho Gaucho",
+      "Ronaldinho Gaúcho",
+      "ronaldinho:Touch of Gold",
+      "Ronaldo de Assis Moreira"
+    ],
+    "wikidataQid": "Q39444",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_ronaldo",
+    "kind": "player",
+    "name": "Ronaldo",
+    "aliases": [
+      "R9",
+      "Ronaldo Luís Nazário de Lima",
+      "Ronaldo Nazário"
+    ],
+    "wikidataQid": "Q529207",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_ruud_gullit",
+    "kind": "player",
+    "name": "Ruud Gullit",
+    "aliases": [
+      "Ridi Dil \"Ruud\" Gullit",
+      "Rudi Dil \"Ruud\" Gullit"
+    ],
+    "wikidataQid": "Q173972",
+    "position": "MF",
+    "birthYear": 1962
+  },
+  {
+    "id": "pl_ruud_van_nistelrooy",
+    "kind": "player",
+    "name": "Ruud van Nistelrooy",
+    "aliases": [
+      "Rutgerus Johannes Martinus van Nistelrooij",
+      "Rutgerus Johannes Martinus van Nistelrooy",
+      "Ruud van Nistelrooij"
+    ],
+    "wikidataQid": "Q45626",
+    "position": "FW",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_ryan_giggs",
+    "kind": "player",
+    "name": "Ryan Giggs",
+    "aliases": [
+      "Ryan Wilson",
+      "Ryan Joseph Giggs"
+    ],
+    "wikidataQid": "Q10524",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_salvatore_schillaci",
+    "kind": "player",
+    "name": "Salvatore Schillaci",
+    "aliases": [
+      "Totò Schillaci"
+    ],
+    "wikidataQid": "Q295307",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_sami_khedira",
+    "kind": "player",
+    "name": "Sami Khedira",
+    "wikidataQid": "Q54094",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_samir_nasri",
+    "kind": "player",
+    "name": "Samir Nasri",
+    "wikidataQid": "Q1920",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_samuel_etoo",
+    "kind": "player",
+    "name": "Samuel Eto'o",
+    "aliases": [
+      "Samuel Eto'o Fils"
+    ],
+    "wikidataQid": "Q1255625",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_samuel_umtiti",
+    "kind": "player",
+    "name": "Samuel Umtiti",
+    "aliases": [
+      "Samuel Um Titi",
+      "Samuel Yves Um Titi",
+      "Samuel Yves Umtiti"
+    ],
+    "wikidataQid": "Q13308",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_sergio_aguero",
+    "kind": "player",
+    "name": "Sergio Agüero",
+    "aliases": [
+      "Kun Agüero",
+      "Sergio Leonel Agüero del Castillo"
+    ],
+    "wikidataQid": "Q119562",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_sergio_busquets",
+    "kind": "player",
+    "name": "Sergio Busquets",
+    "aliases": [
+      "Sergio Busquets Burgos"
+    ],
+    "wikidataQid": "Q49704",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_sergio_ramos",
+    "kind": "player",
+    "name": "Sergio Ramos",
+    "aliases": [
+      "Sergio Ramos García"
+    ],
+    "wikidataQid": "Q483309",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_sergio_romero",
+    "kind": "player",
+    "name": "Sergio Romero",
+    "aliases": [
+      "Sergio Germán Romero"
+    ],
+    "wikidataQid": "Q215463",
+    "countryId": "co_argentina",
+    "position": "GK",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_shinji_kagawa",
+    "kind": "player",
+    "name": "Shinji Kagawa",
+    "aliases": [
+      "Kagawa Shinji",
+      "香川真司"
+    ],
+    "wikidataQid": "Q154708",
+    "position": "MF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_shinji_okazaki",
+    "kind": "player",
+    "name": "Shinji Okazaki",
+    "wikidataQid": "Q310612",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_steven_gerrard",
+    "kind": "player",
+    "name": "Steven Gerrard",
+    "aliases": [
+      "Steven George Gerrard",
+      "Stevie G"
+    ],
+    "wikidataQid": "Q459830",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_takashi_inui",
+    "kind": "player",
+    "name": "Takashi Inui",
+    "wikidataQid": "Q61886",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_theo_walcott",
+    "kind": "player",
+    "name": "Theo Walcott",
+    "aliases": [
+      "Theo James Walcott"
+    ],
+    "wikidataQid": "Q29516",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_thiago_alcantara",
+    "kind": "player",
+    "name": "Thiago Alcântara",
+    "aliases": [
+      "Thiago Alcantara",
+      "Thiago Alcantara do Nascimento",
+      "Thiago Alcântara do Nascimento",
+      "Thiago Alcantara do Nascimiento",
+      "Thiago Alcântara do Nascimiento"
+    ],
+    "wikidataQid": "Q17493",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_thiago_silva",
+    "kind": "player",
+    "name": "Thiago Silva",
+    "aliases": [
+      "Thiago Emiliano da Silva"
+    ],
+    "wikidataQid": "Q210453",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_thibaut_courtois",
+    "kind": "player",
+    "name": "Thibaut Courtois",
+    "aliases": [
+      "Thibaut Nicolas Marc Courtois"
+    ],
+    "wikidataQid": "Q73360",
+    "countryId": "co_belgium",
+    "position": "GK",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_thierry_henry",
+    "kind": "player",
+    "name": "Thierry Henry",
+    "aliases": [
+      "Thierry Daniel Henry"
+    ],
+    "wikidataQid": "Q45901",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_toni_kroos",
+    "kind": "player",
+    "name": "Toni Kroos",
+    "wikidataQid": "Q131234",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_victor_valdes",
+    "kind": "player",
+    "name": "Víctor Valdés",
+    "aliases": [
+      "Victor Valdes"
+    ],
+    "wikidataQid": "Q47548",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_vincent_kompany",
+    "kind": "player",
+    "name": "Vincent Kompany",
+    "aliases": [
+      "Vincent Jean Mpoy Kompany"
+    ],
+    "wikidataQid": "Q201381",
+    "countryId": "co_belgium",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_vinicius_junior",
+    "kind": "player",
+    "name": "Vinícius Júnior",
+    "aliases": [
+      "Vini Jr.",
+      "Vinícius José Paixão de Oliveira Júnior",
+      "Vinicius Junior"
+    ],
+    "wikidataQid": "Q28973866",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_virgil_van_dijk",
+    "kind": "player",
+    "name": "Virgil van Dijk",
+    "wikidataQid": "Q133903",
+    "position": "DF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_wayne_rooney",
+    "kind": "player",
+    "name": "Wayne Rooney",
+    "aliases": [
+      "Wayne Mark Rooney"
+    ],
+    "wikidataQid": "Q266613",
+    "position": "FW",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_wesley_sneijder",
+    "kind": "player",
+    "name": "Wesley Sneijder",
+    "wikidataQid": "Q124086",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_wojciech_szczesny",
+    "kind": "player",
+    "name": "Wojciech Szczęsny",
+    "aliases": [
+      "Wojciech Tomasz Szczesny",
+      "Wojciech Tomasz Szczęsny",
+      "Wojciech Szczesny En el Barça"
+    ],
+    "wikidataQid": "Q188997",
+    "countryId": "co_poland",
+    "position": "GK",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_xabi_alonso",
+    "kind": "player",
+    "name": "Xabi Alonso",
+    "aliases": [
+      "Xabier Alonso Olano",
+      "Xabier Alonso"
+    ],
+    "wikidataQid": "Q208104",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_xavi_hernandez",
+    "kind": "player",
+    "name": "Xavi Hernández",
+    "aliases": [
+      "Xavier Hernández",
+      "Xavier Hernández Creus"
+    ],
+    "wikidataQid": "Q17500",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_yaya_toure",
+    "kind": "player",
+    "name": "Yaya Touré",
+    "aliases": [
+      "Gnégnéri Yaya Touré",
+      "Yaya Toure"
+    ],
+    "wikidataQid": "Q184277",
+    "position": "MF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_yuto_nagatomo",
+    "kind": "player",
+    "name": "Yūto Nagatomo",
+    "aliases": [
+      "Nagatomo Yuuto",
+      "Yuto Nagatomo",
+      "Yuuto Nagatomo",
+      "Nagatomo Yuto",
+      "Nagatomo Yūto"
+    ],
+    "wikidataQid": "Q281734",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_zinedine_zidane",
+    "kind": "player",
+    "name": "Zinedine Zidane",
+    "aliases": [
+      "Zinedine Yazid Zidane"
+    ],
+    "wikidataQid": "Q1835",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_zlatan_ibrahimovic",
+    "kind": "player",
+    "name": "Zlatan Ibrahimović",
+    "aliases": [
+      "Zlatan Ibrahimovic"
+    ],
+    "wikidataQid": "Q46896",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_adil_rami",
+    "kind": "player",
+    "name": "Adil Rami",
+    "wikidataQid": "Q1909",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_adriano",
+    "kind": "player",
+    "name": "Adriano",
+    "aliases": [
+      "Adriano Leite Ribeiro"
+    ],
+    "wikidataQid": "Q170452",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_adrien_rabiot",
+    "kind": "player",
+    "name": "Adrien Rabiot",
+    "aliases": [
+      "Adrien Thibault Marie Rabiot",
+      "Adrien Rabiot-Provost"
+    ],
+    "wikidataQid": "Q18962",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_aggelos_charisteas",
+    "kind": "player",
+    "name": "Aggelos Charisteas",
+    "wikidataQid": "Q109417",
+    "countryId": "co_greece",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_aleksandar_kolarov",
+    "kind": "player",
+    "name": "Aleksandar Kolarov",
+    "wikidataQid": "Q211451",
+    "countryId": "co_serbia",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_aleksandr_kerzhakov",
+    "kind": "player",
+    "name": "Aleksandr Kerzhakov",
+    "aliases": [
+      "Aleksandr Anatolyevich Kerzhakov"
+    ],
+    "wikidataQid": "Q201866",
+    "countryId": "co_russia",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_alessandro_florenzi",
+    "kind": "player",
+    "name": "Alessandro Florenzi",
+    "wikidataQid": "Q1378371",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_alessandro_nesta",
+    "kind": "player",
+    "name": "Alessandro Nesta",
+    "wikidataQid": "Q227892",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_alexander_frei",
+    "kind": "player",
+    "name": "Alexander Frei",
+    "wikidataQid": "Q193024",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_alexander_isak",
+    "kind": "player",
+    "name": "Alexander Isak",
+    "wikidataQid": "Q23759917",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_alexandre_pato",
+    "kind": "player",
+    "name": "Alexandre Pato",
+    "aliases": [
+      "Alex Pato",
+      "Alexandre Rodrigues da Silva"
+    ],
+    "wikidataQid": "Q138075",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_ali_daei",
+    "kind": "player",
+    "name": "Ali Daei",
+    "wikidataQid": "Q159622",
+    "position": "FW",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_aliaksandr_hleb",
+    "kind": "player",
+    "name": "Aliaksandr Hleb",
+    "aliases": [
+      "Alexander Hleb"
+    ],
+    "wikidataQid": "Q188542",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_allan_simonsen",
+    "kind": "player",
+    "name": "Allan Simonsen",
+    "wikidataQid": "Q153463",
+    "position": "FW",
+    "birthYear": 1952
+  },
+  {
+    "id": "pl_alpay_ozalan",
+    "kind": "player",
+    "name": "Alpay Özalan",
+    "aliases": [
+      "Alpay Ozalan"
+    ],
+    "wikidataQid": "Q435749",
+    "position": "DF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_alphonso_davies",
+    "kind": "player",
+    "name": "Alphonso Davies",
+    "aliases": [
+      "Alphonso Boyle Davies"
+    ],
+    "wikidataQid": "Q23540953",
+    "position": "DF",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_alvaro_odriozola",
+    "kind": "player",
+    "name": "Álvaro Odriozola",
+    "aliases": [
+      "Álvaro Odriozola Arzalluz"
+    ],
+    "wikidataQid": "Q19948076",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_anatolii_tymoshchuk",
+    "kind": "player",
+    "name": "Anatolii Tymoshchuk",
+    "aliases": [
+      "Anatoliy Tymoshchuk"
+    ],
+    "wikidataQid": "Q44181",
+    "position": "MF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_andrea_barzagli",
+    "kind": "player",
+    "name": "Andrea Barzagli",
+    "wikidataQid": "Q107051",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_andreas_brehme",
+    "kind": "player",
+    "name": "Andreas Brehme",
+    "wikidataQid": "Q159045",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_andreas_christensen",
+    "kind": "player",
+    "name": "Andreas Christensen",
+    "aliases": [
+      "Andreas Bødtker Christensen",
+      "Elpepe"
+    ],
+    "wikidataQid": "Q16063229",
+    "position": "DF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_andreas_moller",
+    "kind": "player",
+    "name": "Andreas Möller",
+    "wikidataQid": "Q155919",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_andrej_kramaric",
+    "kind": "player",
+    "name": "Andrej Kramarić",
+    "wikidataQid": "Q502898",
+    "countryId": "co_croatia",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_andres_guardado",
+    "kind": "player",
+    "name": "Andrés Guardado",
+    "aliases": [
+      "Andres Guardado"
+    ],
+    "wikidataQid": "Q19364",
+    "countryId": "co_mexico",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_antonio_cassano",
+    "kind": "player",
+    "name": "Antonio Cassano",
+    "wikidataQid": "Q180993",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_antonio_di_natale",
+    "kind": "player",
+    "name": "Antonio Di Natale",
+    "aliases": [
+      "Totò Di Natale"
+    ],
+    "wikidataQid": "Q167281",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_antonio_rudiger",
+    "kind": "player",
+    "name": "Antonio Rüdiger",
+    "aliases": [
+      "Antonio Rudiger"
+    ],
+    "wikidataQid": "Q96755",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_arkadiusz_milik",
+    "kind": "player",
+    "name": "Arkadiusz Milik",
+    "aliases": [
+      "Arek Milik"
+    ],
+    "wikidataQid": "Q137231",
+    "countryId": "co_poland",
+    "position": "FW",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_arne_friedrich",
+    "kind": "player",
+    "name": "Arne Friedrich",
+    "wikidataQid": "Q63676",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_asamoah_gyan",
+    "kind": "player",
+    "name": "Asamoah Gyan",
+    "aliases": [
+      "Baby Jet"
+    ],
+    "wikidataQid": "Q222746",
+    "position": "FW",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_atsuto_uchida",
+    "kind": "player",
+    "name": "Atsuto Uchida",
+    "wikidataQid": "Q310607",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_aurelien_tchouameni",
+    "kind": "player",
+    "name": "Aurélien Tchouaméni",
+    "aliases": [
+      "Aurelien Djani Tchouameni",
+      "Aurélien Djani Tchouaméni",
+      "Aurelien Tchouameni"
+    ],
+    "wikidataQid": "Q46951844",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_axel_witsel",
+    "kind": "player",
+    "name": "Axel Witsel",
+    "aliases": [
+      "Axel Laurent Angel Lambert Witsel"
+    ],
+    "wikidataQid": "Q151838",
+    "countryId": "co_belgium",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_benedikt_howedes",
+    "kind": "player",
+    "name": "Benedikt Höwedes",
+    "wikidataQid": "Q152897",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_bernardo_silva",
+    "kind": "player",
+    "name": "Bernardo Silva",
+    "aliases": [
+      "Bernardo",
+      "Bernardo Mota Veiga de Carvalho e Silva"
+    ],
+    "wikidataQid": "Q15521306",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_bernd_schuster",
+    "kind": "player",
+    "name": "Bernd Schuster",
+    "wikidataQid": "Q44389",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1959
+  },
+  {
+    "id": "pl_berti_vogts",
+    "kind": "player",
+    "name": "Berti Vogts",
+    "aliases": [
+      "Hans Hubert Vogts",
+      "Hans-Hubert \"Berti\" Vogts",
+      "Hans-Hubert Vogts",
+      "Vogts, Hans-Hubert",
+      "Terrier"
+    ],
+    "wikidataQid": "Q828203",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1946
+  },
+  {
+    "id": "pl_bixente_lizarazu",
+    "kind": "player",
+    "name": "Bixente Lizarazu",
+    "aliases": [
+      "Bixente Jean Michel Lizarazu"
+    ],
+    "wikidataQid": "Q44073",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1969
+  },
+  {
+    "id": "pl_blaise_matuidi",
+    "kind": "player",
+    "name": "Blaise Matuidi",
+    "wikidataQid": "Q1921",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_bobby_robson",
+    "kind": "player",
+    "name": "Bobby Robson",
+    "aliases": [
+      "Robert William Robson"
+    ],
+    "wikidataQid": "Q189587",
+    "position": "FW",
+    "birthYear": 1933
+  },
+  {
+    "id": "pl_bojan_krkic",
+    "kind": "player",
+    "name": "Bojan Krkić",
+    "aliases": [
+      "Bojan Krkic",
+      "Bojan Krkic Perez",
+      "Bojan Krkić Pérez"
+    ],
+    "wikidataQid": "Q179172",
+    "countryId": "co_serbia",
+    "position": "FW",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_brahim_diaz",
+    "kind": "player",
+    "name": "Brahim Díaz",
+    "aliases": [
+      "Brahim",
+      "Brahim Abdelkader Díaz",
+      "Brahim Diaz"
+    ],
+    "wikidataQid": "Q26973015",
+    "position": "MF",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_bruno_alves",
+    "kind": "player",
+    "name": "Bruno Alves",
+    "aliases": [
+      "Bruno Eduardo Regufe Alves"
+    ],
+    "wikidataQid": "Q193000",
+    "countryId": "co_portugal",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_bruno_fernandes",
+    "kind": "player",
+    "name": "Bruno Fernandes",
+    "aliases": [
+      "Bruno Miguel Borges Fernandes"
+    ],
+    "wikidataQid": "Q4979316",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_cacau",
+    "kind": "player",
+    "name": "Cacau",
+    "aliases": [
+      "Claudemir Jerônimo Barreto"
+    ],
+    "wikidataQid": "Q57148",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_careca",
+    "kind": "player",
+    "name": "Careca",
+    "aliases": [
+      "Antonio de Oliveira Filho",
+      "Antônio de Oliveira Filho"
+    ],
+    "wikidataQid": "Q342489",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_carlos_vela",
+    "kind": "player",
+    "name": "Carlos Vela",
+    "aliases": [
+      "Carlos Alberto Vela Garrido"
+    ],
+    "wikidataQid": "Q47950",
+    "countryId": "co_mexico",
+    "position": "FW",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_christian_pulisic",
+    "kind": "player",
+    "name": "Christian Pulisic",
+    "aliases": [
+      "Christian Mate Pulisic"
+    ],
+    "wikidataQid": "Q22279773",
+    "countryId": "co_croatia",
+    "position": "MF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_christoph_kramer",
+    "kind": "player",
+    "name": "Christoph Kramer",
+    "wikidataQid": "Q1085348",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_christoph_metzelder",
+    "kind": "player",
+    "name": "Christoph Metzelder",
+    "wikidataQid": "Q152984",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_clarence_seedorf",
+    "kind": "player",
+    "name": "Clarence Seedorf",
+    "aliases": [
+      "Clarence Clyde Seedorf"
+    ],
+    "wikidataQid": "Q484909",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_claude_makelele",
+    "kind": "player",
+    "name": "Claude Makelélé",
+    "aliases": [
+      "Claude Makélélé Sinda",
+      "Claude Makelele",
+      "Claude Makelele Sinda"
+    ],
+    "wikidataQid": "Q184362",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_claudio_bravo",
+    "kind": "player",
+    "name": "Claudio Bravo",
+    "aliases": [
+      "Claudio Andrés Bravo Muñoz"
+    ],
+    "wikidataQid": "Q313161",
+    "position": "GK",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_claudio_marchisio",
+    "kind": "player",
+    "name": "Claudio Marchisio",
+    "wikidataQid": "Q179995",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_claudio_pizarro",
+    "kind": "player",
+    "name": "Claudio Pizarro",
+    "aliases": [
+      "Claudio Miguel Pizarro Bosio",
+      "El bombardero",
+      "Goleador Historico",
+      "Goleador Histórico"
+    ],
+    "wikidataQid": "Q109397",
+    "position": "FW",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_claudio_ranieri",
+    "kind": "player",
+    "name": "Claudio Ranieri",
+    "aliases": [
+      "Ranieri",
+      "C. Ranieri"
+    ],
+    "wikidataQid": "Q235068",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1951
+  },
+  {
+    "id": "pl_cody_gakpo",
+    "kind": "player",
+    "name": "Cody Gakpo",
+    "aliases": [
+      "Cody Mathès Gakpo",
+      "Cody Mathes Gakpo"
+    ],
+    "wikidataQid": "Q28801927",
+    "position": "FW",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_cole_palmer",
+    "kind": "player",
+    "name": "Cole Palmer",
+    "aliases": [
+      "Cole Jermaine Palmer"
+    ],
+    "wikidataQid": "Q99760796",
+    "position": "FW",
+    "birthYear": 2002
+  },
+  {
+    "id": "pl_daley_blind",
+    "kind": "player",
+    "name": "Daley Blind",
+    "wikidataQid": "Q128912",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_dani_olmo",
+    "kind": "player",
+    "name": "Dani Olmo",
+    "aliases": [
+      "Daniel Olmo Carvajal"
+    ],
+    "wikidataQid": "Q19560313",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_daniel_passarella",
+    "kind": "player",
+    "name": "Daniel Passarella",
+    "aliases": [
+      "Daniel Alberto Passarella"
+    ],
+    "wikidataQid": "Q15802",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1953
+  },
+  {
+    "id": "pl_daniel_sturridge",
+    "kind": "player",
+    "name": "Daniel Sturridge",
+    "aliases": [
+      "Daniel Andre Sturridge"
+    ],
+    "wikidataQid": "Q222231",
+    "position": "FW",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_daniel_van_buyten",
+    "kind": "player",
+    "name": "Daniel Van Buyten",
+    "wikidataQid": "Q44309",
+    "countryId": "co_belgium",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_daniele_de_rossi",
+    "kind": "player",
+    "name": "Daniele De Rossi",
+    "aliases": [
+      "DDR",
+      "De Rossi"
+    ],
+    "wikidataQid": "Q168497",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_danny_welbeck",
+    "kind": "player",
+    "name": "Danny Welbeck",
+    "aliases": [
+      "Daniel Nii Tackie Mensah Welbeck",
+      "Daniel Welbeck"
+    ],
+    "wikidataQid": "Q188457",
+    "position": "FW",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_dante",
+    "kind": "player",
+    "name": "Dante",
+    "aliases": [
+      "Dante Bonfim Costa Santos"
+    ],
+    "wikidataQid": "Q80761",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_darijo_srna",
+    "kind": "player",
+    "name": "Darijo Srna",
+    "wikidataQid": "Q184269",
+    "countryId": "co_croatia",
+    "position": "DF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_dayot_upamecano",
+    "kind": "player",
+    "name": "Dayot Upamecano",
+    "aliases": [
+      "Dayotchanculle Oswald Upamecano",
+      "Dayotchanculle Upamecano"
+    ],
+    "wikidataQid": "Q20723878",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_declan_rice",
+    "kind": "player",
+    "name": "Declan Rice",
+    "wikidataQid": "Q30007142",
+    "position": "MF",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_dejan_stankovic",
+    "kind": "player",
+    "name": "Dejan Stanković",
+    "aliases": [
+      "Dejan Stankovic"
+    ],
+    "wikidataQid": "Q192640",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_dele_alli",
+    "kind": "player",
+    "name": "Dele Alli",
+    "aliases": [
+      "Bamidele Jermaine Alli"
+    ],
+    "wikidataQid": "Q10553748",
+    "position": "MF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_denis_zakaria",
+    "kind": "player",
+    "name": "Denis Zakaria",
+    "wikidataQid": "Q21066260",
+    "position": "MF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_diego_benaglio",
+    "kind": "player",
+    "name": "Diego Benaglio",
+    "aliases": [
+      "Diego Orlando Benaglio"
+    ],
+    "wikidataQid": "Q122354",
+    "position": "GK",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_diego_milito",
+    "kind": "player",
+    "name": "Diego Milito",
+    "aliases": [
+      "Diego Alberto Milito"
+    ],
+    "wikidataQid": "Q76089",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_dimitar_berbatov",
+    "kind": "player",
+    "name": "Dimitar Berbatov",
+    "aliases": [
+      "Dimitar Ivanov Berbatov"
+    ],
+    "wikidataQid": "Q170235",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_dimitri_payet",
+    "kind": "player",
+    "name": "Dimitri Payet",
+    "wikidataQid": "Q376247",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_domagoj_vida",
+    "kind": "player",
+    "name": "Domagoj Vida",
+    "wikidataQid": "Q314227",
+    "countryId": "co_croatia",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_douglas_costa",
+    "kind": "player",
+    "name": "Douglas Costa",
+    "wikidataQid": "Q391680",
+    "countryId": "co_brazil",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_dragan_stojkovic",
+    "kind": "player",
+    "name": "Dragan Stojković",
+    "wikidataQid": "Q257548",
+    "position": "MF",
+    "birthYear": 1965
+  },
+  {
+    "id": "pl_dusan_vlahovic",
+    "kind": "player",
+    "name": "Dušan Vlahović",
+    "wikidataQid": "Q23762815",
+    "countryId": "co_serbia",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_eder_militao",
+    "kind": "player",
+    "name": "Éder Militão",
+    "aliases": [
+      "Eder Gabriel Militao Pinheiro",
+      "Éder Gabriel Militão Pinheiro",
+      "Eder Militao"
+    ],
+    "wikidataQid": "Q29950055",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_edgar_davids",
+    "kind": "player",
+    "name": "Edgar Davids",
+    "wikidataQid": "Q185115",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_eduardo_camavinga",
+    "kind": "player",
+    "name": "Eduardo Camavinga",
+    "aliases": [
+      "Eduardo Celmi Camavinga"
+    ],
+    "wikidataQid": "Q62960177",
+    "position": "MF",
+    "birthYear": 2002
+  },
+  {
+    "id": "pl_eiur_gujohnsen",
+    "kind": "player",
+    "name": "Eiður Guðjohnsen",
+    "aliases": [
+      "Eidur Gudjohnsen"
+    ],
+    "wikidataQid": "Q187396",
+    "position": "FW",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_emerson",
+    "kind": "player",
+    "name": "Emerson",
+    "aliases": [
+      "Emerson Ferreira da Rosa",
+      "Émerson Ferreira da Rosa"
+    ],
+    "wikidataQid": "Q215952",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_emil_forsberg",
+    "kind": "player",
+    "name": "Emil Forsberg",
+    "aliases": [
+      "Emil Peter Forsberg"
+    ],
+    "wikidataQid": "Q5371234",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_emiliano_martinez",
+    "kind": "player",
+    "name": "Emiliano Martínez",
+    "aliases": [
+      "Damian Emiliano Martinez",
+      "Damián Emiliano Martínez",
+      "Emi Martinez",
+      "Emi Martínez",
+      "Emiliano Martinez"
+    ],
+    "wikidataQid": "Q3275904",
+    "countryId": "co_argentina",
+    "position": "GK",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_emmanuel_petit",
+    "kind": "player",
+    "name": "Emmanuel Petit",
+    "aliases": [
+      "Emmanuel Laurent Petit"
+    ],
+    "wikidataQid": "Q269883",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_emre_can",
+    "kind": "player",
+    "name": "Emre Can",
+    "wikidataQid": "Q27694",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_eren_derdiyok",
+    "kind": "player",
+    "name": "Eren Derdiyok",
+    "wikidataQid": "Q215577",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_ernesto_valverde",
+    "kind": "player",
+    "name": "Ernesto Valverde",
+    "wikidataQid": "Q359118",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_esteban_cambiasso",
+    "kind": "player",
+    "name": "Esteban Cambiasso",
+    "aliases": [
+      "Cambiasso",
+      "Cuchu",
+      "Cuchu Cambiasso",
+      "Esteban Matias Cambiasso Deleau"
+    ],
+    "wikidataQid": "Q192122",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_ever_banega",
+    "kind": "player",
+    "name": "Éver Banega",
+    "aliases": [
+      "Éver Maximiliano David Banega"
+    ],
+    "wikidataQid": "Q19392",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_ezequiel_garay",
+    "kind": "player",
+    "name": "Ezequiel Garay",
+    "aliases": [
+      "Ezequiel Marcelo Garay González"
+    ],
+    "wikidataQid": "Q296684",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_fabien_barthez",
+    "kind": "player",
+    "name": "Fabien Barthez",
+    "aliases": [
+      "Fabien Alain Barthez"
+    ],
+    "wikidataQid": "Q191139",
+    "countryId": "co_france",
+    "position": "GK",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_fabio_capello",
+    "kind": "player",
+    "name": "Fabio Capello",
+    "wikidataQid": "Q183108",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1946
+  },
+  {
+    "id": "pl_fabio_quagliarella",
+    "kind": "player",
+    "name": "Fabio Quagliarella",
+    "aliases": [
+      "Quagliarella"
+    ],
+    "wikidataQid": "Q45900",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_federico_chiesa",
+    "kind": "player",
+    "name": "Federico Chiesa",
+    "wikidataQid": "Q26704703",
+    "countryId": "co_italy",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_federico_valverde",
+    "kind": "player",
+    "name": "Federico Valverde",
+    "aliases": [
+      "Fede Valverde",
+      "Federico Santiago Valverde Dipetta"
+    ],
+    "wikidataQid": "Q19509544",
+    "countryId": "co_uruguay",
+    "position": "MF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_felix_magath",
+    "kind": "player",
+    "name": "Felix Magath",
+    "wikidataQid": "Q153293",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1953
+  },
+  {
+    "id": "pl_fernandinho",
+    "kind": "player",
+    "name": "Fernandinho",
+    "aliases": [
+      "Fernando Luiz Roza"
+    ],
+    "wikidataQid": "Q459356",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_fernando_gago",
+    "kind": "player",
+    "name": "Fernando Gago",
+    "aliases": [
+      "Fernando Rubén Gago"
+    ],
+    "wikidataQid": "Q187426",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_fernando_hierro",
+    "kind": "player",
+    "name": "Fernando Hierro",
+    "aliases": [
+      "Fernando Ruiz Hierro"
+    ],
+    "wikidataQid": "Q205499",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_fernando_llorente",
+    "kind": "player",
+    "name": "Fernando Llorente",
+    "aliases": [
+      "Fernando Javier Llorente Torres"
+    ],
+    "wikidataQid": "Q187891",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_ferran_torres",
+    "kind": "player",
+    "name": "Ferran Torres",
+    "aliases": [
+      "Ferran Torres García"
+    ],
+    "wikidataQid": "Q44297797",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_filipe_luis",
+    "kind": "player",
+    "name": "Filipe Luís",
+    "aliases": [
+      "Filipe Luís Kasmirski"
+    ],
+    "wikidataQid": "Q350547",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_florent_malouda",
+    "kind": "player",
+    "name": "Florent Malouda",
+    "aliases": [
+      "Florent Johan Malouda"
+    ],
+    "wikidataQid": "Q1913",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_florian_wirtz",
+    "kind": "player",
+    "name": "Florian Wirtz",
+    "aliases": [
+      "Florian Richard Wirtz"
+    ],
+    "wikidataQid": "Q94699949",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 2003
+  },
+  {
+    "id": "pl_franco_baresi",
+    "kind": "player",
+    "name": "Franco Baresi",
+    "aliases": [
+      "Franchino Baresi"
+    ],
+    "wikidataQid": "Q189984",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_frank_de_boer",
+    "kind": "player",
+    "name": "Frank de Boer",
+    "aliases": [
+      "Franciscus de Boer"
+    ],
+    "wikidataQid": "Q219657",
+    "position": "DF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_frenkie_de_jong",
+    "kind": "player",
+    "name": "Frenkie de Jong",
+    "wikidataQid": "Q19898898",
+    "position": "MF",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_gabriel_jesus",
+    "kind": "player",
+    "name": "Gabriel Jesus",
+    "aliases": [
+      "Gabriel Fernando de Jesus"
+    ],
+    "wikidataQid": "Q19708656",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_gaku_shibasaki",
+    "kind": "player",
+    "name": "Gaku Shibasaki",
+    "aliases": [
+      "Shibasaki Gaku"
+    ],
+    "wikidataQid": "Q2011456",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_gary_cahill",
+    "kind": "player",
+    "name": "Gary Cahill",
+    "wikidataQid": "Q223827",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_gavi",
+    "kind": "player",
+    "name": "Gavi",
+    "aliases": [
+      "Pablo Gavi",
+      "Pablo Martin Paez Gavira",
+      "Pablo Martín Páez Gavira"
+    ],
+    "wikidataQid": "Q108111889",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 2004
+  },
+  {
+    "id": "pl_genki_haraguchi",
+    "kind": "player",
+    "name": "Genki Haraguchi",
+    "wikidataQid": "Q982163",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_gervinho",
+    "kind": "player",
+    "name": "Gervinho",
+    "aliases": [
+      "Gervais Yao Kouassi"
+    ],
+    "wikidataQid": "Q208025",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_gianluca_zambrotta",
+    "kind": "player",
+    "name": "Gianluca Zambrotta",
+    "wikidataQid": "Q182907",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_gianluigi_donnarumma",
+    "kind": "player",
+    "name": "Gianluigi Donnarumma",
+    "aliases": [
+      "Donnarumma"
+    ],
+    "wikidataQid": "Q20830808",
+    "countryId": "co_italy",
+    "position": "GK",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_gigi_riva",
+    "kind": "player",
+    "name": "Gigi Riva",
+    "aliases": [
+      "Luigi Riva"
+    ],
+    "wikidataQid": "Q276026",
+    "countryId": "co_italy",
+    "birthYear": 1944
+  },
+  {
+    "id": "pl_giovani_dos_santos",
+    "kind": "player",
+    "name": "Giovani dos Santos",
+    "wikidataQid": "Q562337",
+    "countryId": "co_mexico",
+    "position": "MF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_giovanni_van_bronckhorst",
+    "kind": "player",
+    "name": "Giovanni van Bronckhorst",
+    "aliases": [
+      "Giovanni Christiaan van Bronckhorst"
+    ],
+    "wikidataQid": "Q173360",
+    "position": "DF",
+    "birthYear": 1975
+  },
+  {
+    "id": "pl_gojko_kacar",
+    "kind": "player",
+    "name": "Gojko Kačar",
+    "wikidataQid": "Q310723",
+    "countryId": "co_serbia",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_gotoku_sakai",
+    "kind": "player",
+    "name": "Gōtoku Sakai",
+    "wikidataQid": "Q558820",
+    "position": "DF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_guido_buchwald",
+    "kind": "player",
+    "name": "Guido Buchwald",
+    "wikidataQid": "Q77305",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1961
+  },
+  {
+    "id": "pl_hajime_hosogai",
+    "kind": "player",
+    "name": "Hajime Hosogai",
+    "wikidataQid": "Q287841",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_hakan_calhanoglu",
+    "kind": "player",
+    "name": "Hakan Çalhanoğlu",
+    "aliases": [
+      "Hakan Calhanoglu"
+    ],
+    "wikidataQid": "Q763465",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_hakan_sukur",
+    "kind": "player",
+    "name": "Hakan Şükür",
+    "aliases": [
+      "Hakan Sukur"
+    ],
+    "wikidataQid": "Q192974",
+    "position": "FW",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_hamit_altntop",
+    "kind": "player",
+    "name": "Hamit Altıntop",
+    "aliases": [
+      "Hamit Altintop"
+    ],
+    "wikidataQid": "Q44118",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_hansi_flick",
+    "kind": "player",
+    "name": "Hansi Flick",
+    "aliases": [
+      "Hans-Dieter Flick"
+    ],
+    "wikidataQid": "Q577384",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1965
+  },
+  {
+    "id": "pl_haris_seferovic",
+    "kind": "player",
+    "name": "Haris Seferovic",
+    "aliases": [
+      "Haris Seferović"
+    ],
+    "wikidataQid": "Q283762",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_hector_bellerin",
+    "kind": "player",
+    "name": "Héctor Bellerín",
+    "aliases": [
+      "Hector Bellerin",
+      "Hektor Bellerin"
+    ],
+    "wikidataQid": "Q14947422",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_henrik_larsson",
+    "kind": "player",
+    "name": "Henrik Larsson",
+    "aliases": [
+      "Edward Henrik Larsson"
+    ],
+    "wikidataQid": "Q179334",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_hiroshi_kiyotake",
+    "kind": "player",
+    "name": "Hiroshi Kiyotake",
+    "wikidataQid": "Q733494",
+    "position": "MF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_holger_badstuber",
+    "kind": "player",
+    "name": "Holger Badstuber",
+    "wikidataQid": "Q151278",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_hugo_almeida",
+    "kind": "player",
+    "name": "Hugo Almeida",
+    "aliases": [
+      "Hugo Miguel Pereira de Almeida"
+    ],
+    "wikidataQid": "Q105887",
+    "countryId": "co_portugal",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_iago_aspas",
+    "kind": "player",
+    "name": "iago Aspas",
+    "aliases": [
+      "Iago Aspas Juncal"
+    ],
+    "wikidataQid": "Q26380",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_ibrahim_afellay",
+    "kind": "player",
+    "name": "Ibrahim Afellay",
+    "wikidataQid": "Q165014",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_ibrahima_konate",
+    "kind": "player",
+    "name": "Ibrahima Konaté",
+    "aliases": [
+      "Ibrahima Konate"
+    ],
+    "wikidataQid": "Q30301454",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_ivan_klasnic",
+    "kind": "player",
+    "name": "Ivan Klasnić",
+    "wikidataQid": "Q153003",
+    "countryId": "co_croatia",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_ivica_olic",
+    "kind": "player",
+    "name": "Ivica Olić",
+    "aliases": [
+      "Ivica Olic"
+    ],
+    "wikidataQid": "Q150484",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_jack_grealish",
+    "kind": "player",
+    "name": "Jack Grealish",
+    "aliases": [
+      "Jack Peter Grealish"
+    ],
+    "wikidataQid": "Q16056053",
+    "position": "FW",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_jack_wilshere",
+    "kind": "player",
+    "name": "Jack Wilshere",
+    "wikidataQid": "Q15199",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_jadon_sancho",
+    "kind": "player",
+    "name": "Jadon Sancho",
+    "aliases": [
+      "Jadon Malik Sancho"
+    ],
+    "wikidataQid": "Q30148558",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_jamal_musiala",
+    "kind": "player",
+    "name": "Jamal Musiala",
+    "wikidataQid": "Q96072055",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 2003
+  },
+  {
+    "id": "pl_james_milner",
+    "kind": "player",
+    "name": "James Milner",
+    "aliases": [
+      "James Philip Milner"
+    ],
+    "wikidataQid": "Q191136",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_jamie_carragher",
+    "kind": "player",
+    "name": "Jamie Carragher",
+    "aliases": [
+      "James Lee Duncan Carragher",
+      "Carra",
+      "James Lee Duncan \"Jamie\" Carragher"
+    ],
+    "wikidataQid": "Q172211",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_jan_koller",
+    "kind": "player",
+    "name": "Jan Koller",
+    "wikidataQid": "Q152340",
+    "countryId": "co_czech_republic",
+    "position": "FW",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_jan_oblak",
+    "kind": "player",
+    "name": "Jan Oblak",
+    "wikidataQid": "Q2058682",
+    "position": "GK",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_jari_litmanen",
+    "kind": "player",
+    "name": "Jari Litmanen",
+    "aliases": [
+      "Litti",
+      "Jari Olavi Litmanen"
+    ],
+    "wikidataQid": "Q209650",
+    "position": "FW",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_javier_saviola",
+    "kind": "player",
+    "name": "Javier Saviola",
+    "aliases": [
+      "Javier Pedro Saviola",
+      "Javier Pedro Saviola Fernandez",
+      "Javier Pedro Saviola Fernández"
+    ],
+    "wikidataQid": "Q186071",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_jay_jay_okocha",
+    "kind": "player",
+    "name": "Jay-Jay Okocha",
+    "aliases": [
+      "Augustine Azuka Okocha",
+      "Jay Jay Okocha",
+      "Muhammet Yavuz"
+    ],
+    "wikidataQid": "Q605817",
+    "countryId": "co_nigeria",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_jean_pierre_papin",
+    "kind": "player",
+    "name": "Jean-Pierre Papin",
+    "aliases": [
+      "Jean-Pierre Roger Guillaume Papin"
+    ],
+    "wikidataQid": "Q13494",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_jesse_lingard",
+    "kind": "player",
+    "name": "Jesse Lingard",
+    "aliases": [
+      "Jesse Ellis Lingard"
+    ],
+    "wikidataQid": "Q6186603",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_joan_capdevila",
+    "kind": "player",
+    "name": "Joan Capdevila",
+    "aliases": [
+      "Joan Capdevila Méndez"
+    ],
+    "wikidataQid": "Q188793",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_joao_cancelo",
+    "kind": "player",
+    "name": "João Cancelo",
+    "aliases": [
+      "Joao Cancelo",
+      "Joao Pedro Cavaco Cancelo",
+      "João Pedro Cavaco Cancelo"
+    ],
+    "wikidataQid": "Q6298063",
+    "countryId": "co_portugal",
+    "position": "DF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_joao_moutinh0",
+    "kind": "player",
+    "name": "João Moutinh0",
+    "wikidataQid": "Q222151",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_joe_hart",
+    "kind": "player",
+    "name": "Joe Hart",
+    "aliases": [
+      "Charles Joseph John Hart"
+    ],
+    "wikidataQid": "Q187184",
+    "position": "GK",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_john_arne_riise",
+    "kind": "player",
+    "name": "John Arne Riise",
+    "aliases": [
+      "John Arne Semundseth Riise"
+    ],
+    "wikidataQid": "Q189827",
+    "countryId": "co_norway",
+    "position": "DF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_john_heitinga",
+    "kind": "player",
+    "name": "John Heitinga",
+    "aliases": [
+      "John Gijsbert Alan Heitinga"
+    ],
+    "wikidataQid": "Q946457",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_john_stones",
+    "kind": "player",
+    "name": "John Stones",
+    "wikidataQid": "Q2025900",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_jon_dahl_tomasson",
+    "kind": "player",
+    "name": "Jon Dahl Tomasson",
+    "wikidataQid": "Q203657",
+    "position": "FW",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_jonas_hector",
+    "kind": "player",
+    "name": "Jonas Hector",
+    "wikidataQid": "Q994561",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_jonathan_tah",
+    "kind": "player",
+    "name": "Jonathan Tah",
+    "aliases": [
+      "Jonathan Glao Tah"
+    ],
+    "wikidataQid": "Q14640027",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_jordan_pickford",
+    "kind": "player",
+    "name": "Jordan Pickford",
+    "aliases": [
+      "Jordan Lee Logan",
+      "Jordan Lee Pickford"
+    ],
+    "wikidataQid": "Q13014035",
+    "position": "GK",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_jorginho",
+    "kind": "player",
+    "name": "Jorginho",
+    "aliases": [
+      "Jorge de Amorim Campos Oliveira"
+    ],
+    "wikidataQid": "Q163750",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_jose_antonio_reyes",
+    "kind": "player",
+    "name": "José Antonio Reyes",
+    "aliases": [
+      "José Reyes",
+      "José Antonio Reyes Calderón"
+    ],
+    "wikidataQid": "Q276399",
+    "countryId": "co_spain",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_joshua_kennedy",
+    "kind": "player",
+    "name": "Joshua Kennedy",
+    "aliases": [
+      "Joshua Blake Kennedy"
+    ],
+    "wikidataQid": "Q311559",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_juan_roman_riquelme",
+    "kind": "player",
+    "name": "Juan Román Riquelme",
+    "aliases": [
+      "Juan Roman Riquelme"
+    ],
+    "wikidataQid": "Q192965",
+    "countryId": "co_argentina",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_jules_kounde",
+    "kind": "player",
+    "name": "Jules Koundé",
+    "aliases": [
+      "Jules Kounde",
+      "Jules Olivier Kounde",
+      "Jules Olivier Koundé"
+    ],
+    "wikidataQid": "Q47170176",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_julian_alvarez",
+    "kind": "player",
+    "name": "Julián Alvarez",
+    "aliases": [
+      "Julian Alvarez",
+      "Julián Álvarez"
+    ],
+    "wikidataQid": "Q59381180",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_julian_brandt",
+    "kind": "player",
+    "name": "Julian Brandt",
+    "wikidataQid": "Q3189078",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_julio_salinas",
+    "kind": "player",
+    "name": "Julio Salinas",
+    "wikidataQid": "Q155290",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1962
+  },
+  {
+    "id": "pl_junichi_inamoto",
+    "kind": "player",
+    "name": "Junichi Inamoto",
+    "wikidataQid": "Q311191",
+    "position": "MF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_jupp_heynckes",
+    "kind": "player",
+    "name": "Jupp Heynckes",
+    "aliases": [
+      "Josef \"Jupp\" Heynckes"
+    ],
+    "wikidataQid": "Q152107",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1945
+  },
+  {
+    "id": "pl_jurgen_kohler",
+    "kind": "player",
+    "name": "Jürgen Kohler",
+    "wikidataQid": "Q308925",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1965
+  },
+  {
+    "id": "pl_kai_havertz",
+    "kind": "player",
+    "name": "Kai Havertz",
+    "aliases": [
+      "Kai Lukas Havertz"
+    ],
+    "wikidataQid": "Q27310755",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_kazuyoshi_miura",
+    "kind": "player",
+    "name": "Kazuyoshi Miura",
+    "wikidataQid": "Q331953",
+    "position": "FW",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_kenny_dalglish",
+    "kind": "player",
+    "name": "Kenny Dalglish",
+    "aliases": [
+      "Kenneth Mathieson Dalglish",
+      "Sir Kenneth Mathieson Dalglish",
+      "Sir Kenny Dalglish"
+    ],
+    "wikidataQid": "Q187198",
+    "position": "FW",
+    "birthYear": 1951
+  },
+  {
+    "id": "pl_kepa_arrizabalaga",
+    "kind": "player",
+    "name": "Kepa Arrizabalaga",
+    "aliases": [
+      "Kepa",
+      "Kepa Arrizabalaga Revuelta"
+    ],
+    "wikidataQid": "Q3195361",
+    "countryId": "co_spain",
+    "position": "GK",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_kevin_grokreutz",
+    "kind": "player",
+    "name": "Kevin Großkreutz",
+    "aliases": [
+      "Kevin Grosskreutz"
+    ],
+    "wikidataQid": "Q158367",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_kevin_kuranyi",
+    "kind": "player",
+    "name": "Kevin Kurányi",
+    "aliases": [
+      "Kevin Dennis Kurányi Rodríguez",
+      "Kevin Kuranyi"
+    ],
+    "wikidataQid": "Q152968",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_kevin_prince_boateng",
+    "kind": "player",
+    "name": "Kevin-Prince Boateng",
+    "wikidataQid": "Q151034",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_khalid_boulahrouz",
+    "kind": "player",
+    "name": "Khalid Boulahrouz",
+    "wikidataQid": "Q191848",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_koke",
+    "kind": "player",
+    "name": "Koke",
+    "aliases": [
+      "Jorge Resurrección",
+      "Jorge Resurrección Merodio",
+      "Koke Resurrecion"
+    ],
+    "wikidataQid": "Q276091",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_kolo_toure",
+    "kind": "player",
+    "name": "Kolo Touré",
+    "aliases": [
+      "Kolo Abib Toure",
+      "Kolo Abib Touré",
+      "Kolo Toure"
+    ],
+    "wikidataQid": "Q147589",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_kyle_walker",
+    "kind": "player",
+    "name": "Kyle Walker",
+    "aliases": [
+      "Kyle Andrew Walker"
+    ],
+    "wikidataQid": "Q59108",
+    "position": "DF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_landon_donovan",
+    "kind": "player",
+    "name": "Landon Donovan",
+    "aliases": [
+      "Landon Timothy Donovan"
+    ],
+    "wikidataQid": "Q202237",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_lars_bender",
+    "kind": "player",
+    "name": "Lars Bender",
+    "aliases": [
+      "Bender, Lars"
+    ],
+    "wikidataQid": "Q152886",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_laurent_blanc",
+    "kind": "player",
+    "name": "Laurent Blanc",
+    "aliases": [
+      "Laurent Robert Blanc"
+    ],
+    "wikidataQid": "Q1839",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1965
+  },
+  {
+    "id": "pl_lautaro_martinez",
+    "kind": "player",
+    "name": "Lautaro Martínez",
+    "aliases": [
+      "Lautaro Javier Martínez",
+      "Lautaro Martinez",
+      "Lautaro Javier Martinez"
+    ],
+    "wikidataQid": "Q21484126",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_leighton_baines",
+    "kind": "player",
+    "name": "Leighton Baines",
+    "aliases": [
+      "Leighton John Baines"
+    ],
+    "wikidataQid": "Q187989",
+    "position": "DF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_leon_goretzka",
+    "kind": "player",
+    "name": "Leon Goretzka",
+    "wikidataQid": "Q520721",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_lorenzo_insigne",
+    "kind": "player",
+    "name": "Lorenzo Insigne",
+    "wikidataQid": "Q1756086",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_luca_toni",
+    "kind": "player",
+    "name": "Luca Toni",
+    "wikidataQid": "Q186478",
+    "countryId": "co_italy",
+    "position": "FW",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_lucas_digne",
+    "kind": "player",
+    "name": "Lucas Digne",
+    "wikidataQid": "Q72648",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_lucas_vazquez",
+    "kind": "player",
+    "name": "Lucas Vázquez",
+    "aliases": [
+      "El Expreso de La Coruña",
+      "Lucas Vazquez",
+      "Lucas Vázquez Iglesias"
+    ],
+    "wikidataQid": "Q5981954",
+    "countryId": "co_spain",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_lucio",
+    "kind": "player",
+    "name": "Lúcio",
+    "aliases": [
+      "Lucimar da Silva Ferreira",
+      "Lucio"
+    ],
+    "wikidataQid": "Q156822",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_luis_aragones",
+    "kind": "player",
+    "name": "Luis Aragonés",
+    "aliases": [
+      "El Sabio de Hortaleza",
+      "José Luis Aragonés Suárez",
+      "Luis Aragones"
+    ],
+    "wikidataQid": "Q576614",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1938
+  },
+  {
+    "id": "pl_luis_diaz",
+    "kind": "player",
+    "name": "Luis Díaz",
+    "aliases": [
+      "Luis Fernando Díaz Marulanda"
+    ],
+    "wikidataQid": "Q28531111",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_luiz_gustavo",
+    "kind": "player",
+    "name": "Luiz Gustavo",
+    "aliases": [
+      "Luiz Gustavo Dias"
+    ],
+    "wikidataQid": "Q329451",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_ukasz_piszczek",
+    "kind": "player",
+    "name": "Łukasz Piszczek",
+    "aliases": [
+      "Łukasz Piotr Piszczek"
+    ],
+    "wikidataQid": "Q153266",
+    "countryId": "co_poland",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_maicon",
+    "kind": "player",
+    "name": "Maicon",
+    "aliases": [
+      "Maicon Douglas Sisenando"
+    ],
+    "wikidataQid": "Q177686",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_marc_bartra",
+    "kind": "player",
+    "name": "Marc Bartra",
+    "aliases": [
+      "Marc Bartra Aregall"
+    ],
+    "wikidataQid": "Q310625",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_marcel_desailly",
+    "kind": "player",
+    "name": "Marcel Desailly",
+    "aliases": [
+      "Marcel David Desailly",
+      "Odenkey Abbey"
+    ],
+    "wikidataQid": "Q193625",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_marcel_schmelzer",
+    "kind": "player",
+    "name": "Marcel Schmelzer",
+    "aliases": [
+      "Schmelzer, Marcel"
+    ],
+    "wikidataQid": "Q153416",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_marcell_jansen",
+    "kind": "player",
+    "name": "Marcell Jansen",
+    "wikidataQid": "Q152940",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_marco_materazzi",
+    "kind": "player",
+    "name": "Marco Materazzi",
+    "wikidataQid": "Q185081",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_marcos_rojo",
+    "kind": "player",
+    "name": "Marcos Rojo",
+    "aliases": [
+      "Marquitos",
+      "marquiñoooo",
+      "Marquitos Rojo"
+    ],
+    "wikidataQid": "Q507890",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_marek_hamsik",
+    "kind": "player",
+    "name": "Marek Hamšík",
+    "aliases": [
+      "Marek Hamsik"
+    ],
+    "wikidataQid": "Q201825",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_mark_hughes",
+    "kind": "player",
+    "name": "Mark Hughes",
+    "aliases": [
+      "Leslie Mark Hughes"
+    ],
+    "wikidataQid": "Q214513",
+    "position": "FW",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_mark_van_bommel",
+    "kind": "player",
+    "name": "Mark van Bommel",
+    "aliases": [
+      "Mark Peter Gertruda Andreas van Bommel"
+    ],
+    "wikidataQid": "Q151853",
+    "position": "MF",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_marko_marin",
+    "kind": "player",
+    "name": "Marko Marin",
+    "wikidataQid": "Q150921",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_marouane_fellaini",
+    "kind": "player",
+    "name": "Marouane Fellaini",
+    "aliases": [
+      "Marouane Fellaini-Bakkioui"
+    ],
+    "wikidataQid": "Q275169",
+    "countryId": "co_belgium",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_martin_caceres",
+    "kind": "player",
+    "name": "Martín Cáceres",
+    "aliases": [
+      "José Martín Cáceres Silva",
+      "Martin Caceres"
+    ],
+    "wikidataQid": "Q194107",
+    "countryId": "co_uruguay",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_martin_demichelis",
+    "kind": "player",
+    "name": "Martín Demichelis",
+    "aliases": [
+      "Martín Gastón Demichelis"
+    ],
+    "wikidataQid": "Q150947",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_martin_degaard",
+    "kind": "player",
+    "name": "Martin Ødegaard",
+    "aliases": [
+      "Martin Odegaard"
+    ],
+    "wikidataQid": "Q16902219",
+    "countryId": "co_norway",
+    "position": "MF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_mason_mount",
+    "kind": "player",
+    "name": "Mason Mount",
+    "aliases": [
+      "Mason Tony Mount"
+    ],
+    "wikidataQid": "Q38000669",
+    "position": "MF",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_massimiliano_allegri",
+    "kind": "player",
+    "name": "Massimiliano Allegri",
+    "aliases": [
+      "Max Allegri"
+    ],
+    "wikidataQid": "Q354529",
+    "countryId": "co_italy",
+    "position": "MF",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_massimo_oddo",
+    "kind": "player",
+    "name": "Massimo Oddo",
+    "wikidataQid": "Q125438",
+    "countryId": "co_italy",
+    "position": "DF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_mateo_kovacic",
+    "kind": "player",
+    "name": "Mateo Kovačić",
+    "aliases": [
+      "Mateo Kovacic"
+    ],
+    "wikidataQid": "Q701297",
+    "countryId": "co_croatia",
+    "position": "MF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_matthias_ginter",
+    "kind": "player",
+    "name": "Matthias Ginter",
+    "wikidataQid": "Q129109",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_matthias_sammer",
+    "kind": "player",
+    "name": "Matthias Sammer",
+    "wikidataQid": "Q57183",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_mauro_camoranesi",
+    "kind": "player",
+    "name": "Mauro Camoranesi",
+    "aliases": [
+      "Mauro Germán Camoranesi"
+    ],
+    "wikidataQid": "Q189716",
+    "countryId": "co_argentina",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_maxi_rodriguez",
+    "kind": "player",
+    "name": "Maxi Rodriguez",
+    "aliases": [
+      "La fiera Rodriguez"
+    ],
+    "wikidataQid": "Q190929",
+    "countryId": "co_argentina",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_medhi_benatia",
+    "kind": "player",
+    "name": "Medhi Benatia",
+    "aliases": [
+      "Medhi Amine El Mouttaqi Benatia",
+      "Mehdi Benatia"
+    ],
+    "wikidataQid": "Q462779",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_mehmet_scholl",
+    "kind": "player",
+    "name": "Mehmet Scholl",
+    "aliases": [
+      "Mehmet Yüksel",
+      "Mehmet Tobias Scholl"
+    ],
+    "wikidataQid": "Q154156",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_michy_batshuayi",
+    "kind": "player",
+    "name": "Michy Batshuayi",
+    "wikidataQid": "Q2301910",
+    "countryId": "co_belgium",
+    "position": "FW",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_milan_baros",
+    "kind": "player",
+    "name": "Milan Baroš",
+    "aliases": [
+      "Milan Baros"
+    ],
+    "wikidataQid": "Q180581",
+    "countryId": "co_czech_republic",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_milivoje_novakovic",
+    "kind": "player",
+    "name": "Milivoje Novaković",
+    "wikidataQid": "Q213085",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_miralem_pjanic",
+    "kind": "player",
+    "name": "Miralem Pjanić",
+    "aliases": [
+      "Miralem Pjanic"
+    ],
+    "wikidataQid": "Q146907",
+    "countryId": "co_bosnia",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_nacho_monreal",
+    "kind": "player",
+    "name": "Nacho Monreal",
+    "wikidataQid": "Q342219",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_naohiro_takahara",
+    "kind": "player",
+    "name": "Naohiro Takahara",
+    "wikidataQid": "Q331975",
+    "position": "FW",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_nicklas_bendtner",
+    "kind": "player",
+    "name": "Nicklas Bendtner",
+    "wikidataQid": "Q167240",
+    "position": "FW",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_nico_williams",
+    "kind": "player",
+    "name": "Nico Williams",
+    "aliases": [
+      "Nicolas Williams Arthuer"
+    ],
+    "wikidataQid": "Q104414736",
+    "position": "FW",
+    "birthYear": 2002
+  },
+  {
+    "id": "pl_nicolas_otamendi",
+    "kind": "player",
+    "name": "Nicolás Otamendi",
+    "aliases": [
+      "Nicolás Hernán Gonzalo Otamendi"
+    ],
+    "wikidataQid": "Q182063",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_nigel_de_jong",
+    "kind": "player",
+    "name": "Nigel de Jong",
+    "wikidataQid": "Q185650",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_niklas_sule",
+    "kind": "player",
+    "name": "Niklas Süle",
+    "wikidataQid": "Q13365847",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_niko_kovac",
+    "kind": "player",
+    "name": "Niko Kovač",
+    "aliases": [
+      "Niko Kovac"
+    ],
+    "wikidataQid": "Q154305",
+    "countryId": "co_croatia",
+    "position": "MF",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_nuri_sahin",
+    "kind": "player",
+    "name": "Nuri Şahin",
+    "aliases": [
+      "Nuri Sahin"
+    ],
+    "wikidataQid": "Q75857",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_obafemi_martins",
+    "kind": "player",
+    "name": "Obafemi Martins",
+    "aliases": [
+      "Obafemi Akinwunmi Martins"
+    ],
+    "wikidataQid": "Q207548",
+    "countryId": "co_nigeria",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_oliver_bierhoff",
+    "kind": "player",
+    "name": "Oliver Bierhoff",
+    "wikidataQid": "Q152844",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_oscar",
+    "kind": "player",
+    "name": "Oscar",
+    "aliases": [
+      "Oscar dos Santos Emboaba Junior",
+      "Oscar dos Santos Emboaba Júnior"
+    ],
+    "wikidataQid": "Q19497",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_ottmar_hitzfeld",
+    "kind": "player",
+    "name": "Ottmar Hitzfeld",
+    "wikidataQid": "Q44478",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1949
+  },
+  {
+    "id": "pl_owen_hargreaves",
+    "kind": "player",
+    "name": "Owen Hargreaves",
+    "wikidataQid": "Q437545",
+    "position": "MF",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_pablo_zabaleta",
+    "kind": "player",
+    "name": "Pablo Zabaleta",
+    "aliases": [
+      "Pablo Javier Zabaleta junior"
+    ],
+    "wikidataQid": "Q244790",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_paco_alcacer",
+    "kind": "player",
+    "name": "Paco Alcácer",
+    "aliases": [
+      "El potro de Vallecas",
+      "Paquito"
+    ],
+    "wikidataQid": "Q507190",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_paolo_guerrero",
+    "kind": "player",
+    "name": "Paolo Guerrero",
+    "wikidataQid": "Q156802",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_patrick_kluivert",
+    "kind": "player",
+    "name": "Patrick Kluivert",
+    "aliases": [
+      "Patrick Stephan Kluivert"
+    ],
+    "wikidataQid": "Q189686",
+    "position": "FW",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_patrik_schick",
+    "kind": "player",
+    "name": "Patrik Schick",
+    "aliases": [
+      "Patrick Shick"
+    ],
+    "wikidataQid": "Q16910257",
+    "countryId": "co_czech_republic",
+    "position": "FW",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_paul_breitner",
+    "kind": "player",
+    "name": "Paul Breitner",
+    "wikidataQid": "Q44458",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1951
+  },
+  {
+    "id": "pl_paul_gascoigne",
+    "kind": "player",
+    "name": "Paul Gascoigne",
+    "aliases": [
+      "Gazza",
+      "Paul John Gascoigne"
+    ],
+    "wikidataQid": "Q13002",
+    "position": "MF",
+    "birthYear": 1967
+  },
+  {
+    "id": "pl_paulinho",
+    "kind": "player",
+    "name": "Paulinho",
+    "aliases": [
+      "José Paulo Bezerra Maciel Junior"
+    ],
+    "wikidataQid": "Q73082",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_paulo_foutro",
+    "kind": "player",
+    "name": "paulo foutro",
+    "aliases": [
+      "Futre",
+      "Jorge Paulo dos Santos Futre",
+      "Jorge Paulo Futre"
+    ],
+    "wikidataQid": "Q363829",
+    "countryId": "co_portugal",
+    "birthYear": 1966
+  },
+  {
+    "id": "pl_pedri",
+    "kind": "player",
+    "name": "Pedri",
+    "aliases": [
+      "Pedri González",
+      "Pedri Gonzalez Lopez/Pedri poter",
+      "Pedro González López"
+    ],
+    "wikidataQid": "Q66606355",
+    "countryId": "co_spain",
+    "birthYear": 2002
+  },
+  {
+    "id": "pl_pedro",
+    "kind": "player",
+    "name": "Pedro",
+    "aliases": [
+      "Pedro Rodríguez",
+      "Pedro Rodriguez",
+      "Pedro Eliezer Rodriguez Ledesma",
+      "Pedro Eliezer Rodríguez Ledesma"
+    ],
+    "wikidataQid": "Q179773",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_phil_foden",
+    "kind": "player",
+    "name": "Phil Foden",
+    "aliases": [
+      "Philip Foden",
+      "Philip Walter Foden"
+    ],
+    "wikidataQid": "Q30729096",
+    "position": "MF",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_phil_jones",
+    "kind": "player",
+    "name": "Phil Jones",
+    "aliases": [
+      "Philip Anthony Jones"
+    ],
+    "wikidataQid": "Q206641",
+    "position": "DF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_pierre_littbarski",
+    "kind": "player",
+    "name": "Pierre Littbarski",
+    "aliases": [
+      "Pierre Michael Littbarski"
+    ],
+    "wikidataQid": "Q47516",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_rafael_leao",
+    "kind": "player",
+    "name": "Rafael Leão",
+    "aliases": [
+      "Rafael Alexandre Conceição Leão",
+      "Rafael Alexandre da Conceição Leão"
+    ],
+    "wikidataQid": "Q30055335",
+    "countryId": "co_portugal",
+    "position": "FW",
+    "birthYear": 1999
+  },
+  {
+    "id": "pl_rafael_marquez",
+    "kind": "player",
+    "name": "Rafael Márquez",
+    "aliases": [
+      "Rafa Márquez"
+    ],
+    "wikidataQid": "Q186330",
+    "countryId": "co_mexico",
+    "position": "DF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_rafinha",
+    "kind": "player",
+    "name": "Rafinha",
+    "aliases": [
+      "Márcio Rafael Ferreira de Souza"
+    ],
+    "wikidataQid": "Q174926",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_ramon_diaz",
+    "kind": "player",
+    "name": "Ramón Díaz",
+    "aliases": [
+      "Ramon Diaz"
+    ],
+    "wikidataQid": "Q348557",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1959
+  },
+  {
+    "id": "pl_raphael_guerreiro",
+    "kind": "player",
+    "name": "Raphaël Guerreiro",
+    "aliases": [
+      "Raphael Guerreiro"
+    ],
+    "wikidataQid": "Q4241680",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_raphinha_papa_de_mbappe",
+    "kind": "player",
+    "name": "Raphinha papá de Mbappe",
+    "aliases": [
+      "Raphael Dias Belloli"
+    ],
+    "wikidataQid": "Q28861547",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_raul_meireles",
+    "kind": "player",
+    "name": "Raul Meireles",
+    "aliases": [
+      "Raul José Trindade Meireles"
+    ],
+    "wikidataQid": "Q175296",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_raymond_kopa",
+    "kind": "player",
+    "name": "Raymond Kopa",
+    "aliases": [
+      "Raymond Kopaszewski"
+    ],
+    "wikidataQid": "Q123118",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1931
+  },
+  {
+    "id": "pl_renato_augusto",
+    "kind": "player",
+    "name": "Renato Augusto",
+    "wikidataQid": "Q357844",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_richarlison",
+    "kind": "player",
+    "name": "Richarlison",
+    "aliases": [
+      "Richarlison de Andrade"
+    ],
+    "wikidataQid": "Q20806743",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_ritsu_doan",
+    "kind": "player",
+    "name": "Ritsu Dōan",
+    "aliases": [
+      "Ritsu Doan",
+      "Doan Ritsu",
+      "Dōan Ritsu",
+      "Douan Ritsu",
+      "Ritsu Douan"
+    ],
+    "wikidataQid": "Q20630956",
+    "position": "FW",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_robbie_keane",
+    "kind": "player",
+    "name": "Robbie Keane",
+    "aliases": [
+      "Robert David Keane"
+    ],
+    "wikidataQid": "Q184612",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_robert_enke",
+    "kind": "player",
+    "name": "Robert Enke",
+    "wikidataQid": "Q107089",
+    "position": "GK",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_robert_pires",
+    "kind": "player",
+    "name": "Robert Pires",
+    "aliases": [
+      "Robert Emmanuel Pires"
+    ],
+    "wikidataQid": "Q113156",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_robin_gosens",
+    "kind": "player",
+    "name": "Robin Gosens",
+    "aliases": [
+      "Robin Everardus Gosens"
+    ],
+    "wikidataQid": "Q15644548",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_rodrygo",
+    "kind": "player",
+    "name": "Rodrygo",
+    "aliases": [
+      "Rodrygo Goes",
+      "Rodrygo Silva de Goes"
+    ],
+    "wikidataQid": "Q42728914",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 2001
+  },
+  {
+    "id": "pl_roman_pavlyuchenko",
+    "kind": "player",
+    "name": "Roman Pavlyuchenko",
+    "aliases": [
+      "Roman Anatolyevich Pavlyuchenko"
+    ],
+    "wikidataQid": "Q168029",
+    "countryId": "co_russia",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_roman_weidenfeller",
+    "kind": "player",
+    "name": "Roman Weidenfeller",
+    "wikidataQid": "Q154397",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_roque_santa_cruz",
+    "kind": "player",
+    "name": "Roque Santa Cruz",
+    "aliases": [
+      "Roque Luis Santa Cruz Cantero"
+    ],
+    "wikidataQid": "Q152492",
+    "position": "FW",
+    "birthYear": 1981
+  },
+  {
+    "id": "pl_roy_keane",
+    "kind": "player",
+    "name": "Roy Keane",
+    "aliases": [
+      "Roy Maurice Keane"
+    ],
+    "wikidataQid": "Q188632",
+    "position": "MF",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_roy_makaay",
+    "kind": "player",
+    "name": "Roy Makaay",
+    "aliases": [
+      "Roy Rudolphus Antonius Makaay"
+    ],
+    "wikidataQid": "Q152725",
+    "position": "FW",
+    "birthYear": 1975
+  },
+  {
+    "id": "pl_rudi_voller",
+    "kind": "player",
+    "name": "Rudi Völler",
+    "aliases": [
+      "El Bobo",
+      "Völler",
+      "Rudolf Völler",
+      "Tante Käthe"
+    ],
+    "wikidataQid": "Q44464",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_rui_costa",
+    "kind": "player",
+    "name": "Rui Costa",
+    "aliases": [
+      "Rui Manuel César Costa"
+    ],
+    "wikidataQid": "Q190608",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1972
+  },
+  {
+    "id": "pl_rui_patricio",
+    "kind": "player",
+    "name": "Rui Patrício",
+    "aliases": [
+      "Rui Pedro dos Santos Patrício"
+    ],
+    "wikidataQid": "Q294980",
+    "countryId": "co_portugal",
+    "position": "GK",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_rustu_recber",
+    "kind": "player",
+    "name": "Rüştü Reçber",
+    "wikidataQid": "Q201900",
+    "position": "GK",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_ryan_babel",
+    "kind": "player",
+    "name": "Ryan Babel",
+    "aliases": [
+      "Ryan Guno Babel"
+    ],
+    "wikidataQid": "Q184218",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_ryo_miyaichi",
+    "kind": "player",
+    "name": "Ryo Miyaichi",
+    "wikidataQid": "Q310605",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_saki_kumagai",
+    "kind": "player",
+    "name": "Saki Kumagai",
+    "wikidataQid": "Q220950",
+    "position": "DF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_salomon_kalou",
+    "kind": "player",
+    "name": "Salomon Kalou",
+    "aliases": [
+      "Salomon Armand Magloire Kalou"
+    ],
+    "wikidataQid": "Q180462",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_sami_hyypia",
+    "kind": "player",
+    "name": "Sami Hyypiä",
+    "aliases": [
+      "Sami Hyypia",
+      "Sami Tuomas Hyypia",
+      "Sami Tuomas Hyypiä"
+    ],
+    "wikidataQid": "Q192840",
+    "position": "DF",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_samir_handanovic",
+    "kind": "player",
+    "name": "Samir Handanović",
+    "wikidataQid": "Q213002",
+    "position": "GK",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_santi_cazorla",
+    "kind": "player",
+    "name": "Santi Cazorla",
+    "aliases": [
+      "Santiago Cazorla Gonzalez",
+      "Santiago Cazorla González"
+    ],
+    "wikidataQid": "Q185225",
+    "countryId": "co_spain",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_santiago_bernabeu_yeste",
+    "kind": "player",
+    "name": "Santiago Bernabéu Yeste",
+    "aliases": [
+      "Santiago Bernabeu Yeste"
+    ],
+    "wikidataQid": "Q223156",
+    "countryId": "co_spain",
+    "position": "FW",
+    "birthYear": 1895
+  },
+  {
+    "id": "pl_sardar_azmoun",
+    "kind": "player",
+    "name": "Sardar Azmoun",
+    "aliases": [
+      "Sardar Azmoon"
+    ],
+    "wikidataQid": "Q5298679",
+    "position": "FW",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_sebastian_kehl",
+    "kind": "player",
+    "name": "Sebastian Kehl",
+    "wikidataQid": "Q141354",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_sepp_maier",
+    "kind": "player",
+    "name": "Sepp Maier",
+    "wikidataQid": "Q44194",
+    "countryId": "co_germany",
+    "position": "GK",
+    "birthYear": 1944
+  },
+  {
+    "id": "pl_serge_gnabry",
+    "kind": "player",
+    "name": "Serge Gnabry",
+    "aliases": [
+      "Serge David Gnabry"
+    ],
+    "wikidataQid": "Q59490",
+    "position": "FW",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_sergi_roberto",
+    "kind": "player",
+    "name": "Sergi Roberto",
+    "wikidataQid": "Q703269",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_seydou_doumbia",
+    "kind": "player",
+    "name": "Seydou Doumbia",
+    "aliases": [
+      "Doumbia Seydou"
+    ],
+    "wikidataQid": "Q299244",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_shkodran_mustafi",
+    "kind": "player",
+    "name": "Shkodran Mustafi",
+    "wikidataQid": "Q694014",
+    "countryId": "co_germany",
+    "position": "DF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_shunsuke_nakamura",
+    "kind": "player",
+    "name": "Shunsuke Nakamura",
+    "wikidataQid": "Q191138",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_simon_kjr",
+    "kind": "player",
+    "name": "Simon Kjær",
+    "aliases": [
+      "Simon Kjaer",
+      "Simon Thorup Kjaer",
+      "Simon Thorup Kjær"
+    ],
+    "wikidataQid": "Q208638",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_socrates",
+    "kind": "player",
+    "name": "Sócrates",
+    "aliases": [
+      "Socrates",
+      "Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira"
+    ],
+    "wikidataQid": "Q102331",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1954
+  },
+  {
+    "id": "pl_sokratis_papastathopoulos",
+    "kind": "player",
+    "name": "Sokratis Papastathopoulos",
+    "wikidataQid": "Q192923",
+    "countryId": "co_greece",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_stephan_el_shaarawy",
+    "kind": "player",
+    "name": "Stephan El Shaarawy",
+    "aliases": [
+      "Stephan Kareem El Shaarawy"
+    ],
+    "wikidataQid": "Q12984",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_steven_pienaar",
+    "kind": "player",
+    "name": "Steven Pienaar",
+    "aliases": [
+      "\"Principito\""
+    ],
+    "wikidataQid": "Q193488",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_sulley_muntari",
+    "kind": "player",
+    "name": "Sulley Muntari",
+    "aliases": [
+      "Suleyman Ali \"Sulley\" Muntari",
+      "Suleyman Ali Muntari",
+      "Suleyman Muntari"
+    ],
+    "wikidataQid": "Q193768",
+    "position": "MF",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_takashi_usami",
+    "kind": "player",
+    "name": "Takashi Usami",
+    "wikidataQid": "Q367474",
+    "position": "MF",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_takefusa_kubo",
+    "kind": "player",
+    "name": "Takefusa Kubo",
+    "wikidataQid": "Q27067753",
+    "position": "MF",
+    "birthYear": 2001
+  },
+  {
+    "id": "pl_takuma_ano",
+    "kind": "player",
+    "name": "Takuma ano",
+    "aliases": [
+      "Asano Takuma"
+    ],
+    "wikidataQid": "Q11557367",
+    "position": "FW",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_theofanis_gekas",
+    "kind": "player",
+    "name": "Theofanis Gekas",
+    "aliases": [
+      "Fanis Gekas"
+    ],
+    "wikidataQid": "Q201885",
+    "countryId": "co_greece",
+    "position": "FW",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_thiago_motta",
+    "kind": "player",
+    "name": "Thiago Motta",
+    "wikidataQid": "Q191885",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_thiago_neves",
+    "kind": "player",
+    "name": "Thiago Neves",
+    "aliases": [
+      "Thiago Neves Augusto"
+    ],
+    "wikidataQid": "Q370014",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_thomas_hitzlsperger",
+    "kind": "player",
+    "name": "Thomas Hitzlsperger",
+    "wikidataQid": "Q57152",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_thomas_vermaelen",
+    "kind": "player",
+    "name": "Thomas Vermaelen",
+    "wikidataQid": "Q184177",
+    "countryId": "co_belgium",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_tim_cahill",
+    "kind": "player",
+    "name": "Tim Cahill",
+    "aliases": [
+      "Timothy Filiga Cahill"
+    ],
+    "wikidataQid": "Q187238",
+    "position": "MF",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_tim_howard",
+    "kind": "player",
+    "name": "Tim Howard",
+    "aliases": [
+      "Timothy Matthew Howard"
+    ],
+    "wikidataQid": "Q200785",
+    "position": "GK",
+    "birthYear": 1979
+  },
+  {
+    "id": "pl_timo_werner",
+    "kind": "player",
+    "name": "Timo Werner",
+    "wikidataQid": "Q3529022",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1996
+  },
+  {
+    "id": "pl_tinga",
+    "kind": "player",
+    "name": "Tinga",
+    "aliases": [
+      "Paulo César Fonseca do Nascimento",
+      "Paulo César Tinga"
+    ],
+    "wikidataQid": "Q531080",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_tito_vilanova",
+    "kind": "player",
+    "name": "Tito Vilanova",
+    "aliases": [
+      "Francesc Vilanova i Bayó"
+    ],
+    "wikidataQid": "Q222924",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_toby_alderweireld",
+    "kind": "player",
+    "name": "Toby Alderweireld",
+    "aliases": [
+      "Toby Albertine Maurits Alderweireld"
+    ],
+    "wikidataQid": "Q128840",
+    "countryId": "co_belgium",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_tomas_rosicky",
+    "kind": "player",
+    "name": "Tomáš Rosický",
+    "aliases": [
+      "Tomas Rosicky"
+    ],
+    "wikidataQid": "Q29162",
+    "countryId": "co_czech_republic",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_tomislav_maric",
+    "kind": "player",
+    "name": "Tomislav Marić",
+    "wikidataQid": "Q113351",
+    "countryId": "co_croatia",
+    "position": "FW",
+    "birthYear": 1973
+  },
+  {
+    "id": "pl_tomoaki_makino",
+    "kind": "player",
+    "name": "Tomoaki Makino",
+    "wikidataQid": "Q558869",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_torsten_frings",
+    "kind": "player",
+    "name": "Torsten Frings",
+    "aliases": [
+      "Torsten Klaus Frings"
+    ],
+    "wikidataQid": "Q107076",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1976
+  },
+  {
+    "id": "pl_trent_alexander_arnold",
+    "kind": "player",
+    "name": "Trent Alexander-Arnold",
+    "aliases": [
+      "TAA",
+      "Trent John Alexander-Arnold"
+    ],
+    "wikidataQid": "Q27569376",
+    "position": "MF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_txiki_begiristain",
+    "kind": "player",
+    "name": "Txiki Begiristain",
+    "aliases": [
+      "Aitor Begiristain Mujika"
+    ],
+    "wikidataQid": "Q317201",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1964
+  },
+  {
+    "id": "pl_uli_hoene",
+    "kind": "player",
+    "name": "Uli Hoeneß",
+    "aliases": [
+      "Ulrich Hoeness",
+      "Ulrich Hoeneß"
+    ],
+    "wikidataQid": "Q44340",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1952
+  },
+  {
+    "id": "pl_unai_emery",
+    "kind": "player",
+    "name": "Unai Emery",
+    "aliases": [
+      "Emery",
+      "Unai Emery Etxegoien"
+    ],
+    "wikidataQid": "Q295610",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1971
+  },
+  {
+    "id": "pl_uwe_bein",
+    "kind": "player",
+    "name": "Uwe Bein",
+    "wikidataQid": "Q455161",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_uwe_seeler",
+    "kind": "player",
+    "name": "Uwe Seeler",
+    "wikidataQid": "Q44470",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1936
+  },
+  {
+    "id": "pl_valon_behrami",
+    "kind": "player",
+    "name": "Valon Behrami",
+    "wikidataQid": "Q217389",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_vedad_ibisevic",
+    "kind": "player",
+    "name": "Vedad Ibišević",
+    "aliases": [
+      "Vedad Ibisevic"
+    ],
+    "wikidataQid": "Q155604",
+    "countryId": "co_bosnia",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_vedran_corluka",
+    "kind": "player",
+    "name": "Vedran Ćorluka",
+    "wikidataQid": "Q206306",
+    "countryId": "co_croatia",
+    "position": "DF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_vicente_del_bosque",
+    "kind": "player",
+    "name": "Vicente del Bosque",
+    "aliases": [
+      "Del Bosque",
+      "V. del Bosque"
+    ],
+    "wikidataQid": "Q657360",
+    "countryId": "co_spain",
+    "position": "MF",
+    "birthYear": 1950
+  },
+  {
+    "id": "pl_viktor_gyokeres",
+    "kind": "player",
+    "name": "Viktor Gyökeres",
+    "aliases": [
+      "Viktor Einar Gyokeres",
+      "Viktor Einar Gyökeres",
+      "Viktor Gyokeres"
+    ],
+    "wikidataQid": "Q47075606",
+    "countryId": "co_sweden",
+    "position": "FW",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_walter_samuel",
+    "kind": "player",
+    "name": "Walter Samuel",
+    "aliases": [
+      "Walter Adrian Samuel",
+      "Walter Adrián Samuel"
+    ],
+    "wikidataQid": "Q193702",
+    "countryId": "co_argentina",
+    "position": "DF",
+    "birthYear": 1978
+  },
+  {
+    "id": "pl_wataru_endo",
+    "kind": "player",
+    "name": "Wataru Endō",
+    "aliases": [
+      "Endo Wataru",
+      "Endō Wataru",
+      "Endou Wataru",
+      "Wataru Endo",
+      "Wataru Endou"
+    ],
+    "wikidataQid": "Q10526787",
+    "position": "MF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_william_gallas",
+    "kind": "player",
+    "name": "William Gallas",
+    "aliases": [
+      "William Eric Gallas"
+    ],
+    "wikidataQid": "Q1937",
+    "countryId": "co_france",
+    "position": "DF",
+    "birthYear": 1977
+  },
+  {
+    "id": "pl_willian",
+    "kind": "player",
+    "name": "Willian",
+    "aliases": [
+      "Willian Borges da Silva"
+    ],
+    "wikidataQid": "Q73480",
+    "countryId": "co_brazil",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_wout_weghorst",
+    "kind": "player",
+    "name": "Wout Weghorst",
+    "aliases": [
+      "Wout Francois Maria Weghorst",
+      "Wout François Maria Weghorst"
+    ],
+    "wikidataQid": "Q2210473",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_wynton_rufer",
+    "kind": "player",
+    "name": "Wynton Rufer",
+    "aliases": [
+      "Wynton Alan Whai Rufer"
+    ],
+    "wikidataQid": "Q124043",
+    "countryId": "co_new_zealand",
+    "position": "FW",
+    "birthYear": 1962
+  },
+  {
+    "id": "pl_yasuhiko_okudera",
+    "kind": "player",
+    "name": "Yasuhiko Okudera",
+    "aliases": [
+      "Okudera Yasuhiko"
+    ],
+    "wikidataQid": "Q558944",
+    "position": "MF",
+    "birthYear": 1952
+  },
+  {
+    "id": "pl_yoshinori_muto",
+    "kind": "player",
+    "name": "Yoshinori Muto",
+    "wikidataQid": "Q15401668",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_yoshito_okubo",
+    "kind": "player",
+    "name": "Yoshito Okubo",
+    "wikidataQid": "Q311209",
+    "position": "FW",
+    "birthYear": 1982
+  },
+  {
+    "id": "pl_youri_djorkaeff",
+    "kind": "player",
+    "name": "Youri Djorkaeff",
+    "aliases": [
+      "Youri Raffi Djorkaeff"
+    ],
+    "wikidataQid": "Q217482",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1968
+  },
+  {
+    "id": "pl_yuki_otsu",
+    "kind": "player",
+    "name": "Yuki Otsu",
+    "wikidataQid": "Q509079",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_yuri_zhirkov",
+    "kind": "player",
+    "name": "Yuri Zhirkov",
+    "aliases": [
+      "Yury Valentinovich Zhirkov",
+      "Yuri Valentinovich Zhirkov",
+      "Yury Zhirkov"
+    ],
+    "wikidataQid": "Q184261",
+    "countryId": "co_russia",
+    "position": "DF",
+    "birthYear": 1983
+  },
+  {
+    "id": "pl_yuya_osako",
+    "kind": "player",
+    "name": "Yuya Osako",
+    "wikidataQid": "Q195620",
+    "position": "FW",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_zbigniew_boniek",
+    "kind": "player",
+    "name": "Zbigniew Boniek",
+    "wikidataQid": "Q68039",
+    "countryId": "co_poland",
+    "position": "MF",
+    "birthYear": 1956
+  },
+  {
+    "id": "pl_rda_guler",
+    "kind": "player",
+    "name": "Αrda Güler",
+    "wikidataQid": "Q108159340",
+    "position": "MF",
+    "birthYear": 2005
+  },
+  {
+    "id": "pl_kazuo_ozaki",
+    "kind": "player",
+    "name": "Kazuo Ozaki",
+    "wikidataQid": "Q1395840",
+    "position": "FW",
+    "birthYear": 1960
+  },
+  {
+    "id": "pl_kisho_yano",
+    "kind": "player",
+    "name": "Kisho Yano",
+    "wikidataQid": "Q359727",
+    "position": "FW",
+    "birthYear": 1984
+  },
+  {
+    "id": "pl_uwe_rahn",
+    "kind": "player",
+    "name": "Uwe Rahn",
+    "wikidataQid": "Q47470",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1962
+  },
+  {
+    "id": "pl_yahiro_kazama",
+    "kind": "player",
+    "name": "Yahiro Kazama",
+    "wikidataQid": "Q2535443",
+    "position": "MF",
+    "birthYear": 1961
+  },
+  {
+    "id": "pl_achraf_hakimi",
+    "kind": "player",
+    "name": "Achraf Hakimi",
+    "aliases": [
+      "Achraf Hakimi Mouh"
+    ],
+    "wikidataQid": "Q26932598",
+    "position": "DF",
+    "birthYear": 1998
+  },
+  {
+    "id": "pl_alan_dzagoev",
+    "kind": "player",
+    "name": "Alan Dzagoev",
+    "aliases": [
+      "Alan Yelizbarovich Dzagoev",
+      "Alan Yelizbarovich Dzagoyev"
+    ],
+    "wikidataQid": "Q20469",
+    "countryId": "co_russia",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_alex_ferguson",
+    "kind": "player",
+    "name": "Alex Ferguson",
+    "aliases": [
+      "Alexander Chapman Ferguson",
+      "Sir Alex Ferguson"
+    ],
+    "wikidataQid": "Q44980",
+    "position": "FW",
+    "birthYear": 1941
+  },
+  {
+    "id": "pl_alisson_becker",
+    "kind": "player",
+    "name": "Alisson Becker",
+    "aliases": [
+      "Alisson Ramses Becker",
+      "Álisson Ramsés Becker"
+    ],
+    "wikidataQid": "Q18237361",
+    "countryId": "co_brazil",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_angel_di_maria",
+    "kind": "player",
+    "name": "Ángel Di María",
+    "aliases": [
+      "Ángel Fabián Di María Hernández",
+      "Ángel Fabián Di María"
+    ],
+    "wikidataQid": "Q251683",
+    "countryId": "co_argentina",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_arturo_vidal",
+    "kind": "player",
+    "name": "Arturo Vidal",
+    "aliases": [
+      "Arturo Erasmo Vidal Pardo"
+    ],
+    "wikidataQid": "Q192671",
+    "position": "MF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_ashley_young",
+    "kind": "player",
+    "name": "Ashley Young",
+    "aliases": [
+      "Ashley Simon Young"
+    ],
+    "wikidataQid": "Q10602",
+    "position": "DF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_bill_shankly",
+    "kind": "player",
+    "name": "Bill Shankly",
+    "aliases": [
+      "Bill Şenkli",
+      "William Shankly"
+    ],
+    "wikidataQid": "Q207457",
+    "birthYear": 1913
+  },
+  {
+    "id": "pl_boyko_borissov",
+    "kind": "player",
+    "name": "Boyko Borissov",
+    "aliases": [
+      "Boyko Metodiev Borisov",
+      "Boyko Metodiev Borissov"
+    ],
+    "wikidataQid": "Q57775",
+    "position": "FW",
+    "birthYear": 1959
+  },
+  {
+    "id": "pl_charles_scott_sherrington",
+    "kind": "player",
+    "name": "Charles Scott Sherrington",
+    "aliases": [
+      "Scott Sherrington",
+      "Sir Charles Scott Sherrington",
+      "Sir Charles Sherrington"
+    ],
+    "wikidataQid": "Q213504",
+    "birthYear": 1857
+  },
+  {
+    "id": "pl_cristiano_ronaldo",
+    "kind": "player",
+    "name": "Cristiano Ronaldo",
+    "aliases": [
+      "Ronaldo",
+      "El Bicho",
+      "CR7",
+      "Cristiano Ronaldo dos Santos Aveiro"
+    ],
+    "wikidataQid": "Q11571",
+    "countryId": "co_portugal",
+    "position": "FW",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_david_luiz",
+    "kind": "player",
+    "name": "David Luiz",
+    "aliases": [
+      "David Luiz Moreira Marinho"
+    ],
+    "wikidataQid": "Q193706",
+    "countryId": "co_brazil",
+    "position": "DF",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_dejan_lovren",
+    "kind": "player",
+    "name": "Dejan Lovren",
+    "wikidataQid": "Q349125",
+    "countryId": "co_croatia",
+    "position": "DF",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_edin_dzeko",
+    "kind": "player",
+    "name": "Edin Džeko",
+    "aliases": [
+      "Edin Dzeko"
+    ],
+    "wikidataQid": "Q153786",
+    "countryId": "co_bosnia",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_edvard_benes",
+    "kind": "player",
+    "name": "Edvard Beneš",
+    "aliases": [
+      "Edvard Benes",
+      "Edward Benes",
+      "Edward Beneš"
+    ],
+    "wikidataQid": "Q152274",
+    "position": "DF",
+    "birthYear": 1884
+  },
+  {
+    "id": "pl_eusebio",
+    "kind": "player",
+    "name": "Eusébio",
+    "aliases": [
+      "Eusebio",
+      "Eusébio da Silva Ferreira",
+      "Eusebueno"
+    ],
+    "wikidataQid": "Q162043",
+    "countryId": "co_portugal",
+    "position": "FW",
+    "birthYear": 1942
+  },
+  {
+    "id": "pl_garrincha",
+    "kind": "player",
+    "name": "Garrincha",
+    "aliases": [
+      "Mane Garrincha",
+      "Mané Garrincha"
+    ],
+    "wikidataQid": "Q180642",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1933
+  },
+  {
+    "id": "pl_hugo_lloris",
+    "kind": "player",
+    "name": "Hugo Lloris",
+    "aliases": [
+      "Hugo Hadrien Dominique Lloris"
+    ],
+    "wikidataQid": "Q1907",
+    "countryId": "co_france",
+    "position": "GK",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_hulk",
+    "kind": "player",
+    "name": "Hulk",
+    "aliases": [
+      "Givanildo Vieira de Sousa"
+    ],
+    "wikidataQid": "Q62786",
+    "position": "MF",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_igor_akinfeev",
+    "kind": "player",
+    "name": "Igor Akinfeev",
+    "aliases": [
+      "Igor Vladimirovich Akinfeev",
+      "Igor Vladimirovich Akinfeyev"
+    ],
+    "wikidataQid": "Q203002",
+    "countryId": "co_russia",
+    "position": "GK",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_ilkay_gundogan",
+    "kind": "player",
+    "name": "İlkay Gündoğan",
+    "aliases": [
+      "Ilkay Gundogan",
+      "Ilkay Gündogan"
+    ],
+    "wikidataQid": "Q161089",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_ivan_perisic",
+    "kind": "player",
+    "name": "Ivan Perišić",
+    "wikidataQid": "Q161054",
+    "countryId": "co_croatia",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_james_rodriguez",
+    "kind": "player",
+    "name": "James Rodríguez",
+    "aliases": [
+      "James David Rodríguez",
+      "James Rodríguez Rubio"
+    ],
+    "wikidataQid": "Q368441",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_joao_grimaldo",
+    "kind": "player",
+    "name": "Joao Grimaldo",
+    "aliases": [
+      "Joao Alberto Grimaldo Ubidia"
+    ],
+    "wikidataQid": "Q108153171",
+    "position": "FW",
+    "birthYear": 2003
+  },
+  {
+    "id": "pl_jose_mourinho",
+    "kind": "player",
+    "name": "José Mourinho",
+    "aliases": [
+      "Jose Mario dos Santos Mourinho Felix",
+      "José Mário dos Santos Mourinho Félix",
+      "Jose Mourinho",
+      "c",
+      "Mou",
+      "The Special One"
+    ],
+    "wikidataQid": "Q79983",
+    "countryId": "co_portugal",
+    "position": "MF",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_juan_mata",
+    "kind": "player",
+    "name": "Juan Mata",
+    "aliases": [
+      "Juan Manuel Mata García",
+      "Juan Manuel Mata Garcia"
+    ],
+    "wikidataQid": "Q168740",
+    "countryId": "co_spain",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_julian_draxler",
+    "kind": "player",
+    "name": "Julian Draxler",
+    "wikidataQid": "Q315697",
+    "countryId": "co_germany",
+    "position": "MF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_karim_benzema",
+    "kind": "player",
+    "name": "Karim Benzema",
+    "aliases": [
+      "Karim Mostafa Benzema"
+    ],
+    "wikidataQid": "Q1912",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_keylor_navas",
+    "kind": "player",
+    "name": "Keylor Navas",
+    "aliases": [
+      "Halcón",
+      "Esclaviza Almas",
+      "Keilor Antonio Navas Gamboa",
+      "Keylor Antonio Navas Gamboa",
+      "Keylord"
+    ],
+    "wikidataQid": "Q969423",
+    "position": "GK",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_lev_yashin",
+    "kind": "player",
+    "name": "Lev Yashin",
+    "aliases": [
+      "Lev Ivanovich Yashin"
+    ],
+    "wikidataQid": "Q167828",
+    "countryId": "co_russia",
+    "position": "GK",
+    "birthYear": 1929
+  },
+  {
+    "id": "pl_louis_van_gaal",
+    "kind": "player",
+    "name": "Louis van Gaal",
+    "aliases": [
+      "Aloysius Paulus Maria van Gaal"
+    ],
+    "wikidataQid": "Q207431",
+    "position": "MF",
+    "birthYear": 1951
+  },
+  {
+    "id": "pl_luis_suarez",
+    "kind": "player",
+    "name": "Luis Suárez",
+    "aliases": [
+      "Luis Alberto Suárez",
+      "Luis Alberto Suárez Díaz"
+    ],
+    "wikidataQid": "Q26517",
+    "countryId": "co_uruguay",
+    "position": "FW",
+    "birthYear": 1987
+  },
+  {
+    "id": "pl_marco_reus",
+    "kind": "player",
+    "name": "Marco Reus",
+    "wikidataQid": "Q152377",
+    "countryId": "co_germany",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_marta",
+    "kind": "player",
+    "name": "Marta",
+    "aliases": [
+      "Marta Vieira da Silva"
+    ],
+    "wikidataQid": "Q228616",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_mauro_icardi",
+    "kind": "player",
+    "name": "Mauro Icardi",
+    "wikidataQid": "Q136986",
+    "countryId": "co_argentina",
+    "position": "FW",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_maya_yoshida",
+    "kind": "player",
+    "name": "Maya Yoshida",
+    "aliases": [
+      "Yoshida Maya"
+    ],
+    "wikidataQid": "Q248141",
+    "position": "DF",
+    "birthYear": 1988
+  },
+  {
+    "id": "pl_megan_rapinoe",
+    "kind": "player",
+    "name": "Megan Rapinoe",
+    "aliases": [
+      "Megan Anna Rapinoe",
+      "Pinoe"
+    ],
+    "wikidataQid": "Q260725",
+    "position": "MF",
+    "birthYear": 1985
+  },
+  {
+    "id": "pl_memphis_depay",
+    "kind": "player",
+    "name": "Memphis Depay",
+    "wikidataQid": "Q1894",
+    "position": "FW",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_ngolo_kante",
+    "kind": "player",
+    "name": "N'Golo Kanté",
+    "aliases": [
+      "Ngolo Kante",
+      "N'Golo Kante",
+      "Ngolo Kanté"
+    ],
+    "wikidataQid": "Q16665941",
+    "position": "MF",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_nacho",
+    "kind": "player",
+    "name": "Nacho",
+    "aliases": [
+      "José Ignacio Fernández Iglesias"
+    ],
+    "wikidataQid": "Q503137",
+    "countryId": "co_spain",
+    "position": "DF",
+    "birthYear": 1990
+  },
+  {
+    "id": "pl_neymar",
+    "kind": "player",
+    "name": "Neymar",
+    "aliases": [
+      "Neymar Jr.",
+      "Neymar Junior",
+      "Neymar Silva Santos Junior"
+    ],
+    "wikidataQid": "Q142794",
+    "countryId": "co_brazil",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_oleh_blokhin",
+    "kind": "player",
+    "name": "Oleh Blokhin",
+    "aliases": [
+      "Oleg Blokhin"
+    ],
+    "wikidataQid": "Q186691",
+    "countryId": "co_russia",
+    "birthYear": 1952
+  },
+  {
+    "id": "pl_olivier_giroud",
+    "kind": "player",
+    "name": "Olivier Giroud",
+    "aliases": [
+      "Olivier Jonathan Giroud"
+    ],
+    "wikidataQid": "Q1911",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1986
+  },
+  {
+    "id": "pl_ousmane_dembele",
+    "kind": "player",
+    "name": "Ousmane Dembélé",
+    "aliases": [
+      "Masour Ousmane Dembele",
+      "Masour Ousmane Dembélé",
+      "Ousmane Dembele"
+    ],
+    "wikidataQid": "Q20851003",
+    "countryId": "co_france",
+    "position": "FW",
+    "birthYear": 1997
+  },
+  {
+    "id": "pl_paul_pogba",
+    "kind": "player",
+    "name": "Paul Pogba",
+    "aliases": [
+      "Paul Labile Pogba"
+    ],
+    "wikidataQid": "Q129027",
+    "countryId": "co_france",
+    "position": "MF",
+    "birthYear": 1993
+  },
+  {
+    "id": "pl_pele",
+    "kind": "player",
+    "name": "Pelé",
+    "aliases": [
+      "Pele",
+      "O Rei",
+      "Edson Arantes do Nascimento"
+    ],
+    "wikidataQid": "Q12897",
+    "countryId": "co_brazil",
+    "position": "MF",
+    "birthYear": 1940
+  },
+  {
+    "id": "pl_philippe_coutinho",
+    "kind": "player",
+    "name": "Philippe Coutinho",
+    "aliases": [
+      "Philippe Coutinho Correia"
+    ],
+    "wikidataQid": "Q311872",
+    "countryId": "co_brazil",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_pierre_emerick_aubameyang",
+    "kind": "player",
+    "name": "Pierre-Emerick Aubameyang",
+    "aliases": [
+      "Pierre-Emerick Emiliano Francois Aubameyang",
+      "Pierre-Emerick Emiliano François Aubameyang"
+    ],
+    "wikidataQid": "Q44977",
+    "position": "FW",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_raheem_sterling",
+    "kind": "player",
+    "name": "Raheem Sterling",
+    "aliases": [
+      "Raheem Shaquille Sterling"
+    ],
+    "wikidataQid": "Q312157",
+    "position": "FW",
+    "birthYear": 1994
+  },
+  {
+    "id": "pl_riyad_mahrez",
+    "kind": "player",
+    "name": "Riyad Mahrez",
+    "aliases": [
+      "Riyad Karim Mahrez"
+    ],
+    "wikidataQid": "Q8338725",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_roberto_firmino",
+    "kind": "player",
+    "name": "Roberto Firmino",
+    "aliases": [
+      "Roberto Firmino Barbosa de Oliveira"
+    ],
+    "wikidataQid": "Q602525",
+    "countryId": "co_brazil",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_sadio_mane",
+    "kind": "player",
+    "name": "Sadio Mané",
+    "aliases": [
+      "Mane",
+      "sadione",
+      "Sadio Mane"
+    ],
+    "wikidataQid": "Q209942",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_son_heung_min",
+    "kind": "player",
+    "name": "Son Heung-min",
+    "aliases": [
+      "Heung-min Son",
+      "Heung-Min Son"
+    ],
+    "wikidataQid": "Q439722",
+    "position": "FW",
+    "birthYear": 1992
+  },
+  {
+    "id": "pl_takumi_minamino",
+    "kind": "player",
+    "name": "Takumi Minamino",
+    "aliases": [
+      "Minamino Takumi"
+    ],
+    "wikidataQid": "Q776878",
+    "position": "MF",
+    "birthYear": 1995
+  },
+  {
+    "id": "pl_thomas_muller",
+    "kind": "player",
+    "name": "Thomas Müller",
+    "aliases": [
+      "Thomas Muller"
+    ],
+    "wikidataQid": "Q43666",
+    "countryId": "co_germany",
+    "position": "FW",
+    "birthYear": 1989
+  },
+  {
+    "id": "pl_viktor_orban",
+    "kind": "player",
+    "name": "Viktor Orbán",
+    "aliases": [
+      "Victor Orban",
+      "Orban Victor",
+      "Orban Victor Michael",
+      "Orban Viktor"
+    ],
+    "wikidataQid": "Q57641",
+    "position": "FW",
+    "birthYear": 1963
+  },
+  {
+    "id": "pl_xherdan_shaqiri",
+    "kind": "player",
+    "name": "Xherdan Shaqiri",
+    "wikidataQid": "Q252190",
+    "position": "FW",
+    "birthYear": 1991
+  },
+  {
+    "id": "pl_yasuhito_endo",
+    "kind": "player",
+    "name": "Yasuhito Endo",
+    "aliases": [
+      "Endo Yasuhito",
+      "Endō Yasuhito",
+      "Endoh Yasuhito",
+      "Endou Yasuhito",
+      "Yasuhito Endō",
+      "Yasuhito Endoh",
+      "Yasuhito Endou"
+    ],
+    "wikidataQid": "Q214859",
+    "position": "MF",
+    "birthYear": 1980
+  },
+  {
+    "id": "pl_ahmad_ibn_billah",
+    "kind": "player",
+    "name": "Ahmad ibn Billah",
+    "aliases": [
+      "Muhammad Ahmad ibn Billah"
+    ],
+    "wikidataQid": "Q179908",
+    "birthYear": 1916
+  },
+  {
+    "id": "pl_albert_camus",
+    "kind": "player",
+    "name": "Albert Camus",
+    "aliases": [
+      "Camus"
+    ],
+    "wikidataQid": "Q34670",
+    "countryId": "co_france",
+    "birthYear": 1913
+  },
+  {
+    "id": "pl_elie_wiesel",
+    "kind": "player",
+    "name": "Elie Wiesel",
+    "aliases": [
+      "A-7713",
+      "Élie Wiesel",
+      "Eliezer Wiesel"
+    ],
+    "wikidataQid": "Q18391",
+    "birthYear": 1928
+  },
+  {
+    "id": "pl_javier_milei",
+    "kind": "player",
+    "name": "Javier Milei",
+    "aliases": [
+      "Javier Gerardo Milei"
+    ],
+    "wikidataQid": "Q52395487",
+    "countryId": "co_argentina",
+    "birthYear": 1970
+  },
+  {
+    "id": "pl_sean_connery",
+    "kind": "player",
+    "name": "Sean Connery",
+    "aliases": [
+      "Sir Sean Connery",
+      "Sir Thomas Sean Connery",
+      "Thomas Sean Connery",
+      "Thomas Connery"
+    ],
+    "wikidataQid": "Q4573",
+    "position": "MF",
+    "birthYear": 1930
+  },
+  {
+    "id": "pl_veronica_guerin",
+    "kind": "player",
+    "name": "Veronica Guerin",
+    "aliases": [
+      "Veronica Guerin Turley"
+    ],
+    "wikidataQid": "Q237541",
+    "position": "FW",
+    "birthYear": 1959
+  },
+  {
+    "id": "pl_percy_liza",
+    "kind": "player",
+    "name": "Percy Liza",
+    "aliases": [
+      "Carlos Percy Liza Espinoza"
+    ],
+    "wikidataQid": "Q107674650",
+    "position": "FW",
+    "birthYear": 2000
+  },
+  {
+    "id": "pl_andre_silva",
+    "kind": "player",
+    "name": "André Silva",
+    "aliases": [
+      "andre silva",
+      "silva"
+    ],
+    "countryId": "co_portugal",
+    "position": "FW"
+  },
+  {
+    "id": "pl_andy_cole",
+    "kind": "player",
+    "name": "Andy Cole",
+    "aliases": [
+      "andrew cole"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_angel_correa",
+    "kind": "player",
+    "name": "Ángel Correa",
+    "aliases": [
+      "correa",
+      "angel correa"
+    ],
+    "countryId": "co_argentina",
+    "position": "FW"
+  },
+  {
+    "id": "pl_bobby_moore",
+    "kind": "player",
+    "name": "Bobby Moore",
+    "aliases": [
+      "moore"
+    ],
+    "countryId": "co_england",
+    "position": "DF"
+  },
+  {
+    "id": "pl_borja_iglesias",
+    "kind": "player",
+    "name": "Borja Iglesias",
+    "aliases": [
+      "iglesias"
+    ],
+    "countryId": "co_spain",
+    "position": "FW"
+  },
+  {
+    "id": "pl_bryan_mbeumo",
+    "kind": "player",
+    "name": "Bryan Mbeumo",
+    "aliases": [
+      "mbeumo"
+    ],
+    "countryId": "co_france",
+    "position": "FW"
+  },
+  {
+    "id": "pl_carlos_alberto",
+    "kind": "player",
+    "name": "Carlos Alberto",
+    "aliases": [
+      "carlos alberto torres",
+      "capita"
+    ],
+    "countryId": "co_brazil",
+    "position": "DF"
+  },
+  {
+    "id": "pl_che_adams",
+    "kind": "player",
+    "name": "Ché Adams",
+    "aliases": [
+      "che adams",
+      "adams"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_chris_wood",
+    "kind": "player",
+    "name": "Chris Wood",
+    "aliases": [
+      "wood"
+    ],
+    "countryId": "co_new_zealand",
+    "position": "FW"
+  },
+  {
+    "id": "pl_ermedin_demirovic",
+    "kind": "player",
+    "name": "Ermedin Demirović",
+    "aliases": [
+      "demirovic",
+      "demirović"
+    ],
+    "countryId": "co_bosnia",
+    "position": "FW"
+  },
+  {
+    "id": "pl_francesco_camarda",
+    "kind": "player",
+    "name": "Francesco Camarda",
+    "aliases": [
+      "camarda"
+    ],
+    "countryId": "co_italy",
+    "position": "FW"
+  },
+  {
+    "id": "pl_frank_magri",
+    "kind": "player",
+    "name": "Frank Magri",
+    "aliases": [
+      "magri"
+    ],
+    "countryId": "co_france",
+    "position": "FW"
+  },
+  {
+    "id": "pl_hugo_duro",
+    "kind": "player",
+    "name": "Hugo Duro",
+    "aliases": [
+      "duro"
+    ],
+    "countryId": "co_spain",
+    "position": "FW"
+  },
+  {
+    "id": "pl_jean_philippe_mateta",
+    "kind": "player",
+    "name": "Jean-Philippe Mateta",
+    "aliases": [
+      "mateta"
+    ],
+    "countryId": "co_france",
+    "position": "FW"
+  },
+  {
+    "id": "pl_jermain_defoe",
+    "kind": "player",
+    "name": "Jermain Defoe",
+    "aliases": [
+      "defoe"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_jonathan_burkardt",
+    "kind": "player",
+    "name": "Jonathan Burkardt",
+    "aliases": [
+      "burkardt"
+    ],
+    "countryId": "co_germany",
+    "position": "FW"
+  },
+  {
+    "id": "pl_jonathan_david",
+    "kind": "player",
+    "name": "Jonathan David",
+    "aliases": [
+      "david"
+    ],
+    "countryId": "co_canada",
+    "position": "FW"
+  },
+  {
+    "id": "pl_joao_pedro",
+    "kind": "player",
+    "name": "João Pedro",
+    "aliases": [
+      "joao pedro"
+    ],
+    "countryId": "co_brazil",
+    "position": "FW"
+  },
+  {
+    "id": "pl_just_fontaine",
+    "kind": "player",
+    "name": "Just Fontaine",
+    "aliases": [
+      "fontaine"
+    ],
+    "countryId": "co_france",
+    "position": "FW"
+  },
+  {
+    "id": "pl_kevin_behrens",
+    "kind": "player",
+    "name": "Kevin Behrens",
+    "aliases": [
+      "behrens"
+    ],
+    "countryId": "co_germany",
+    "position": "FW"
+  },
+  {
+    "id": "pl_lothar_matthaus",
+    "kind": "player",
+    "name": "Lothar Matthäus",
+    "aliases": [
+      "matthaus",
+      "matthäus"
+    ],
+    "countryId": "co_germany",
+    "position": "MF"
+  },
+  {
+    "id": "pl_marcus_thuram",
+    "kind": "player",
+    "name": "Marcus Thuram",
+    "aliases": [
+      "thuram"
+    ],
+    "countryId": "co_france",
+    "position": "FW"
+  },
+  {
+    "id": "pl_mateo_retegui",
+    "kind": "player",
+    "name": "Mateo Retegui",
+    "aliases": [
+      "retegui"
+    ],
+    "countryId": "co_italy",
+    "position": "FW"
+  },
+  {
+    "id": "pl_nick_woltemade",
+    "kind": "player",
+    "name": "Nick Woltemade",
+    "aliases": [
+      "woltemade"
+    ],
+    "countryId": "co_germany",
+    "position": "FW"
+  },
+  {
+    "id": "pl_ollie_watkins",
+    "kind": "player",
+    "name": "Ollie Watkins",
+    "aliases": [
+      "watkins"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_omar_marmoush",
+    "kind": "player",
+    "name": "Omar Marmoush",
+    "aliases": [
+      "marmoush"
+    ],
+    "countryId": "co_egypt",
+    "position": "FW"
+  },
+  {
+    "id": "pl_rasmus_hojlund",
+    "kind": "player",
+    "name": "Rasmus Højlund",
+    "aliases": [
+      "hojlund",
+      "højlund"
+    ],
+    "countryId": "co_denmark",
+    "position": "FW"
+  },
+  {
+    "id": "pl_raphinha",
+    "kind": "player",
+    "name": "Raphinha",
+    "aliases": [
+      "raphinha belloli"
+    ],
+    "countryId": "co_brazil",
+    "position": "FW"
+  },
+  {
+    "id": "pl_robbie_fowler",
+    "kind": "player",
+    "name": "Robbie Fowler",
+    "aliases": [
+      "fowler"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_ronaldo_nazario",
+    "kind": "player",
+    "name": "Ronaldo Nazário",
+    "aliases": [
+      "ronaldo r9",
+      "r9",
+      "ronaldo nazario",
+      "fenomeno"
+    ],
+    "countryId": "co_brazil",
+    "position": "FW"
+  },
+  {
+    "id": "pl_serhou_guirassy",
+    "kind": "player",
+    "name": "Serhou Guirassy",
+    "aliases": [
+      "guirassy"
+    ],
+    "countryId": "co_guinea",
+    "position": "FW"
+  },
+  {
+    "id": "pl_stanley_matthews",
+    "kind": "player",
+    "name": "Stanley Matthews",
+    "aliases": [
+      "matthews"
+    ],
+    "countryId": "co_england",
+    "position": "FW"
+  },
+  {
+    "id": "pl_victor_boniface",
+    "kind": "player",
+    "name": "Victor Boniface",
+    "aliases": [
+      "boniface"
+    ],
+    "countryId": "co_nigeria",
+    "position": "FW"
+  },
+  {
+    "id": "pl_victor_osimhen",
+    "kind": "player",
+    "name": "Victor Osimhen",
+    "aliases": [
+      "osimhen"
+    ],
+    "countryId": "co_nigeria",
+    "position": "FW"
+  }
+]

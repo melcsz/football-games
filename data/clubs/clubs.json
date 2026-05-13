@@ -1,0 +1,12 @@
+[
+  {"id": "cl_ac_milan", "kind": "club", "name": "AC Milan", "countryId": "co_italy", "aliases": ["milan", "rossoneri"]},
+  {"id": "cl_ajax", "kind": "club", "name": "Ajax", "countryId": "co_netherlands", "aliases": ["ajax amsterdam", "afc ajax"]},
+  {"id": "cl_barcelona", "kind": "club", "name": "Barcelona", "countryId": "co_spain", "aliases": ["barca", "fc barcelona"]},
+  {"id": "cl_bayern_munich", "kind": "club", "name": "Bayern Munich", "countryId": "co_germany", "aliases": ["bayern", "fc bayern"]},
+  {"id": "cl_benfica", "kind": "club", "name": "Benfica", "countryId": "co_portugal", "aliases": ["sl benfica"]},
+  {"id": "cl_inter_milan", "kind": "club", "name": "Inter Milan", "countryId": "co_italy", "aliases": ["inter", "internazionale"]},
+  {"id": "cl_juventus", "kind": "club", "name": "Juventus", "countryId": "co_italy", "aliases": ["juve"]},
+  {"id": "cl_liverpool", "kind": "club", "name": "Liverpool", "countryId": "co_england", "aliases": ["liverpool fc", "lfc"]},
+  {"id": "cl_manchester_united", "kind": "club", "name": "Manchester United", "countryId": "co_england", "aliases": ["man united", "man utd", "mufc"]},
+  {"id": "cl_real_madrid", "kind": "club", "name": "Real Madrid", "countryId": "co_spain", "aliases": ["real", "real madrid cf", "los blancos"]}
+]

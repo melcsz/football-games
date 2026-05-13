@@ -20,6 +20,9 @@
 .DS_Store
 *.pem
 
+# generated Wikidata pipeline artifacts (regenerable)
+/data/raw/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
