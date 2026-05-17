@@ -5,7 +5,7 @@ export const runtime = "edge";
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url);
-  const title = searchParams.get("title") ?? "WeKnowBall TenaBall";
+  const title = searchParams.get("title") ?? "WeKnowBall Top 10";
   const score = searchParams.get("score") ?? "";
 
   return new ImageResponse(

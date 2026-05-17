@@ -1,0 +1,64 @@
+{
+  "id": "0012",
+  "game": "top10",
+  "publishDate": "2026-05-16",
+  "category": "history",
+  "question": "Top 10 nations by UEFA European Championship (EURO) titles",
+  "subtitle": "Most titles first; ties broken alphabetically by common country name.",
+  "source": "Through EURO 2024.",
+  "validKinds": [
+    "country"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "co_spain",
+      "meta": "4 titles"
+    },
+    {
+      "rank": 2,
+      "entityId": "co_germany",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 3,
+      "entityId": "co_france",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 4,
+      "entityId": "co_italy",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 5,
+      "entityId": "co_czech_republic",
+      "meta": "1 title (as Czechoslovakia)"
+    },
+    {
+      "rank": 6,
+      "entityId": "co_denmark",
+      "meta": "1 title"
+    },
+    {
+      "rank": 7,
+      "entityId": "co_greece",
+      "meta": "1 title"
+    },
+    {
+      "rank": 8,
+      "entityId": "co_netherlands",
+      "meta": "1 title"
+    },
+    {
+      "rank": 9,
+      "entityId": "co_portugal",
+      "meta": "1 title"
+    },
+    {
+      "rank": 10,
+      "entityId": "co_russia",
+      "meta": "1 title (as USSR)"
+    }
+  ]
+}

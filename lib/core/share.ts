@@ -1,9 +1,9 @@
-import type { TenaBallPuzzle } from "@/content/games/tenaball/schema";
+import type { Top10Puzzle } from "@/content/games/top10/schema";
 import type { PlayMode } from "@/lib/core/score";
 import { computeFinalScore, pressureMultiplier } from "@/lib/core/score";
 
 const SITE_NAME = "WeKnowBall";
-const GAME_NAME = "TenaBall";
+const GAME_NAME = "Top 10";
 
 function baseUrl(): string {
   if (typeof process !== "undefined" && process.env.NEXT_PUBLIC_SITE_URL) {
@@ -13,7 +13,7 @@ function baseUrl(): string {
 }
 
 export function buildShareText(params: {
-  puzzle: TenaBallPuzzle;
+  puzzle: Top10Puzzle;
   foundRanks: number[];
   mode: PlayMode;
 }): string {
@@ -35,10 +35,10 @@ export function buildShareText(params: {
     return foundRanks.includes(rank) ? "🟢" : "⚪";
   }).join("");
   lines.push(row);
-  lines.push(`${baseUrl()}/tenaball/${puzzle.id}`);
+  lines.push(`${baseUrl()}/top-10/${puzzle.id}`);
   return lines.join("\n");
 }
 
-export function shareTitle(puzzle: TenaBallPuzzle): string {
+export function shareTitle(puzzle: Top10Puzzle): string {
   return `${GAME_NAME} · ${puzzle.question}`;
 }

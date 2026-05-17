@@ -7,12 +7,12 @@ Football quiz games platform — **Next.js 14** (App Router), **Tailwind**, **Fr
 | Route | Game |
 | ----- | ---- |
 | `/` | Landing — pick a game |
-| `/tenaball` | **TenaBall** — daily top-10 (Chill / Pressure) |
-| `/tenaball/archive` | Replay past boards |
+| `/top-10` | **Top 10** — daily top-10 (Chill / Pressure) |
+| `/top-10/archive` | Replay past boards |
 | `/stats` | Anonymous stats (localStorage) |
 | `/about` | How to play |
 
-Legacy URLs **`/archive`** and **`/puzzle/[id]`** redirect to **`/tenaball/archive`** and **`/tenaball/[id]`**.
+Legacy URLs **`/archive`** and **`/puzzle/[id]`** redirect to **`/top-10/archive`** and **`/top-10/[id]`**.
 
 ## Development
 
@@ -36,7 +36,7 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Data layout
 
 - **Canonical entities** (players, clubs, managers, countries, leagues): [`data/`](data/) — JSON + Zod in [`data/schema.ts`](data/schema.ts). Loaded by [`data/index.ts`](data/index.ts).
-- **TenaBall puzzles**: [`content/games/tenaball/puzzles/`](content/games/tenaball/puzzles/) — each answer references an **`entityId`**. Registry + integrity checks: [`content/games/tenaball/registry.ts`](content/games/tenaball/registry.ts).
+- **Top 10 puzzles**: [`content/games/top-10/puzzles/`](content/games/top-10/puzzles/) — each answer references an **`entityId`**. Registry + integrity checks: [`content/games/top-10/registry.ts`](content/games/top-10/registry.ts).
 
 Answers are **picked from a searchable combobox** (strict selection — no free typing).
 
@@ -48,11 +48,11 @@ Player entities currently come from the generated dataset: `data/generated/playe
 
 See [`docs/STATUS.md`](docs/STATUS.md) (living doc: current architecture, data flow, and pipeline state).
 
-## Adding a TenaBall puzzle
+## Adding a Top 10 puzzle
 
 1. Ensure every answer exists in the appropriate `data/**/\*.json` with a stable id (`pl_*`, `cl_*`, `mg_*`, `co_*`, `lg_*`).
-2. Add `content/games/tenaball/puzzles/XXXX.json` with `game: "tenaball"`, `validKinds`, and `answers[].entityId`.
-3. Import the JSON in [`content/games/tenaball/registry.ts`](content/games/tenaball/registry.ts).
+2. Add `content/games/top-10/puzzles/XXXX.json` with `game: "Top 10"`, `validKinds`, and `answers[].entityId`.
+3. Import the JSON in [`content/games/top-10/registry.ts`](content/games/top-10/registry.ts).
 4. Run `npm run build` — validation runs at compile time.
 
 ## Adding another game later

@@ -9,6 +9,8 @@ export function GameCard({
   image,
   accent,
   tag,
+  playLabel,
+  description,
   sticker,
 }: Game) {
   const style = { "--game-accent": accent } as CSSProperties;
@@ -41,12 +43,15 @@ export function GameCard({
       </div>
 
       <div className="flex min-h-0 flex-1 flex-col bg-[#1E293B]">
-        <div className="flex flex-1 items-center justify-center bg-[#334155] px-3 text-sm font-black uppercase tracking-[0.16em] text-white transition-colors group-hover:bg-[#3F5068]">
-          PLAY
+        <div className="flex flex-1 items-center justify-center bg-[#334155] px-3 text-sm font-black uppercase tracking-[0.12em] text-white transition-colors group-hover:bg-[#3F5068]">
+          {playLabel}
         </div>
 
-        <div className="flex min-h-10 items-center justify-center px-3 text-center text-sm font-black uppercase tracking-tight text-white">
-          {title}
+        <div className="flex flex-col items-center justify-center gap-1 px-3 py-3 text-center">
+
+          <p className="line-clamp-2 text-[11px] font-medium leading-snug text-white/65">
+            {description}
+          </p>
         </div>
       </div>
     </Link>

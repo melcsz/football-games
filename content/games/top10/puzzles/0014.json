@@ -1,0 +1,64 @@
+{
+  "id": "0014",
+  "game": "top10",
+  "publishDate": "2026-05-18",
+  "category": "history",
+  "question": "World Cup winning captains — ten finals from 1966 to 2002 (chronological)",
+  "subtitle": "Rank 1 is earliest tournament listed here; rank 10 is latest.",
+  "source": "FIFA match records — captain lifting trophy.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_bobby_moore",
+      "meta": "England — 1966"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_carlos_alberto",
+      "meta": "Brazil — 1970"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_franz_beckenbauer",
+      "meta": "West Germany — 1974"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_daniel_passarella",
+      "meta": "Argentina — 1978"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_dino_zoff",
+      "meta": "Italy — 1982"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_diego_maradona",
+      "meta": "Argentina — 1986"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_lothar_matthaus",
+      "meta": "West Germany — 1990"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_dunga",
+      "meta": "Brazil — 1994"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_didier_deschamps",
+      "meta": "France — 1998"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_cafu",
+      "meta": "Brazil — 2002"
+    }
+  ]
+}

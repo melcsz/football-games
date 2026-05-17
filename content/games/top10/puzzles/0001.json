@@ -1,0 +1,64 @@
+{
+  "id": "0001",
+  "game": "top10",
+  "publishDate": "2026-05-05",
+  "category": "legends",
+  "question": "Top 10 clubs by UEFA Champions League / European Cup titles",
+  "subtitle": "Ranked by total titles. Ties broken alphabetically by common club name.",
+  "source": "Approximate tallies through 2025/26 season.",
+  "validKinds": [
+    "club"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "cl_real_madrid",
+      "meta": "15 titles"
+    },
+    {
+      "rank": 2,
+      "entityId": "cl_ac_milan",
+      "meta": "7 titles"
+    },
+    {
+      "rank": 3,
+      "entityId": "cl_bayern_munich",
+      "meta": "6 titles"
+    },
+    {
+      "rank": 4,
+      "entityId": "cl_liverpool",
+      "meta": "6 titles"
+    },
+    {
+      "rank": 5,
+      "entityId": "cl_barcelona",
+      "meta": "5 titles"
+    },
+    {
+      "rank": 6,
+      "entityId": "cl_ajax",
+      "meta": "4 titles"
+    },
+    {
+      "rank": 7,
+      "entityId": "cl_inter_milan",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 8,
+      "entityId": "cl_manchester_united",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 9,
+      "entityId": "cl_juventus",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 10,
+      "entityId": "cl_benfica",
+      "meta": "2 titles"
+    }
+  ]
+}

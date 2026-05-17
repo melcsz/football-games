@@ -1,0 +1,64 @@
+{
+  "id": "0011",
+  "game": "top10",
+  "publishDate": "2026-05-15",
+  "category": "history",
+  "question": "Top 10 managers by UEFA Champions League / European Cup titles as coach",
+  "subtitle": "Ordered by titles, then alphabetically when tied.",
+  "source": "Approximate totals through 2025/26.",
+  "validKinds": [
+    "manager"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "mg_carlo_ancelotti",
+      "meta": "4 titles"
+    },
+    {
+      "rank": 2,
+      "entityId": "mg_pep_guardiola",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 3,
+      "entityId": "mg_bob_paisley",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 4,
+      "entityId": "mg_zinedine_zidane",
+      "meta": "3 titles"
+    },
+    {
+      "rank": 5,
+      "entityId": "mg_brian_clough",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 6,
+      "entityId": "mg_vicente_del_bosque",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 7,
+      "entityId": "mg_alex_ferguson",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 8,
+      "entityId": "mg_jupp_heynckes",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 9,
+      "entityId": "mg_ottmar_hitzfeld",
+      "meta": "2 titles"
+    },
+    {
+      "rank": 10,
+      "entityId": "mg_jose_mourinho",
+      "meta": "2 titles"
+    }
+  ]
+}

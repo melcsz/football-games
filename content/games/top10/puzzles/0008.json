@@ -1,0 +1,64 @@
+{
+  "id": "0008",
+  "game": "top10",
+  "publishDate": "2026-05-12",
+  "category": "current",
+  "question": "Top 10 UEFA Champions League goalscorers (2025/26 season)",
+  "subtitle": "Knockout-heavy scoring — illustrative snapshot through semis 2026.",
+  "source": "Example editorial list — verify against UEFA after each round.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_erling_haaland",
+      "meta": "11 goals (example)"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_lamine_yamal",
+      "meta": "8 goals (example)"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_harry_kane",
+      "meta": "8 goals (example)"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_viktor_gyokeres",
+      "meta": "7 goals (example)"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_phil_foden",
+      "meta": "6 goals (example)"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_raphinha",
+      "meta": "6 goals (example)"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_jonathan_david",
+      "meta": "5 goals (example)"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_ollie_watkins",
+      "meta": "5 goals (example)"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_pedri",
+      "meta": "5 goals (example)"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_kevin_de_bruyne",
+      "meta": "5 goals (example)"
+    }
+  ]
+}

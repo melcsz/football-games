@@ -28,11 +28,11 @@ export const metadata: Metadata = {
     template: `%s · ${SITE_TITLE}`,
   },
   description:
-    "WeKnowBall — football quiz games. Daily TenaBall and more coming.",
+    "WeKnowBall — football quiz games. Daily Top 10 and more coming.",
   openGraph: {
     title: SITE_TITLE,
     description:
-      "Daily TenaBall: name the top ten. Casual or Ranked mode. Pick answers from the pool.",
+      "Daily Top 10: name the top ten. Casual or Ranked mode. Pick answers from the pool.",
     type: "website",
     url: siteUrl,
   },
