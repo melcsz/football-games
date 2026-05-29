@@ -37,7 +37,7 @@ export function Timer({ deadlineMs, onExpire }: Props) {
 
   return (
     <div
-      className={`flex items-center justify-center gap-3 rounded-2xl border px-5 py-3 font-mono text-2xl font-black tabular-nums tracking-widest shadow-sm transition-colors ${
+      className={`flex min-h-[3.35rem] items-center justify-center gap-2 rounded-xl border px-3 py-2 font-mono text-lg font-black tabular-nums tracking-widest shadow-sm transition-colors sm:min-h-0 sm:gap-2 sm:rounded-lg sm:px-4 sm:py-1.5 sm:text-xl md:h-full ${
         urgent
           ? "border-[var(--ranked)]/45 bg-[var(--ranked-muted)] text-[var(--ranked)] shadow-md"
           : "border-[var(--border-subtle)] bg-[var(--surface)] text-[var(--caution)]"

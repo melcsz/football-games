@@ -6,5 +6,6 @@ export type Game = {
   image: string;
   accent: string;
   tag: string;
+  description: string;
   sticker: ReactNode;
 };

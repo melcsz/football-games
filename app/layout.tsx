@@ -75,5 +75,5 @@ function AdGutter() {
 }
 
 function TopAdSlot() {
-  return <div className="h-[90px] w-full" aria-label="Ad space" />;
+  return <div className="hidden h-12 w-full sm:block" aria-label="Ad space" />;
 }

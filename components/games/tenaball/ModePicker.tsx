@@ -10,7 +10,7 @@ type Props = {
 };
 
 const baseCard =
-  "rounded-2xl border px-5 py-6 text-left shadow-sm transition-transform duration-150 hover:scale-[1.02] active:scale-[0.99]";
+  "rounded-2xl border px-4 py-4 text-left shadow-sm transition-transform duration-150 hover:scale-[1.02] active:scale-[0.99] sm:px-5 sm:py-6";
 
 export function ModePicker({ selectedMode, onSelect }: Props) {
   const mult = pressureMultiplier();
@@ -18,7 +18,7 @@ export function ModePicker({ selectedMode, onSelect }: Props) {
   const rankedSelected = selectedMode === "pressure";
 
   return (
-    <div className="grid gap-4 sm:grid-cols-2">
+    <div className="grid gap-3 sm:grid-cols-2 sm:gap-4">
       <button
         type="button"
         onClick={() => onSelect("chill")}
@@ -28,13 +28,13 @@ export function ModePicker({ selectedMode, onSelect }: Props) {
             : ""
         }`}
       >
-        <span className="font-sans text-xl font-black tracking-tight text-foreground">
+        <span className="font-sans text-lg font-black tracking-tight text-foreground sm:text-xl">
           Casual Mode
         </span>
-        <p className="mt-2 text-sm leading-relaxed text-[var(--foreground-muted)]">
+        <p className="mt-1.5 text-xs leading-relaxed text-[var(--foreground-muted)] sm:mt-2 sm:text-sm">
           No timer. Work through the board at your own pace.
         </p>
-        <p className="mt-4 font-mono text-[10px] font-semibold uppercase tracking-[0.3em] text-[var(--foreground-muted)]">
+        <p className="mt-3 font-mono text-[9px] font-semibold uppercase tracking-[0.24em] text-[var(--foreground-muted)] sm:mt-4 sm:text-[10px] sm:tracking-[0.3em]">
           Score = answers found
         </p>
       </button>
@@ -47,14 +47,14 @@ export function ModePicker({ selectedMode, onSelect }: Props) {
             : ""
         }`}
       >
-        <span className="font-sans text-xl font-black tracking-tight text-[var(--ranked)]">
+        <span className="font-sans text-lg font-black tracking-tight text-[var(--ranked)] sm:text-xl">
           Ranked Mode
         </span>
-        <p className="mt-2 text-sm leading-relaxed text-[var(--foreground-muted)]">
+        <p className="mt-1.5 text-xs leading-relaxed text-[var(--foreground-muted)] sm:mt-2 sm:text-sm">
           {PRESSURE_SECONDS} seconds on the clock. Clear the board for a ×{mult}{" "}
           score boost.
         </p>
-        <p className="mt-4 font-mono text-[10px] font-semibold uppercase tracking-[0.3em] text-[var(--ranked)]">
+        <p className="mt-3 font-mono text-[9px] font-semibold uppercase tracking-[0.24em] text-[var(--ranked)] sm:mt-4 sm:text-[10px] sm:tracking-[0.3em]">
           Timed · ranked multiplier on a full clear
         </p>
       </button>

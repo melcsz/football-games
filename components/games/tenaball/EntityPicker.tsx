@@ -29,7 +29,7 @@ export function EntityPicker({
   }, [kinds]);
 
   return (
-    <div className="w-full space-y-2">
+    <div className="w-full space-y-1">
       <Combobox
         entities={pool}
         excludeIds={excludeIds}
@@ -38,7 +38,7 @@ export function EntityPicker({
         placeholder="Type to search roster…"
         onSelect={onPick}
       />
-      <p className="text-center font-mono text-[10px] uppercase tracking-[0.25em] text-[var(--foreground-muted)]">
+      <p className="text-center font-mono text-[9px] uppercase tracking-[0.22em] text-[var(--foreground-muted)] sm:text-[9px] sm:tracking-[0.22em] md:text-left">
         Pick from list · ↑↓ enter
       </p>
     </div>

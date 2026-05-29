@@ -20,6 +20,7 @@ export type InProgressState = {
   foundRanks: number[];
   wrongGuesses: string[];
   timeRemainingMs?: number;
+  deadlineAt?: string;
   startedAt: string;
   utcDate: string;
 };

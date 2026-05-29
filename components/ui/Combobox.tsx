@@ -82,9 +82,9 @@ export function Combobox({
 
   return (
     <div className="relative w-full">
-      <div className="rounded-2xl border border-[var(--border-subtle)] bg-[var(--surface)] p-1.5 shadow-sm">
-        <div className="flex items-center gap-2 rounded-xl bg-[var(--surface-elevated)]/60 px-3 py-1">
-          <span className="select-none font-mono text-[10px] font-bold uppercase tracking-widest text-[var(--foreground-muted)]">
+      <div className="rounded-lg border border-[#22c55e]/35 bg-[#061f14] p-1 shadow-sm sm:p-1">
+        <div className="flex items-center gap-2 rounded bg-[#102235] px-2.5 py-0.5 sm:px-3">
+          <span className="select-none font-mono text-[9px] font-black uppercase tracking-widest text-[#facc15] sm:text-[10px]">
             Search
           </span>
           <input
@@ -98,7 +98,7 @@ export function Combobox({
             autoCorrect="off"
             spellCheck={false}
             placeholder={placeholder}
-            className="min-h-[2.75rem] flex-1 border-0 bg-transparent py-2 text-base text-foreground outline-none ring-0 placeholder:text-[var(--foreground-muted)] focus:ring-0 disabled:opacity-50 sm:min-h-[3rem] sm:text-[15px]"
+            className="min-h-[2.35rem] flex-1 border-0 bg-transparent py-1.5 text-sm text-foreground outline-none ring-0 placeholder:text-[var(--foreground-muted)] focus:ring-0 disabled:opacity-50 sm:min-h-[2.1rem] sm:py-1 sm:text-sm"
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
@@ -114,7 +114,7 @@ export function Combobox({
         <ul
           id={listId}
           role="listbox"
-          className="absolute left-0 right-0 z-40 mt-2 max-h-64 overflow-auto rounded-xl border border-[var(--border-subtle)] bg-[var(--surface)] py-1 shadow-lg"
+          className="absolute left-0 right-0 z-[100] mt-2 max-h-64 overflow-auto rounded-lg border border-[#22c55e]/35 bg-[#061f14] py-1 shadow-lg"
         >
           {hits.map((h, i) => (
             <li key={h.entity.id} role="option" aria-selected={i === highlight}>
@@ -122,14 +122,14 @@ export function Combobox({
                 type="button"
                 className={`flex w-full items-center justify-between gap-3 px-3 py-2.5 text-left text-sm transition-colors ${
                   i === highlight
-                    ? "bg-[var(--primary-muted)] text-[var(--primary)]"
-                    : "text-foreground hover:bg-[var(--surface-elevated)]"
+                    ? "bg-[#22c55e] text-[#03130a]"
+                    : "text-foreground hover:bg-[#10251a]"
                 }`}
                 onMouseDown={(e) => e.preventDefault()}
                 onClick={() => pick(h.entity)}
               >
                 <span className="truncate font-semibold">{h.entity.name}</span>
-                <span className="shrink-0 font-mono text-[9px] uppercase tracking-wider text-[var(--foreground-muted)]">
+                <span className="shrink-0 font-mono text-[9px] uppercase tracking-wider text-[#facc15]">
                   {h.entity.kind}
                 </span>
               </button>

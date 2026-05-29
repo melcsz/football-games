@@ -11,6 +11,7 @@ export const games: Game[] = [
     image: "/api/placeholder/400/320?theme=tenable",
     accent: "#22C55E",
     tag: "LIVE",
+    description: "Find the top ten before the board catches you out.",
     sticker: <TenableSticker />,
   },
   {
@@ -19,6 +20,7 @@ export const games: Game[] = [
     image: "/api/placeholder/400/320?theme=secret",
     accent: "#F59E0B",
     tag: "NEW",
+    description: "Three clues, one hidden footballer.",
     sticker: <SecretPlayerSticker />,
   },
   {
@@ -27,6 +29,7 @@ export const games: Game[] = [
     image: "/api/placeholder/400/320?theme=career",
     accent: "#3B82F6",
     tag: "NEW",
+    description: "Trace the moves and name the player.",
     sticker: <CareerPathSticker />,
   },
   {
@@ -35,6 +38,7 @@ export const games: Game[] = [
     image: "/api/placeholder/400/320?theme=wordle",
     accent: "#FACC15",
     tag: "NEW",
+    description: "Wordle logic for football names.",
     sticker: <WordleSticker />,
   },
 ];

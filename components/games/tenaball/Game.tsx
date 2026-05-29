@@ -15,6 +15,7 @@ import { computeFinalScore } from "@/lib/core/score";
 import { getUtcDateString } from "@/lib/core/date";
 import {
   clearInProgress,
+  type InProgressState,
   loadStats,
   saveStats,
   updateStreakAfterDailyComplete,
@@ -24,7 +25,6 @@ import { ModePicker } from "@/components/games/tenaball/ModePicker";
 import { EntityPicker } from "@/components/games/tenaball/EntityPicker";
 import { AnswerList } from "@/components/games/tenaball/AnswerList";
 import { Timer } from "@/components/games/tenaball/Timer";
-import { ResultModal } from "@/components/games/tenaball/ResultModal";
 
 type Phase = "idle" | "ready" | "playing" | "done";
 
@@ -35,10 +35,7 @@ export type GameProps = {
 };
 
 const btnGhost =
-  "rounded-xl border border-[var(--border-subtle)] bg-[var(--surface)] px-4 py-2.5 text-sm font-semibold text-[var(--foreground-muted)] shadow-sm transition-transform duration-150 hover:scale-[1.02] hover:border-[var(--primary)]/25 hover:text-foreground active:scale-[0.99]";
-
-const btnPrimary =
-  "rounded-xl border border-[var(--primary)]/40 bg-[var(--primary)] px-4 py-2.5 text-sm font-black uppercase tracking-wide text-[var(--primary-foreground)] transition-transform duration-150 hover:scale-[1.02] active:scale-[0.99] btn-primary-glow";
+  "rounded-lg border border-[var(--border-subtle)] bg-[var(--surface)] px-3 py-2 text-xs font-semibold text-[var(--foreground-muted)] shadow-sm transition-transform duration-150 hover:scale-[1.02] hover:border-[var(--primary)]/25 hover:text-foreground active:scale-[0.99] sm:rounded-xl sm:px-4 sm:py-2.5 sm:text-sm";
 
 const btnStart =
   "w-full rounded-2xl border border-[var(--primary)]/35 bg-[var(--primary)] py-4 text-base font-black uppercase tracking-[0.2em] text-[var(--primary-foreground)] shadow-sm transition-transform duration-150 hover:scale-[1.01] active:scale-[0.99] btn-primary-glow sm:py-5 sm:text-lg";
@@ -50,9 +47,9 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
   const [wrongGuesses, setWrongGuesses] = useState<string[]>([]);
   const [toast, setToast] = useState<string | null>(null);
   const [deadlineMs, setDeadlineMs] = useState<number | null>(null);
-  const [showResult, setShowResult] = useState(false);
   const [pickerReset, setPickerReset] = useState(0);
 
+  const stageRef = useRef<HTMLDivElement>(null);
   const foundRef = useRef(foundRanks);
   const modeRef = useRef<PlayMode | null>(null);
 
@@ -80,7 +77,6 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
   const finishGame = useCallback(
     (ranks: number[]) => {
       setPhase("done");
-      setShowResult(true);
       setDeadlineMs(null);
 
       const m = modeRef.current;
@@ -120,10 +116,13 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
     if (!persistProgress || phase !== "playing" || !mode) return;
 
     const stats = loadStats();
-    const timeRemainingMs =
-      mode === "pressure" && deadlineMs
-        ? Math.max(0, deadlineMs - Date.now())
-        : undefined;
+    const isPressure = mode === "pressure" && deadlineMs;
+    const timeRemainingMs = isPressure
+      ? Math.max(0, deadlineMs - Date.now())
+      : undefined;
+    const deadlineAt = isPressure
+      ? new Date(deadlineMs).toISOString()
+      : undefined;
 
     const startedAt =
       stats.inProgress?.puzzleId === puzzle.id && stats.inProgress.startedAt
@@ -140,6 +139,7 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
         startedAt,
         utcDate: getUtcDateString(),
         timeRemainingMs,
+        deadlineAt,
       },
     });
   }, [
@@ -160,23 +160,15 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
     const today = getUtcDateString();
     if (ip.utcDate !== today) return;
 
+    modeRef.current = ip.mode;
     setMode(ip.mode);
     setFoundRanks(ip.foundRanks);
     setWrongGuesses(ip.wrongGuesses ?? []);
     setPhase("playing");
 
     if (ip.mode === "pressure") {
-      if (
-        ip.timeRemainingMs !== undefined &&
-        ip.timeRemainingMs > 0 &&
-        ip.startedAt
-      ) {
-        setDeadlineMs(Date.now() + ip.timeRemainingMs);
-      } else if (ip.startedAt) {
-        const elapsed = Date.now() - new Date(ip.startedAt).getTime();
-        const left = PRESSURE_SECONDS * 1000 - elapsed;
-        setDeadlineMs(Date.now() + Math.max(0, left));
-      }
+      const left = pressureTimeLeft(ip);
+      setDeadlineMs(Date.now() + left);
     }
   }, [persistProgress, puzzle.id]);
 
@@ -199,6 +191,9 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
     setPhase("playing");
     setToast(null);
     setPickerReset((k) => k + 1);
+    window.requestAnimationFrame(() => {
+      stageRef.current?.scrollIntoView({ block: "start", behavior: "auto" });
+    });
 
     const stats = loadStats();
     const startedAt = new Date().toISOString();
@@ -216,6 +211,7 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
             startedAt,
             utcDate: getUtcDateString(),
             timeRemainingMs: PRESSURE_SECONDS * 1000,
+            deadlineAt: new Date(dl).toISOString(),
           },
         });
       }
@@ -266,20 +262,42 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
   }
 
   const showMeta = phase === "done";
+  const isGameScreen = phase === "playing" || phase === "done";
   const modeLabel =
     mode === "pressure" ? "Ranked Mode" : mode === "chill" ? "Casual Mode" : null;
 
   return (
-    <div className="mx-auto w-full max-w-4xl space-y-6 px-4 py-8 sm:space-y-8 sm:py-10">
-      <header className="space-y-3 border-b border-[var(--border-subtle)] pb-6 sm:pb-8">
-        <p className="font-mono text-[10px] uppercase tracking-[0.45em] text-[var(--primary)]">
-          TenaBall · {puzzle.category} · #{puzzle.id}
+    <div
+      ref={stageRef}
+      className={`relative mx-auto w-full px-3 sm:px-4 ${
+        isGameScreen
+          ? "tenaball-play-surface max-w-4xl space-y-3 overflow-visible rounded-none border-0 py-0 sm:max-w-4xl sm:space-y-2.5 sm:px-0 lg:max-w-[68rem]"
+          : "tenaball-stage-bg max-w-4xl space-y-5 overflow-hidden rounded-2xl border border-white/5 py-6 sm:space-y-8 sm:py-10"
+      }`}
+    >
+      <header
+        className={`border-b border-[var(--border-subtle)] ${
+          isGameScreen
+            ? "space-y-1 pb-3 sm:pb-2"
+            : "space-y-2 pb-5 sm:space-y-3 sm:pb-8"
+        }`}
+      >
+        <p className="flex flex-wrap items-center gap-2 font-mono text-[9px] uppercase tracking-[0.2em] sm:text-[9px]">
+          <span className="rounded bg-[#22c55e] px-1.5 py-0.5 font-black text-[#03130a]">
+            TenaBall
+          </span>
+          <span className="text-[#facc15]">{puzzle.category}</span>
+          <span className="text-white/60">#{puzzle.id}</span>
         </p>
-        <h1 className="font-sans text-2xl font-black leading-[1.1] tracking-tight text-foreground sm:text-4xl sm:leading-[1.08]">
+        <h1
+          className={`font-sans font-black leading-[1.1] tracking-tight text-foreground ${
+            isGameScreen ? "text-lg sm:text-[1.35rem]" : "text-xl sm:text-4xl"
+          }`}
+        >
           {puzzle.question}
         </h1>
-        {puzzle.subtitle ? (
-          <p className="max-w-2xl text-sm leading-relaxed text-[var(--foreground-muted)]">
+        {puzzle.subtitle && !isGameScreen ? (
+          <p className="max-w-2xl text-xs leading-relaxed text-[var(--foreground-muted)] sm:text-sm">
             {puzzle.subtitle}
           </p>
         ) : null}
@@ -306,23 +324,13 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
 
       {phase === "playing" || phase === "done" ? (
         <>
-          {phase === "playing" && mode ? (
-            <div className="sticky top-14 z-30 -mx-4 border-b border-[var(--border-subtle)] bg-[var(--background)]/95 px-4 py-3 shadow-sm backdrop-blur-md sm:top-16">
-              <EntityPicker
-                puzzle={puzzle}
-                excludeIds={excludeEntityIds}
-                disabled={phase !== "playing"}
-                resetSignal={pickerReset}
-                onPick={onPickEntity}
-              />
+          {phase === "playing" && mode === "pressure" && deadlineMs ? (
+            <div className="ml-auto max-w-48">
+              <Timer deadlineMs={deadlineMs} onExpire={handleExpire} />
             </div>
           ) : null}
 
-          {phase === "playing" && mode === "pressure" && deadlineMs ? (
-            <Timer deadlineMs={deadlineMs} onExpire={handleExpire} />
-          ) : null}
-
-          <section aria-label="Top ten board">
+          <section aria-label="Top ten board" className="relative z-0">
             <AnswerList
               puzzle={puzzle}
               foundRanks={foundRanks}
@@ -331,28 +339,36 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
           </section>
 
           {phase === "playing" && mode ? (
-            <div className="flex flex-wrap items-center justify-between gap-4">
-              <button type="button" onClick={giveUp} className={btnGhost}>
-                End game &amp; show results
-              </button>
-              <p className="font-mono text-xs tabular-nums text-[var(--foreground-muted)]">
-                <span className="font-semibold text-[var(--primary)]">
-                  {foundRanks.length}
-                </span>
-                /10 found
-              </p>
-            </div>
+            <>
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <button type="button" onClick={giveUp} className={btnGhost}>
+                  Reveal answers
+                </button>
+                <p className="font-mono text-xs tabular-nums text-[var(--foreground-muted)]">
+                  <span className="font-semibold text-[var(--primary)]">
+                    {foundRanks.length}
+                  </span>
+                  /10 found
+                </p>
+              </div>
+              <div className="relative z-50 rounded-lg border border-white/10 bg-[#07111f]/92 p-2 shadow-sm backdrop-blur-md">
+                <EntityPicker
+                  puzzle={puzzle}
+                  excludeIds={excludeEntityIds}
+                  disabled={phase !== "playing"}
+                  resetSignal={pickerReset}
+                  onPick={onPickEntity}
+                />
+              </div>
+            </>
           ) : null}
         </>
       ) : null}
 
       {wrongGuesses.length > 0 && phase === "playing" ? (
-        <div className="rounded-2xl border border-[var(--border-subtle)] bg-[var(--surface)] p-4 shadow-sm">
-          <p className="font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--foreground-muted)]">
-            Misses
-          </p>
-          <p className="mt-1 text-sm text-[var(--foreground-muted)]">
-            {wrongGuesses.slice(-8).join(" · ")}
+        <div className="rounded-xl border border-[var(--border-subtle)] bg-[var(--surface)] px-3 py-2 shadow-sm">
+          <p className="truncate text-xs text-[var(--foreground-muted)]">
+            Misses: {wrongGuesses.slice(-5).join(" · ")}
           </p>
         </div>
       ) : null}
@@ -363,29 +379,26 @@ export function Game({ puzzle, persistProgress, isTodaysDaily }: GameProps) {
         </div>
       ) : null}
 
-      {phase === "done" && mode && showResult ? (
-        <ResultModal
-          puzzle={puzzle}
-          foundRanks={foundRanks}
-          mode={mode}
-          onClose={() => setShowResult(false)}
-        />
-      ) : null}
-
-      {phase === "done" && !showResult && mode ? (
-        <div className="rounded-2xl border border-[var(--border-subtle)] bg-[var(--surface)] p-6 text-center shadow-sm">
-          <p className="text-sm text-[var(--foreground-muted)]">
-            Results hidden — open the summary when you&apos;re ready.
-          </p>
-          <button
-            type="button"
-            onClick={() => setShowResult(true)}
-            className={`mt-4 ${btnPrimary}`}
-          >
-            Show results
-          </button>
+      {phase === "done" && mode ? (
+        <div className="rounded-xl border border-[var(--border-subtle)] bg-[var(--surface)] px-4 py-3 text-sm font-semibold text-[var(--foreground-muted)] shadow-sm">
+          Final score:{" "}
+          <span className="text-[var(--primary)]">
+            {computeFinalScore(foundRanks.length, mode)}
+          </span>
         </div>
       ) : null}
     </div>
   );
+}
+
+function pressureTimeLeft(ip: InProgressState): number {
+  if (ip.deadlineAt) {
+    return Math.max(0, new Date(ip.deadlineAt).getTime() - Date.now());
+  }
+  if (ip.startedAt) {
+    const duration = ip.timeRemainingMs ?? PRESSURE_SECONDS * 1000;
+    const deadline = new Date(ip.startedAt).getTime() + duration;
+    return Math.max(0, deadline - Date.now());
+  }
+  return ip.timeRemainingMs ?? PRESSURE_SECONDS * 1000;
 }
