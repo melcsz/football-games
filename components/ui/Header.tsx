@@ -10,23 +10,6 @@ export function Header() {
         >
           WE KNOW BALL
         </Link>
-
-        <div className="absolute right-4 top-1/2 flex -translate-y-1/2 items-center gap-2 text-[#94A3B8] sm:right-6">
-          <span
-            className="flex h-7 w-7 items-center justify-center rounded border border-white/10 text-[10px] font-black transition-colors hover:border-[#FACC15]/50 hover:text-[#FACC15]"
-            aria-label="X social placeholder"
-            role="img"
-          >
-            X
-          </span>
-          <span
-            className="flex h-7 w-7 items-center justify-center rounded border border-white/10 text-[10px] font-black transition-colors hover:border-[#FACC15]/50 hover:text-[#FACC15]"
-            aria-label="Instagram social placeholder"
-            role="img"
-          >
-            IG
-          </span>
-        </div>
       </div>
     </header>
   );

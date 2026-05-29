@@ -6,5 +6,7 @@ export type Game = {
   image: string;
   accent: string;
   tag: string;
+  playLabel: string;
+  description: string;
   sticker: ReactNode;
 };

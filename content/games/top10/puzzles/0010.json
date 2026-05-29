@@ -1,0 +1,64 @@
+{
+  "id": "0010",
+  "game": "top10",
+  "publishDate": "2026-05-14",
+  "category": "current",
+  "question": "Top 10 Bundesliga goalscorers (2025/26 season)",
+  "subtitle": "Through early May 2026 — illustrative snapshot for the MVP.",
+  "source": "Example editorial list — replace with live stats later.",
+  "validKinds": [
+    "player"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "pl_harry_kane",
+      "meta": "26 goals (example)"
+    },
+    {
+      "rank": 2,
+      "entityId": "pl_serhou_guirassy",
+      "meta": "20 goals (example)"
+    },
+    {
+      "rank": 3,
+      "entityId": "pl_jonathan_burkardt",
+      "meta": "17 goals (example)"
+    },
+    {
+      "rank": 4,
+      "entityId": "pl_victor_boniface",
+      "meta": "16 goals (example)"
+    },
+    {
+      "rank": 5,
+      "entityId": "pl_nick_woltemade",
+      "meta": "15 goals (example)"
+    },
+    {
+      "rank": 6,
+      "entityId": "pl_omar_marmoush",
+      "meta": "14 goals (example)"
+    },
+    {
+      "rank": 7,
+      "entityId": "pl_andre_silva",
+      "meta": "13 goals (example)"
+    },
+    {
+      "rank": 8,
+      "entityId": "pl_kevin_behrens",
+      "meta": "12 goals (example)"
+    },
+    {
+      "rank": 9,
+      "entityId": "pl_ermedin_demirovic",
+      "meta": "11 goals (example)"
+    },
+    {
+      "rank": 10,
+      "entityId": "pl_frank_magri",
+      "meta": "11 goals (example)"
+    }
+  ]
+}

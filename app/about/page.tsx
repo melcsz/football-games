@@ -6,7 +6,7 @@ export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl space-y-6 px-4 py-10 text-[var(--foreground-muted)]">
       <h1 className="font-display text-3xl font-black text-foreground">
-        WeKnowBall · TenaBall
+        WeKnowBall · Top 10
       </h1>
       <p className="text-lg font-medium leading-relaxed text-foreground/90">
         One daily top-ten board. Pick every answer from the pool — no spelling

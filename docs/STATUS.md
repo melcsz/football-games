@@ -14,14 +14,14 @@ Update this file whenever we change architecture, data contracts, or pipelines.
 ## App routes
 
 - `/`: landing page (game picker)
-- `/tenaball`: daily TenaBall
-- `/tenaball/[id]`: replay a specific board
-- `/tenaball/archive`: archive
+- `/top-10`: daily Top 10
+- `/top-10/[id]`: replay a specific board
+- `/top-10/archive`: archive
 - `/stats`: anonymous stats
 - `/about`: how to play
-- **Redirects**: `/archive` → `/tenaball/archive`, `/puzzle/:id` → `/tenaball/:id`
+- **Redirects**: `/archive` → `/top-10/archive`, `/puzzle/:id` → `/top-10/:id`
 
-## Game: TenaBall (today)
+## Game: Top 10 (today)
 
 - **Strict pick** UX: users choose an entity from autocomplete (no free-typing guesses).
 - **Puzzle answers** are `entityId`s (players/clubs/etc).
@@ -40,14 +40,14 @@ The canonical datasets live under `data/` and are validated at build time:
 
 ### Puzzles (`content/`)
 
-- `content/games/tenaball/puzzles/*.json`: each answer is `{ rank, entityId, meta? }`
-- `content/games/tenaball/registry.ts`: **permissive validation right now**\n+  - if an `entityId` exists in the dataset, we enforce it matches `validKinds`\n+  - if it does **not** exist yet, we do **not** fail the build (we’re iterating on datasets / puzzles later)
+- `content/games/top-10/puzzles/*.json`: each answer is `{ rank, entityId, meta? }`
+- `content/games/top-10/registry.ts`: **permissive validation right now**\n+  - if an `entityId` exists in the dataset, we enforce it matches `validKinds`\n+  - if it does **not** exist yet, we do **not** fail the build (we’re iterating on datasets / puzzles later)
 
 ## Persistence (localStorage)
 
 - Key: `weknowball:v1` (root storage v2)
-- Shape: `StoredRoot { version: 2, games: { tenaball: GameStats } }`
-- One-time migration from legacy key `ballknowledge-tenaball-v1`
+- Shape: `StoredRoot { version: 2, games: { top-10: GameStats } }`
+- One-time migration from legacy key `ballknowledge-top-10-v1`
 
 ## Player dataset strategy (current)
 

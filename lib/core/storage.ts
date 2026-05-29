@@ -1,10 +1,10 @@
 import type { PlayMode } from "@/lib/core/score";
 
 /** Cross-game storage v2 (extend `games` when adding new titles). */
-export type GameId = "tenaball";
+export type GameId = "top10";
 
 const STORAGE_KEY = "weknowball:v1";
-const LEGACY_KEY = "ballknowledge-tenaball-v1";
+const LEGACY_KEY = "ballknowledge-top10-v1";
 
 export type PuzzleCompletion = {
   score: number;
@@ -90,7 +90,7 @@ function migrateLegacyV1(raw: string): StoredRoot {
   const v = JSON.parse(raw) as LegacyV1;
   return {
     version: 2,
-    games: { tenaball: mergeGameStats(v) },
+    games: { top10: mergeGameStats(v) },
   };
 }
 
@@ -102,8 +102,8 @@ function parseRoot(raw: string | null): StoredRoot {
     const v = JSON.parse(raw) as StoredRoot & { version?: number };
     if (v.version === 2 && v.games && typeof v.games === "object") {
       const games: Partial<Record<GameId, GameStats>> = { ...v.games };
-      if (v.games.tenaball) {
-        games.tenaball = mergeGameStats(v.games.tenaball);
+      if (v.games.top10) {
+        games.top10 = mergeGameStats(v.games.top10);
       }
       return {
         version: 2,
@@ -156,12 +156,12 @@ export function saveGameStats(gameId: GameId, stats: GameStats): void {
 
 /** @deprecated prefer loadGameStats — kept for incremental refactor */
 export function loadStats(): GameStats {
-  return loadGameStats("tenaball");
+  return loadGameStats("top10");
 }
 
 /** @deprecated prefer saveGameStats */
 export function saveStats(stats: GameStats): void {
-  saveGameStats("tenaball", stats);
+  saveGameStats("top10", stats);
 }
 
 export function clearInProgress(stats: GameStats): GameStats {

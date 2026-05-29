@@ -1,0 +1,64 @@
+{
+  "id": "0005",
+  "game": "top10",
+  "publishDate": "2026-05-09",
+  "category": "legends",
+  "question": "Top 10 nations by FIFA World Cup tournament appearances",
+  "subtitle": "Number of times qualified for the finals. Ties broken alphabetically.",
+  "source": "Approximate entries through 2022.",
+  "validKinds": [
+    "country"
+  ],
+  "answers": [
+    {
+      "rank": 1,
+      "entityId": "co_brazil",
+      "meta": "22 tournaments"
+    },
+    {
+      "rank": 2,
+      "entityId": "co_germany",
+      "meta": "20 tournaments"
+    },
+    {
+      "rank": 3,
+      "entityId": "co_argentina",
+      "meta": "18 tournaments"
+    },
+    {
+      "rank": 4,
+      "entityId": "co_italy",
+      "meta": "18 tournaments"
+    },
+    {
+      "rank": 5,
+      "entityId": "co_mexico",
+      "meta": "17 tournaments"
+    },
+    {
+      "rank": 6,
+      "entityId": "co_england",
+      "meta": "16 tournaments"
+    },
+    {
+      "rank": 7,
+      "entityId": "co_france",
+      "meta": "16 tournaments"
+    },
+    {
+      "rank": 8,
+      "entityId": "co_spain",
+      "meta": "16 tournaments"
+    },
+    {
+      "rank": 9,
+      "entityId": "co_belgium",
+      "meta": "14 tournaments"
+    },
+    {
+      "rank": 10,
+      "entityId": "co_uruguay",
+      "meta": "14 tournaments"
+    }
+  ]
+}

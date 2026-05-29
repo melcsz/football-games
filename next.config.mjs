@@ -4,12 +4,12 @@ const nextConfig = {
     return [
       {
         source: "/archive",
-        destination: "/tenaball/archive",
+        destination: "/top-10/archive",
         permanent: true,
       },
       {
         source: "/puzzle/:id",
-        destination: "/tenaball/:id",
+        destination: "/top-10/:id",
         permanent: true,
       },
     ];

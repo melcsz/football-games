@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
 
 const themes: Record<string, { a: string; b: string; c: string }> = {
-  tenable: { a: "#064E3B", b: "#166534", c: "#22C55E" },
+  top10: { a: "#064E3B", b: "#166534", c: "#22C55E" },
   secret: { a: "#451A03", b: "#92400E", c: "#F59E0B" },
   career: { a: "#0F172A", b: "#1D4ED8", c: "#3B82F6" },
   wordle: { a: "#111827", b: "#334155", c: "#F8FAFC" },
@@ -13,8 +13,8 @@ export function GET(
 ) {
   const width = Math.max(1, Math.min(1200, Number(params.width) || 400));
   const height = Math.max(1, Math.min(1200, Number(params.height) || 320));
-  const theme = req.nextUrl.searchParams.get("theme") ?? "tenable";
-  const colors = themes[theme] ?? themes.tenable;
+  const theme = req.nextUrl.searchParams.get("theme") ?? "top10";
+  const colors = themes[theme] ?? themes.top10;
 
   const svg = `
     <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg">
